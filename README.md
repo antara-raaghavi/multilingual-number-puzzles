@@ -1,2 +1,2 @@
-# multilingual-number-puzzles
-Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles (EMNLP 2025 Main Conference)
+# Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles
+This repository contains code and data for the EMNLP 2025 paper "Investigating the interaction of linguistic and mathematical reasoning in language models using multilingual number puzzles" by Antara Raaghavi Bhattacharya, Isabel Papadimitriou, Kathryn Davidson, and David Alvarez-Melis. A preprint is available on [ArXiv](https://arxiv.org/abs/2506.13886). 
