@@ -318,7 +318,7 @@ def all_bases_test(random_flag):
             baseprompts[i].append(temp)
 
         else:             
-            # OLD CODE: just format the problems and add to template list.
+            # just format the problems and add to template list.
             ab, ac, db = numdict['ab'][0], numdict['ac'][0], numdict['db'][0]
             temp = f"""
                 A B = {ab}
@@ -353,7 +353,7 @@ def get_unfamiliar_ops(n_ops, op_type):
         mathy_symbols = ['α', 'β', 'γ', 'δ', 'ε', 'ζ', 'η', 'θ', 'ι', 'κ', 'λ', 'μ','ν', 'ξ', 'π', 'ρ', 'σ', 'τ', 'υ', 'φ', 'χ', 'ψ', 'ω']
         ops = random.sample(mathy_symbols, n_ops)
     
-    elif op_type == "unfamiliar_random": #CURRENTLY HTIS IS A SINGLE TOKEN 
+    elif op_type == "unfamiliar_random": 
         # type 2: unfamiliar and random
         ops = get_random_tokens_sampled(n_ops, max_tok_len=2)
 
@@ -452,6 +452,7 @@ def prompt_model_bases():
 
 def prompt_model_mathified(dataset, expt_type, sing_bool, n_iters):
     """
+    NOTE: would recommend using prompt_model_standardized() with the default prompt_temp, much cleaner. 
     Get the problems in the 4-operator-variations, prompt model, get response.
     Default dataset is "both". UKLO and IOL problems can also be queried separately by passing "uklo" or "iol".
     """
@@ -539,8 +540,8 @@ def prompt_model_mathified(dataset, expt_type, sing_bool, n_iters):
 
 def prompt_model_standardized(mprob, msol, expt_type, sing_bool, n_iters):
     """
-    Testing different variations of context. 
-    NOTE: pick your prompt out of implicit_prompt_temp, context_prompt_temp, base_prompt_temp, and (default) prompt_temp.
+    10 problems (UKLO + IOL), 5 iterations per problem. Default + different variations of context. 
+    NOTE: Pick prompt out of implicit_prompt_temp, context_prompt_temp, base_prompt_temp, and (default) prompt_temp.
     """
     prompts = [] 
     responses = {}
@@ -617,7 +618,7 @@ def prompt_model_standardized(mprob, msol, expt_type, sing_bool, n_iters):
                 actual_res = mathified_ans[i]
                 lang = prob_langs[i]
                 writer.writerow([model, response, actual_res, lang, prompt])
-                print(f"I am writing {lang} to a CSV!")
+                print(f"Writing {lang} to CSV!")
 
 
 
@@ -626,22 +627,12 @@ def prompt_model_standardized(mprob, msol, expt_type, sing_bool, n_iters):
 def main():
 
     """
-    NOTE: Set sing_bool = False for multi-token, True for single_token responses.
+    Set sing_bool = False for multi-token, True for single_token responses.
 
     """
 
 
-    # for i, expt in enumerate(["impl_random"]): #"impl_random", "expl_fam", "expl_unfam_m", "expl_unfam_r" / "expl_fam", "expl_unfam_m", 
-    #     print(f"\nExperiment {i+1} of 4\n")
-    #     prompt_model_mathified(dataset="both", 
-    #                             expt_type=expt,
-    #                             sing_bool=False,
-    #                             n_iters=1)
-    #     print(f"\nDone with experiment {i+1}!\n")
-
-
-
-    # STANDARDIZED PROMPTING
+   # STANDARDIZED PROMPTING
 
     mprob_explfam, mprob_expl_unfam_m, mprob_expl_unfam_r, mprob_impl, msol = mathify_standardized(sing_bool=False)
 
@@ -657,6 +648,18 @@ def main():
                                 sing_bool=False,
                                 n_iters=5)
         print(f"\nDone with experiment {i+1}!\n")
+
+# ----------------------------
+
+# You can also use the previous prompting function if you want to split UKLO / IOL problems.
+
+    # for i, expt in enumerate(["impl_random"]): #"impl_random", "expl_fam", "expl_unfam_m", "expl_unfam_r" / "expl_fam", "expl_unfam_m", 
+    #     print(f"\nExperiment {i+1} of 4\n")
+    #     prompt_model_mathified(dataset="both", 
+    #                             expt_type=expt,
+    #                             sing_bool=False,
+    #                             n_iters=1)
+    #     print(f"\nDone with experiment {i+1}!\n")
 
 
     
