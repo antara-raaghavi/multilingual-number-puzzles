@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,308,3,waorani,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (epauez epauez epauez epauez) + (epauez go epauez) = (umbot go rasin) x 2
+    rasin ^ 2 + epauez ^ 2 = umbot
+    (umbot go rasin) ^ 2 = (epauez go epauez) x (umbot epauez go epauez)
+    epauez x umbot = quemai
+    
+
+    epauez go rasin = ?? "
+o1-mini,56,3,waorani,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (epauez epauez epauez epauez) + (epauez go epauez) = (umbot go rasin) x 2
+    rasin ^ 2 + epauez ^ 2 = umbot
+    (umbot go rasin) ^ 2 = (epauez go epauez) x (umbot epauez go epauez)
+    epauez x umbot = quemai
+    
+
+    epauez go rasin = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (epauez epauez epauez epauez) + (epauez go epauez) = (umbot go rasin) x 2
+    rasin ^ 2 + epauez ^ 2 = umbot
+    (umbot go rasin) ^ 2 = (epauez go epauez) x (umbot epauez go epauez)
+    epauez x umbot = quemai
+    
+
+    epauez go rasin = ?? "
+o1-mini,4,3,waorani,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (epauez epauez epauez epauez) + (epauez go epauez) = (umbot go rasin) x 2
+    rasin ^ 2 + epauez ^ 2 = umbot
+    (umbot go rasin) ^ 2 = (epauez go epauez) x (umbot epauez go epauez)
+    epauez x umbot = quemai
+    
+
+    epauez go rasin = ?? "
+o1-mini,308,3,waorani,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (epauez epauez epauez epauez) + (epauez go epauez) = (umbot go rasin) x 2
+    rasin ^ 2 + epauez ^ 2 = umbot
+    (umbot go rasin) ^ 2 = (epauez go epauez) x (umbot epauez go epauez)
+    epauez x umbot = quemai
+    
+
+    epauez go rasin = ?? "
+o1-mini,500,17,gumatj,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    apsyes divenc ga ifutos + ifutos divenc ga ifutos = moyar divenc ga hulisy
+    apsyes + apsyes divenc ga apsyes = moyar divenc ga ifutos
+    ifutos divenc ga hulisy + ifutos = ifutos divenc ga apsyes
+    apsyes × moyar = hulisy divenc ga hulisy
+    ifutos divenc ga apsyes + hulisy divenc ga apsyes = moyar divenc ga ifutos 
+    
+    apsyes divenc ga hulisy = ?? "
+o1-mini,121,17,gumatj,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    apsyes divenc ga ifutos + ifutos divenc ga ifutos = moyar divenc ga hulisy
+    apsyes + apsyes divenc ga apsyes = moyar divenc ga ifutos
+    ifutos divenc ga hulisy + ifutos = ifutos divenc ga apsyes
+    apsyes × moyar = hulisy divenc ga hulisy
+    ifutos divenc ga apsyes + hulisy divenc ga apsyes = moyar divenc ga ifutos 
+    
+    apsyes divenc ga hulisy = ?? "
+o1-mini,500,17,gumatj,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    apsyes divenc ga ifutos + ifutos divenc ga ifutos = moyar divenc ga hulisy
+    apsyes + apsyes divenc ga apsyes = moyar divenc ga ifutos
+    ifutos divenc ga hulisy + ifutos = ifutos divenc ga apsyes
+    apsyes × moyar = hulisy divenc ga hulisy
+    ifutos divenc ga apsyes + hulisy divenc ga apsyes = moyar divenc ga ifutos 
+    
+    apsyes divenc ga hulisy = ?? "
+o1-mini,121,17,gumatj,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    apsyes divenc ga ifutos + ifutos divenc ga ifutos = moyar divenc ga hulisy
+    apsyes + apsyes divenc ga apsyes = moyar divenc ga ifutos
+    ifutos divenc ga hulisy + ifutos = ifutos divenc ga apsyes
+    apsyes × moyar = hulisy divenc ga hulisy
+    ifutos divenc ga apsyes + hulisy divenc ga apsyes = moyar divenc ga ifutos 
+    
+    apsyes divenc ga hulisy = ?? "
+o1-mini,2,17,gumatj,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    apsyes divenc ga ifutos + ifutos divenc ga ifutos = moyar divenc ga hulisy
+    apsyes + apsyes divenc ga apsyes = moyar divenc ga ifutos
+    ifutos divenc ga hulisy + ifutos = ifutos divenc ga apsyes
+    apsyes × moyar = hulisy divenc ga hulisy
+    ifutos divenc ga apsyes + hulisy divenc ga apsyes = moyar divenc ga ifutos 
+    
+    apsyes divenc ga hulisy = ?? "
+o1-mini,8,175,ngkolmpu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    essres cuuk giswo wartro essres pestap essres = 1000
+    essres pestap giswo = 27
+    didunt = 1
+    didunt wartro essres pestap essres = 64
+    didunt cuuk giswo wartro giswo pestap didunt = 343
+    didunt pestap nyaah = 8
+    cuuk = 216
+    nyaah cuuk nyaah wartro didunt pestap nyaah = 512
+    giswo wartro nyaah pestap ontiro = 125
+    giswo cuuk nyaah wartro didunt pestap giswo = 729 
+    
+    essres wartro ontiro pestap didunt = ??  "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    essres cuuk giswo wartro essres pestap essres = 1000
+    essres pestap giswo = 27
+    didunt = 1
+    didunt wartro essres pestap essres = 64
+    didunt cuuk giswo wartro giswo pestap didunt = 343
+    didunt pestap nyaah = 8
+    cuuk = 216
+    nyaah cuuk nyaah wartro didunt pestap nyaah = 512
+    giswo wartro nyaah pestap ontiro = 125
+    giswo cuuk nyaah wartro didunt pestap giswo = 729 
+    
+    essres wartro ontiro pestap didunt = ??  "
+o1-mini,729,175,ngkolmpu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    essres cuuk giswo wartro essres pestap essres = 1000
+    essres pestap giswo = 27
+    didunt = 1
+    didunt wartro essres pestap essres = 64
+    didunt cuuk giswo wartro giswo pestap didunt = 343
+    didunt pestap nyaah = 8
+    cuuk = 216
+    nyaah cuuk nyaah wartro didunt pestap nyaah = 512
+    giswo wartro nyaah pestap ontiro = 125
+    giswo cuuk nyaah wartro didunt pestap giswo = 729 
+    
+    essres wartro ontiro pestap didunt = ??  "
+o1-mini,512,175,ngkolmpu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    essres cuuk giswo wartro essres pestap essres = 1000
+    essres pestap giswo = 27
+    didunt = 1
+    didunt wartro essres pestap essres = 64
+    didunt cuuk giswo wartro giswo pestap didunt = 343
+    didunt pestap nyaah = 8
+    cuuk = 216
+    nyaah cuuk nyaah wartro didunt pestap nyaah = 512
+    giswo wartro nyaah pestap ontiro = 125
+    giswo cuuk nyaah wartro didunt pestap giswo = 729 
+    
+    essres wartro ontiro pestap didunt = ??  "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    essres cuuk giswo wartro essres pestap essres = 1000
+    essres pestap giswo = 27
+    didunt = 1
+    didunt wartro essres pestap essres = 64
+    didunt cuuk giswo wartro giswo pestap didunt = 343
+    didunt pestap nyaah = 8
+    cuuk = 216
+    nyaah cuuk nyaah wartro didunt pestap nyaah = 512
+    giswo wartro nyaah pestap ontiro = 125
+    giswo cuuk nyaah wartro didunt pestap giswo = 729 
+    
+    essres wartro ontiro pestap didunt = ??  "
+o1-mini,162,57,yoruba,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    atrref = 2 
+    oured atrref dil sielep = 36
+    sielep = 4
+    oured atrref d sielep = 44
+    oured sielep dil liaonz = 77
+    oured dil atrref = 18
+    oured sielep d liaonz = 83
+
+    oured liaonz dil liaonz = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    atrref = 2 
+    oured atrref dil sielep = 36
+    sielep = 4
+    oured atrref d sielep = 44
+    oured sielep dil liaonz = 77
+    oured dil atrref = 18
+    oured sielep d liaonz = 83
+
+    oured liaonz dil liaonz = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    atrref = 2 
+    oured atrref dil sielep = 36
+    sielep = 4
+    oured atrref d sielep = 44
+    oured sielep dil liaonz = 77
+    oured dil atrref = 18
+    oured sielep d liaonz = 83
+
+    oured liaonz dil liaonz = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    atrref = 2 
+    oured atrref dil sielep = 36
+    sielep = 4
+    oured atrref d sielep = 44
+    oured sielep dil liaonz = 77
+    oured dil atrref = 18
+    oured sielep d liaonz = 83
+
+    oured liaonz dil liaonz = ??
+
+     "
+o1-mini,108,57,yoruba,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    atrref = 2 
+    oured atrref dil sielep = 36
+    sielep = 4
+    oured atrref d sielep = 44
+    oured sielep dil liaonz = 77
+    oured dil atrref = 18
+    oured sielep d liaonz = 83
+
+    oured liaonz dil liaonz = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ladif da camrem uveip = 36
+    ilipe t ladif da jacvia = 49
+    jacvia = 9
+    abugne t ladif da revkun = 81
+    sigrod t ladif da abugne = 64
+    ladif da emsmin = 25
+    camrem uveip = 16
+    abugne = 4 
+    revkun = 1
+
+    emsmin t ladif da sigrod = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ladif da camrem uveip = 36
+    ilipe t ladif da jacvia = 49
+    jacvia = 9
+    abugne t ladif da revkun = 81
+    sigrod t ladif da abugne = 64
+    ladif da emsmin = 25
+    camrem uveip = 16
+    abugne = 4 
+    revkun = 1
+
+    emsmin t ladif da sigrod = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ladif da camrem uveip = 36
+    ilipe t ladif da jacvia = 49
+    jacvia = 9
+    abugne t ladif da revkun = 81
+    sigrod t ladif da abugne = 64
+    ladif da emsmin = 25
+    camrem uveip = 16
+    abugne = 4 
+    revkun = 1
+
+    emsmin t ladif da sigrod = ??
+     "
+o1-mini,36,103,georgian,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ladif da camrem uveip = 36
+    ilipe t ladif da jacvia = 49
+    jacvia = 9
+    abugne t ladif da revkun = 81
+    sigrod t ladif da abugne = 64
+    ladif da emsmin = 25
+    camrem uveip = 16
+    abugne = 4 
+    revkun = 1
+
+    emsmin t ladif da sigrod = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ladif da camrem uveip = 36
+    ilipe t ladif da jacvia = 49
+    jacvia = 9
+    abugne t ladif da revkun = 81
+    sigrod t ladif da abugne = 64
+    ladif da emsmin = 25
+    camrem uveip = 16
+    abugne = 4 
+    revkun = 1
+
+    emsmin t ladif da sigrod = ??
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ourus oppuda ourus = 9 
+    ourus oppuda ideuck = 13
+    iyeune oppuda ourus = 17
+    iyeune oppuda payson = 20
+    foribu oppuda iyeune = 26
+    foribu oppuda ukche = 30
+    payson oppuda foribu = 35
+
+    foribu oppuda ideuck = ?? 
+
+     "
+o1-mini,24,29,northern-pame,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ourus oppuda ourus = 9 
+    ourus oppuda ideuck = 13
+    iyeune oppuda ourus = 17
+    iyeune oppuda payson = 20
+    foribu oppuda iyeune = 26
+    foribu oppuda ukche = 30
+    payson oppuda foribu = 35
+
+    foribu oppuda ideuck = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ourus oppuda ourus = 9 
+    ourus oppuda ideuck = 13
+    iyeune oppuda ourus = 17
+    iyeune oppuda payson = 20
+    foribu oppuda iyeune = 26
+    foribu oppuda ukche = 30
+    payson oppuda foribu = 35
+
+    foribu oppuda ideuck = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ourus oppuda ourus = 9 
+    ourus oppuda ideuck = 13
+    iyeune oppuda ourus = 17
+    iyeune oppuda payson = 20
+    foribu oppuda iyeune = 26
+    foribu oppuda ukche = 30
+    payson oppuda foribu = 35
+
+    foribu oppuda ideuck = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ourus oppuda ourus = 9 
+    ourus oppuda ideuck = 13
+    iyeune oppuda ourus = 17
+    iyeune oppuda payson = 20
+    foribu oppuda iyeune = 26
+    foribu oppuda ukche = 30
+    payson oppuda foribu = 35
+
+    foribu oppuda ideuck = ?? 
+
+     "
+o1-mini,618,451,yup'ik,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ounikt t visieg astajo visieg astajo = 294 
+    ounikt t ounikt astajo visieg uidolj = 492 
+    ounikt t uvoloc uidolj uvoloc uidolj = 357 
+    ounikt t ounikt t uidolj uvoloc iasek = 816
+    ounikt t ounikt iasek uvoloc kecu = 438
+    ounikt t visieg kecu uvoloc iasek = 276 
+
+    ounikt t ounikt uidolj visieg iasek = ?? 
+     "
+o1-mini,416,451,yup'ik,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ounikt t visieg astajo visieg astajo = 294 
+    ounikt t ounikt astajo visieg uidolj = 492 
+    ounikt t uvoloc uidolj uvoloc uidolj = 357 
+    ounikt t ounikt t uidolj uvoloc iasek = 816
+    ounikt t ounikt iasek uvoloc kecu = 438
+    ounikt t visieg kecu uvoloc iasek = 276 
+
+    ounikt t ounikt uidolj visieg iasek = ?? 
+     "
+o1-mini,396,451,yup'ik,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ounikt t visieg astajo visieg astajo = 294 
+    ounikt t ounikt astajo visieg uidolj = 492 
+    ounikt t uvoloc uidolj uvoloc uidolj = 357 
+    ounikt t ounikt t uidolj uvoloc iasek = 816
+    ounikt t ounikt iasek uvoloc kecu = 438
+    ounikt t visieg kecu uvoloc iasek = 276 
+
+    ounikt t ounikt uidolj visieg iasek = ?? 
+     "
+o1-mini,375,451,yup'ik,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ounikt t visieg astajo visieg astajo = 294 
+    ounikt t ounikt astajo visieg uidolj = 492 
+    ounikt t uvoloc uidolj uvoloc uidolj = 357 
+    ounikt t ounikt t uidolj uvoloc iasek = 816
+    ounikt t ounikt iasek uvoloc kecu = 438
+    ounikt t visieg kecu uvoloc iasek = 276 
+
+    ounikt t ounikt uidolj visieg iasek = ?? 
+     "
+o1-mini,654,451,yup'ik,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ounikt t visieg astajo visieg astajo = 294 
+    ounikt t ounikt astajo visieg uidolj = 492 
+    ounikt t uvoloc uidolj uvoloc uidolj = 357 
+    ounikt t ounikt t uidolj uvoloc iasek = 816
+    ounikt t ounikt iasek uvoloc kecu = 438
+    ounikt t visieg kecu uvoloc iasek = 276 
+
+    ounikt t ounikt uidolj visieg iasek = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    vedhog rexmid nge vedhog iadik = 31
+    vedhog rexmid nge vedhog utcmai = 26
+    vedhog rexmid nge vedhog pedasz = 36
+    pubyou rexmid nge pubyou utcmai = 89
+    rimand rexmid nge rimand iadik = 73
+    rimand rexmid nge rimand rombeh = 75
+    rimand rexmid nge rimand pedasz = 78
+    eyiwor rexmid nge eyiwor = 42
+    eyiwor rexmid nge eyiwor iadik = 52
+    eyiwor rexmid nge eyiwor rombeh = 50
+
+    pubyou rexmid nge pubyou iadik = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    vedhog rexmid nge vedhog iadik = 31
+    vedhog rexmid nge vedhog utcmai = 26
+    vedhog rexmid nge vedhog pedasz = 36
+    pubyou rexmid nge pubyou utcmai = 89
+    rimand rexmid nge rimand iadik = 73
+    rimand rexmid nge rimand rombeh = 75
+    rimand rexmid nge rimand pedasz = 78
+    eyiwor rexmid nge eyiwor = 42
+    eyiwor rexmid nge eyiwor iadik = 52
+    eyiwor rexmid nge eyiwor rombeh = 50
+
+    pubyou rexmid nge pubyou iadik = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    vedhog rexmid nge vedhog iadik = 31
+    vedhog rexmid nge vedhog utcmai = 26
+    vedhog rexmid nge vedhog pedasz = 36
+    pubyou rexmid nge pubyou utcmai = 89
+    rimand rexmid nge rimand iadik = 73
+    rimand rexmid nge rimand rombeh = 75
+    rimand rexmid nge rimand pedasz = 78
+    eyiwor rexmid nge eyiwor = 42
+    eyiwor rexmid nge eyiwor iadik = 52
+    eyiwor rexmid nge eyiwor rombeh = 50
+
+    pubyou rexmid nge pubyou iadik = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    vedhog rexmid nge vedhog iadik = 31
+    vedhog rexmid nge vedhog utcmai = 26
+    vedhog rexmid nge vedhog pedasz = 36
+    pubyou rexmid nge pubyou utcmai = 89
+    rimand rexmid nge rimand iadik = 73
+    rimand rexmid nge rimand rombeh = 75
+    rimand rexmid nge rimand pedasz = 78
+    eyiwor rexmid nge eyiwor = 42
+    eyiwor rexmid nge eyiwor iadik = 52
+    eyiwor rexmid nge eyiwor rombeh = 50
+
+    pubyou rexmid nge pubyou iadik = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    vedhog rexmid nge vedhog iadik = 31
+    vedhog rexmid nge vedhog utcmai = 26
+    vedhog rexmid nge vedhog pedasz = 36
+    pubyou rexmid nge pubyou utcmai = 89
+    rimand rexmid nge rimand iadik = 73
+    rimand rexmid nge rimand rombeh = 75
+    rimand rexmid nge rimand pedasz = 78
+    eyiwor rexmid nge eyiwor = 42
+    eyiwor rexmid nge eyiwor iadik = 52
+    eyiwor rexmid nge eyiwor rombeh = 50
+
+    pubyou rexmid nge pubyou iadik = ??
+     "
+o1-mini,2916,111,ndom,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ceviev orgbin dapual excho = 16
+    agiw orgbin dapual ceviev dapual forbes = 81
+    agiw dapual ceviev orgbin dapual aumega = 49
+    agiw dapual leeerr dapual ceviev dapual excho = 64
+    agiw orgbin dapual leeerr dapual ceviev dapual excho = 100
+    leeerr dapual ceviev dapual aumega = 25
+    ceviev dapual forbes = 9
+    excho = 4
+    aumega = 1
+    agiw = 36
+
+    agiw forbes dapual forbes = ?? 
+     "
+o1-mini,46,111,ndom,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ceviev orgbin dapual excho = 16
+    agiw orgbin dapual ceviev dapual forbes = 81
+    agiw dapual ceviev orgbin dapual aumega = 49
+    agiw dapual leeerr dapual ceviev dapual excho = 64
+    agiw orgbin dapual leeerr dapual ceviev dapual excho = 100
+    leeerr dapual ceviev dapual aumega = 25
+    ceviev dapual forbes = 9
+    excho = 4
+    aumega = 1
+    agiw = 36
+
+    agiw forbes dapual forbes = ?? 
+     "
+o1-mini,144,111,ndom,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ceviev orgbin dapual excho = 16
+    agiw orgbin dapual ceviev dapual forbes = 81
+    agiw dapual ceviev orgbin dapual aumega = 49
+    agiw dapual leeerr dapual ceviev dapual excho = 64
+    agiw orgbin dapual leeerr dapual ceviev dapual excho = 100
+    leeerr dapual ceviev dapual aumega = 25
+    ceviev dapual forbes = 9
+    excho = 4
+    aumega = 1
+    agiw = 36
+
+    agiw forbes dapual forbes = ?? 
+     "
+o1-mini,100,111,ndom,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ceviev orgbin dapual excho = 16
+    agiw orgbin dapual ceviev dapual forbes = 81
+    agiw dapual ceviev orgbin dapual aumega = 49
+    agiw dapual leeerr dapual ceviev dapual excho = 64
+    agiw orgbin dapual leeerr dapual ceviev dapual excho = 100
+    leeerr dapual ceviev dapual aumega = 25
+    ceviev dapual forbes = 9
+    excho = 4
+    aumega = 1
+    agiw = 36
+
+    agiw forbes dapual forbes = ?? 
+     "
+o1-mini,54,111,ndom,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ceviev orgbin dapual excho = 16
+    agiw orgbin dapual ceviev dapual forbes = 81
+    agiw dapual ceviev orgbin dapual aumega = 49
+    agiw dapual leeerr dapual ceviev dapual excho = 64
+    agiw orgbin dapual leeerr dapual ceviev dapual excho = 100
+    leeerr dapual ceviev dapual aumega = 25
+    ceviev dapual forbes = 9
+    excho = 4
+    aumega = 1
+    agiw = 36
+
+    agiw forbes dapual forbes = ?? 
+     "
+o1-mini,64,86,umbu-ungu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    wadap nga batoun = 10 
+    maaimo nga ospauw = 15
+    equjar = 20
+    aphux nga jnekey = 21
+    upunei nga ospauw = 27
+    ipsorl nga batoun = 30
+    aphux wadap nga ospauw = 35
+    aphux maaimo = 40
+    aphux batoun = 48
+    aphux upunei nga batoun = 50
+    aphux batoun aphux nga jnekey = 69
+    aphux batoun ipsorl nga ospauw = 79
+    aphux ospauw upunei nga jnekey = 97
+
+    jnekey < ospauw
+
+    aphux ospauw maaimo nga batoun = ??
+
+     "
+o1-mini,89,86,umbu-ungu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    wadap nga batoun = 10 
+    maaimo nga ospauw = 15
+    equjar = 20
+    aphux nga jnekey = 21
+    upunei nga ospauw = 27
+    ipsorl nga batoun = 30
+    aphux wadap nga ospauw = 35
+    aphux maaimo = 40
+    aphux batoun = 48
+    aphux upunei nga batoun = 50
+    aphux batoun aphux nga jnekey = 69
+    aphux batoun ipsorl nga ospauw = 79
+    aphux ospauw upunei nga jnekey = 97
+
+    jnekey < ospauw
+
+    aphux ospauw maaimo nga batoun = ??
+
+     "
+o1-mini,91,86,umbu-ungu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    wadap nga batoun = 10 
+    maaimo nga ospauw = 15
+    equjar = 20
+    aphux nga jnekey = 21
+    upunei nga ospauw = 27
+    ipsorl nga batoun = 30
+    aphux wadap nga ospauw = 35
+    aphux maaimo = 40
+    aphux batoun = 48
+    aphux upunei nga batoun = 50
+    aphux batoun aphux nga jnekey = 69
+    aphux batoun ipsorl nga ospauw = 79
+    aphux ospauw upunei nga jnekey = 97
+
+    jnekey < ospauw
+
+    aphux ospauw maaimo nga batoun = ??
+
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    wadap nga batoun = 10 
+    maaimo nga ospauw = 15
+    equjar = 20
+    aphux nga jnekey = 21
+    upunei nga ospauw = 27
+    ipsorl nga batoun = 30
+    aphux wadap nga ospauw = 35
+    aphux maaimo = 40
+    aphux batoun = 48
+    aphux upunei nga batoun = 50
+    aphux batoun aphux nga jnekey = 69
+    aphux batoun ipsorl nga ospauw = 79
+    aphux ospauw upunei nga jnekey = 97
+
+    jnekey < ospauw
+
+    aphux ospauw maaimo nga batoun = ??
+
+     "
+o1-mini,91,86,umbu-ungu,"Here is a puzzle based on numbers in a language. In this language, numbers may be constructed using operations that are implicit - for example, in the number twenty-nine (20 + 9) contains an implicit addition, and the number five hundred (5 * 100) contains an implicit multiplication operation. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    wadap nga batoun = 10 
+    maaimo nga ospauw = 15
+    equjar = 20
+    aphux nga jnekey = 21
+    upunei nga ospauw = 27
+    ipsorl nga batoun = 30
+    aphux wadap nga ospauw = 35
+    aphux maaimo = 40
+    aphux batoun = 48
+    aphux upunei nga batoun = 50
+    aphux batoun aphux nga jnekey = 69
+    aphux batoun ipsorl nga ospauw = 79
+    aphux ospauw upunei nga jnekey = 97
+
+    jnekey < ospauw
+
+    aphux ospauw maaimo nga batoun = ??
+
+     "

@@ -1,0 +1,791 @@
+Model,Response,Correct Response,Language,Prompt
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c + c + c + c + c + c = (x + o) x 2
+    o ^ 2 + c ^ 2 = x
+    (x + o) ^ 2 = (c + c) x (x + c + c)
+    c x x = m
+
+    c + o = ??
+     "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c + c + c + c + c + c = (x + o) x 2
+    o ^ 2 + c ^ 2 = x
+    (x + o) ^ 2 = (c + c) x (x + c + c)
+    c x x = m
+
+    c + o = ??
+     "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c + c + c + c + c + c = (x + o) x 2
+    o ^ 2 + c ^ 2 = x
+    (x + o) ^ 2 = (c + c) x (x + c + c)
+    c x x = m
+
+    c + o = ??
+     "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c + c + c + c + c + c = (x + o) x 2
+    o ^ 2 + c ^ 2 = x
+    (x + o) ^ 2 = (c + c) x (x + c + c)
+    c x x = m
+
+    c + o = ??
+     "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c + c + c + c + c + c = (x + o) x 2
+    o ^ 2 + c ^ 2 = x
+    (x + o) ^ 2 = (c + c) x (x + c + c)
+    c x x = m
+
+    c + o = ??
+     "
+qwen-2-7b-vl-instruct,10,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s * z + v) + (v * z + v) = g * z + i
+    s + (s * z + s) = g * z + v
+    (v * z + i) + v = v * z + s
+    s * g = i * z + i
+    (v * z + s) + (i * z + s) = g * z + v 
+    
+
+    s * z + i = ?? "
+qwen-2-7b-vl-instruct,10,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s * z + v) + (v * z + v) = g * z + i
+    s + (s * z + s) = g * z + v
+    (v * z + i) + v = v * z + s
+    s * g = i * z + i
+    (v * z + s) + (i * z + s) = g * z + v 
+    
+
+    s * z + i = ?? "
+qwen-2-7b-vl-instruct,10,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s * z + v) + (v * z + v) = g * z + i
+    s + (s * z + s) = g * z + v
+    (v * z + i) + v = v * z + s
+    s * g = i * z + i
+    (v * z + s) + (i * z + s) = g * z + v 
+    
+
+    s * z + i = ?? "
+qwen-2-7b-vl-instruct,10,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s * z + v) + (v * z + v) = g * z + i
+    s + (s * z + s) = g * z + v
+    (v * z + i) + v = v * z + s
+    s * g = i * z + i
+    (v * z + s) + (i * z + s) = g * z + v 
+    
+
+    s * z + i = ?? "
+qwen-2-7b-vl-instruct,10,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s * z + v) + (v * z + v) = g * z + i
+    s + (s * z + s) = g * z + v
+    (v * z + i) + v = v * z + s
+    s * g = i * z + i
+    (v * z + s) + (i * z + s) = g * z + v 
+    
+
+    s * z + i = ?? "
+qwen-2-7b-vl-instruct,1,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * j + y * x + z * u + z = 1000
+    z * u + y = 27
+    f = 1
+    f * x + z * u + z = 64
+    f * j + y * x + y * u + f = 343
+    f * u + b = 8
+    j = 216
+    b * j + b * x + f * u + b = 512
+    y * x + b * u + o = 125
+    y * j + b * x + f * u + y = 729 
+    
+    z * x + o * u + f = ??  "
+qwen-2-7b-vl-instruct,1,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * j + y * x + z * u + z = 1000
+    z * u + y = 27
+    f = 1
+    f * x + z * u + z = 64
+    f * j + y * x + y * u + f = 343
+    f * u + b = 8
+    j = 216
+    b * j + b * x + f * u + b = 512
+    y * x + b * u + o = 125
+    y * j + b * x + f * u + y = 729 
+    
+    z * x + o * u + f = ??  "
+qwen-2-7b-vl-instruct,1,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * j + y * x + z * u + z = 1000
+    z * u + y = 27
+    f = 1
+    f * x + z * u + z = 64
+    f * j + y * x + y * u + f = 343
+    f * u + b = 8
+    j = 216
+    b * j + b * x + f * u + b = 512
+    y * x + b * u + o = 125
+    y * j + b * x + f * u + y = 729 
+    
+    z * x + o * u + f = ??  "
+qwen-2-7b-vl-instruct,1,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * j + y * x + z * u + z = 1000
+    z * u + y = 27
+    f = 1
+    f * x + z * u + z = 64
+    f * j + y * x + y * u + f = 343
+    f * u + b = 8
+    j = 216
+    b * j + b * x + f * u + b = 512
+    y * x + b * u + o = 125
+    y * j + b * x + f * u + y = 729 
+    
+    z * x + o * u + f = ??  "
+qwen-2-7b-vl-instruct,1,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * j + y * x + z * u + z = 1000
+    z * u + y = 27
+    f = 1
+    f * x + z * u + z = 64
+    f * j + y * x + y * u + f = 343
+    f * u + b = 8
+    j = 216
+    b * j + b * x + f * u + b = 512
+    y * x + b * u + o = 125
+    y * j + b * x + f * u + y = 729 
+    
+    z * x + o * u + f = ??  "
+qwen-2-7b-vl-instruct,50,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o * d - q = 36
+    q = 4
+    o * d + q = 44
+    o * q - f = 77
+    o - d = 18
+    o * q + f = 83
+
+    o * f - f = ??
+
+     "
+qwen-2-7b-vl-instruct,50,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o * d - q = 36
+    q = 4
+    o * d + q = 44
+    o * q - f = 77
+    o - d = 18
+    o * q + f = 83
+
+    o * f - f = ??
+
+     "
+qwen-2-7b-vl-instruct,50,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o * d - q = 36
+    q = 4
+    o * d + q = 44
+    o * q - f = 77
+    o - d = 18
+    o * q + f = 83
+
+    o * f - f = ??
+
+     "
+qwen-2-7b-vl-instruct,50,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o * d - q = 36
+    q = 4
+    o * d + q = 44
+    o * q - f = 77
+    o - d = 18
+    o * q + f = 83
+
+    o * f - f = ??
+
+     "
+qwen-2-7b-vl-instruct,50,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o * d - q = 36
+    q = 4
+    o * d + q = 44
+    o * q - f = 77
+    o - d = 18
+    o * q + f = 83
+
+    o * f - f = ??
+
+     "
+qwen-2-7b-vl-instruct,70,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l + c + n = 36
+    q * l + t = 49
+    t = 9
+    s * l + v = 81
+    d * l + s = 64
+    l + k = 25
+    c + n = 16
+    s = 4 
+    v = 1
+
+    k * l + d = ??
+     "
+qwen-2-7b-vl-instruct,70,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l + c + n = 36
+    q * l + t = 49
+    t = 9
+    s * l + v = 81
+    d * l + s = 64
+    l + k = 25
+    c + n = 16
+    s = 4 
+    v = 1
+
+    k * l + d = ??
+     "
+qwen-2-7b-vl-instruct,70,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l + c + n = 36
+    q * l + t = 49
+    t = 9
+    s * l + v = 81
+    d * l + s = 64
+    l + k = 25
+    c + n = 16
+    s = 4 
+    v = 1
+
+    k * l + d = ??
+     "
+qwen-2-7b-vl-instruct,70,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l + c + n = 36
+    q * l + t = 49
+    t = 9
+    s * l + v = 81
+    d * l + s = 64
+    l + k = 25
+    c + n = 16
+    s = 4 
+    v = 1
+
+    k * l + d = ??
+     "
+qwen-2-7b-vl-instruct,70,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l + c + n = 36
+    q * l + t = 49
+    t = 9
+    s * l + v = 81
+    d * l + s = 64
+    l + k = 25
+    c + n = 16
+    s = 4 
+    v = 1
+
+    k * l + d = ??
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w * c + w = 9 
+    w * c + f = 13
+    j * c + w = 17
+    j * c + g = 20
+    z * c + j = 26
+    z * c + q = 30
+    g * c + z = 35
+
+    z * c + f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w * c + w = 9 
+    w * c + f = 13
+    j * c + w = 17
+    j * c + g = 20
+    z * c + j = 26
+    z * c + q = 30
+    g * c + z = 35
+
+    z * c + f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w * c + w = 9 
+    w * c + f = 13
+    j * c + w = 17
+    j * c + g = 20
+    z * c + j = 26
+    z * c + q = 30
+    g * c + z = 35
+
+    z * c + f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w * c + w = 9 
+    w * c + f = 13
+    j * c + w = 17
+    j * c + g = 20
+    z * c + j = 26
+    z * c + q = 30
+    g * c + z = 35
+
+    z * c + f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w * c + w = 9 
+    w * c + f = 13
+    j * c + w = 17
+    j * c + g = 20
+    z * c + j = 26
+    z * c + q = 30
+    g * c + z = 35
+
+    z * c + f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s * (e + z) + e + z = 294 
+    s * (s + z) + e + y = 492 
+    s * (s * y) + t + i = 816
+    s * (t + y) + t + y = 357
+    s * (s + i) + t + f = 438
+    s * (e + f) + t + i = 276 
+
+    s * (s + y) + e + i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s * (e + z) + e + z = 294 
+    s * (s + z) + e + y = 492 
+    s * (s * y) + t + i = 816
+    s * (t + y) + t + y = 357
+    s * (s + i) + t + f = 438
+    s * (e + f) + t + i = 276 
+
+    s * (s + y) + e + i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s * (e + z) + e + z = 294 
+    s * (s + z) + e + y = 492 
+    s * (s * y) + t + i = 816
+    s * (t + y) + t + y = 357
+    s * (s + i) + t + f = 438
+    s * (e + f) + t + i = 276 
+
+    s * (s + y) + e + i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s * (e + z) + e + z = 294 
+    s * (s + z) + e + y = 492 
+    s * (s * y) + t + i = 816
+    s * (t + y) + t + y = 357
+    s * (s + i) + t + f = 438
+    s * (e + f) + t + i = 276 
+
+    s * (s + y) + e + i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s * (e + z) + e + z = 294 
+    s * (s + z) + e + y = 492 
+    s * (s * y) + t + i = 816
+    s * (t + y) + t + y = 357
+    s * (s + i) + t + f = 438
+    s * (e + f) + t + i = 276 
+
+    s * (s + y) + e + i = ?? 
+     "
+qwen-2-7b-vl-instruct,10,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q * x) + q + u = 31
+    (q * x) + q + e = 26
+    (q * x) + q + o = 36
+    (z * x) + z + e = 89
+    (c * x) + c + u = 73
+    (c * x) + (c * r) = 75
+    (c * x) + c + o = 78
+    (n * x) + n = 42
+    (n * x) + n + u = 52
+    (n * x) + (n * r) = 50
+
+    (z * x) + z + u = ??
+     "
+qwen-2-7b-vl-instruct,10,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q * x) + q + u = 31
+    (q * x) + q + e = 26
+    (q * x) + q + o = 36
+    (z * x) + z + e = 89
+    (c * x) + c + u = 73
+    (c * x) + (c * r) = 75
+    (c * x) + c + o = 78
+    (n * x) + n = 42
+    (n * x) + n + u = 52
+    (n * x) + (n * r) = 50
+
+    (z * x) + z + u = ??
+     "
+qwen-2-7b-vl-instruct,10,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q * x) + q + u = 31
+    (q * x) + q + e = 26
+    (q * x) + q + o = 36
+    (z * x) + z + e = 89
+    (c * x) + c + u = 73
+    (c * x) + (c * r) = 75
+    (c * x) + c + o = 78
+    (n * x) + n = 42
+    (n * x) + n + u = 52
+    (n * x) + (n * r) = 50
+
+    (z * x) + z + u = ??
+     "
+qwen-2-7b-vl-instruct,10,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q * x) + q + u = 31
+    (q * x) + q + e = 26
+    (q * x) + q + o = 36
+    (z * x) + z + e = 89
+    (c * x) + c + u = 73
+    (c * x) + (c * r) = 75
+    (c * x) + c + o = 78
+    (n * x) + n = 42
+    (n * x) + n + u = 52
+    (n * x) + (n * r) = 50
+
+    (z * x) + z + u = ??
+     "
+qwen-2-7b-vl-instruct,10,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q * x) + q + u = 31
+    (q * x) + q + e = 26
+    (q * x) + q + o = 36
+    (z * x) + z + e = 89
+    (c * x) + c + u = 73
+    (c * x) + (c * r) = 75
+    (c * x) + c + o = 78
+    (n * x) + n = 42
+    (n * x) + n + u = 52
+    (n * x) + (n * r) = 50
+
+    (z * x) + z + u = ??
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d * x + a = 16
+    k * x + d + m = 81
+    k + d * x + h = 49
+    k + i + d + a = 64
+    k * x + i + d + a = 100
+    i + d + h = 25
+    d + m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k * m + m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d * x + a = 16
+    k * x + d + m = 81
+    k + d * x + h = 49
+    k + i + d + a = 64
+    k * x + i + d + a = 100
+    i + d + h = 25
+    d + m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k * m + m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d * x + a = 16
+    k * x + d + m = 81
+    k + d * x + h = 49
+    k + i + d + a = 64
+    k * x + i + d + a = 100
+    i + d + h = 25
+    d + m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k * m + m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d * x + a = 16
+    k * x + d + m = 81
+    k + d * x + h = 49
+    k + i + d + a = 64
+    k * x + i + d + a = 100
+    i + d + h = 25
+    d + m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k * m + m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d * x + a = 16
+    k * x + d + m = 81
+    k + d * x + h = 49
+    k + i + d + a = 64
+    k * x + i + d + a = 100
+    i + d + h = 25
+    d + m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k * m + m = ?? 
+     "
+qwen-2-7b-vl-instruct,11,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d - v + o = 10 
+    r - v + h = 15
+    b = 20
+    q - v + u = 21
+    j - v + h = 27
+    w - v + o = 30
+    q + (d - v + h) = 35
+    q + r = 40
+    q * o = 48
+    q + (j - v + o) = 50
+    q * o + (q - v + u) = 69
+    q * o + (w - v + h) = 79
+    q * h + (j - v + u) = 97
+
+    u < h
+
+    q * h + (r - v + o) = ??
+
+     "
+qwen-2-7b-vl-instruct,11,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d - v + o = 10 
+    r - v + h = 15
+    b = 20
+    q - v + u = 21
+    j - v + h = 27
+    w - v + o = 30
+    q + (d - v + h) = 35
+    q + r = 40
+    q * o = 48
+    q + (j - v + o) = 50
+    q * o + (q - v + u) = 69
+    q * o + (w - v + h) = 79
+    q * h + (j - v + u) = 97
+
+    u < h
+
+    q * h + (r - v + o) = ??
+
+     "
+qwen-2-7b-vl-instruct,11,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d - v + o = 10 
+    r - v + h = 15
+    b = 20
+    q - v + u = 21
+    j - v + h = 27
+    w - v + o = 30
+    q + (d - v + h) = 35
+    q + r = 40
+    q * o = 48
+    q + (j - v + o) = 50
+    q * o + (q - v + u) = 69
+    q * o + (w - v + h) = 79
+    q * h + (j - v + u) = 97
+
+    u < h
+
+    q * h + (r - v + o) = ??
+
+     "
+qwen-2-7b-vl-instruct,11,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d - v + o = 10 
+    r - v + h = 15
+    b = 20
+    q - v + u = 21
+    j - v + h = 27
+    w - v + o = 30
+    q + (d - v + h) = 35
+    q + r = 40
+    q * o = 48
+    q + (j - v + o) = 50
+    q * o + (q - v + u) = 69
+    q * o + (w - v + h) = 79
+    q * h + (j - v + u) = 97
+
+    u < h
+
+    q * h + (r - v + o) = ??
+
+     "
+qwen-2-7b-vl-instruct,11,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d - v + o = 10 
+    r - v + h = 15
+    b = 20
+    q - v + u = 21
+    j - v + h = 27
+    w - v + o = 30
+    q + (d - v + h) = 35
+    q + r = 40
+    q * o = 48
+    q + (j - v + o) = 50
+    q * o + (q - v + u) = 69
+    q * o + (w - v + h) = 79
+    q * h + (j - v + u) = 97
+
+    u < h
+
+    q * h + (r - v + o) = ??
+
+     "

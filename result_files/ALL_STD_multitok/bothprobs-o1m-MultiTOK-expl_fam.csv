@@ -1,0 +1,792 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus * futex + gascap * torcci + koshus * eomse + koshus = 1000
+    koshus * eomse + gascap = 27
+    lecfat = 1
+    lecfat * torcci + koshus * eomse + koshus = 64
+    lecfat * futex + gascap * torcci + gascap * eomse + lecfat = 343
+    lecfat * eomse + ugiuri = 8
+    futex = 216
+    ugiuri * futex + ugiuri * torcci + lecfat * eomse + ugiuri = 512
+    gascap * torcci + ugiuri * eomse + xiaech = 125
+    gascap * futex + ugiuri * torcci + lecfat * eomse + gascap = 729 
+    
+    koshus * torcci + xiaech * eomse + lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus * futex + gascap * torcci + koshus * eomse + koshus = 1000
+    koshus * eomse + gascap = 27
+    lecfat = 1
+    lecfat * torcci + koshus * eomse + koshus = 64
+    lecfat * futex + gascap * torcci + gascap * eomse + lecfat = 343
+    lecfat * eomse + ugiuri = 8
+    futex = 216
+    ugiuri * futex + ugiuri * torcci + lecfat * eomse + ugiuri = 512
+    gascap * torcci + ugiuri * eomse + xiaech = 125
+    gascap * futex + ugiuri * torcci + lecfat * eomse + gascap = 729 
+    
+    koshus * torcci + xiaech * eomse + lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus * futex + gascap * torcci + koshus * eomse + koshus = 1000
+    koshus * eomse + gascap = 27
+    lecfat = 1
+    lecfat * torcci + koshus * eomse + koshus = 64
+    lecfat * futex + gascap * torcci + gascap * eomse + lecfat = 343
+    lecfat * eomse + ugiuri = 8
+    futex = 216
+    ugiuri * futex + ugiuri * torcci + lecfat * eomse + ugiuri = 512
+    gascap * torcci + ugiuri * eomse + xiaech = 125
+    gascap * futex + ugiuri * torcci + lecfat * eomse + gascap = 729 
+    
+    koshus * torcci + xiaech * eomse + lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus * futex + gascap * torcci + koshus * eomse + koshus = 1000
+    koshus * eomse + gascap = 27
+    lecfat = 1
+    lecfat * torcci + koshus * eomse + koshus = 64
+    lecfat * futex + gascap * torcci + gascap * eomse + lecfat = 343
+    lecfat * eomse + ugiuri = 8
+    futex = 216
+    ugiuri * futex + ugiuri * torcci + lecfat * eomse + ugiuri = 512
+    gascap * torcci + ugiuri * eomse + xiaech = 125
+    gascap * futex + ugiuri * torcci + lecfat * eomse + gascap = 729 
+    
+    koshus * torcci + xiaech * eomse + lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus * futex + gascap * torcci + koshus * eomse + koshus = 1000
+    koshus * eomse + gascap = 27
+    lecfat = 1
+    lecfat * torcci + koshus * eomse + koshus = 64
+    lecfat * futex + gascap * torcci + gascap * eomse + lecfat = 343
+    lecfat * eomse + ugiuri = 8
+    futex = 216
+    ugiuri * futex + ugiuri * torcci + lecfat * eomse + ugiuri = 512
+    gascap * torcci + ugiuri * eomse + xiaech = 125
+    gascap * futex + ugiuri * torcci + lecfat * eomse + gascap = 729 
+    
+    koshus * torcci + xiaech * eomse + lecfat = ??  "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume * diswa - oeava = 36
+    oeava = 4
+    preume * diswa + oeava = 44
+    preume * oeava - bamgu = 77
+    preume - diswa = 18
+    preume * oeava + bamgu = 83
+
+    preume * bamgu - bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume * diswa - oeava = 36
+    oeava = 4
+    preume * diswa + oeava = 44
+    preume * oeava - bamgu = 77
+    preume - diswa = 18
+    preume * oeava + bamgu = 83
+
+    preume * bamgu - bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume * diswa - oeava = 36
+    oeava = 4
+    preume * diswa + oeava = 44
+    preume * oeava - bamgu = 77
+    preume - diswa = 18
+    preume * oeava + bamgu = 83
+
+    preume * bamgu - bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume * diswa - oeava = 36
+    oeava = 4
+    preume * diswa + oeava = 44
+    preume * oeava - bamgu = 77
+    preume - diswa = 18
+    preume * oeava + bamgu = 83
+
+    preume * bamgu - bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume * diswa - oeava = 36
+    oeava = 4
+    preume * diswa + oeava = 44
+    preume * oeava - bamgu = 77
+    preume - diswa = 18
+    preume * oeava + bamgu = 83
+
+    preume * bamgu - bamgu = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee + apadal + aedibe = 36
+    abcjas * evalee + audkee = 49
+    audkee = 9
+    tleug * evalee + chabak = 81
+    ezqli * evalee + tleug = 64
+    evalee + wiknos = 25
+    apadal + aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos * evalee + ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee + apadal + aedibe = 36
+    abcjas * evalee + audkee = 49
+    audkee = 9
+    tleug * evalee + chabak = 81
+    ezqli * evalee + tleug = 64
+    evalee + wiknos = 25
+    apadal + aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos * evalee + ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee + apadal + aedibe = 36
+    abcjas * evalee + audkee = 49
+    audkee = 9
+    tleug * evalee + chabak = 81
+    ezqli * evalee + tleug = 64
+    evalee + wiknos = 25
+    apadal + aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos * evalee + ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee + apadal + aedibe = 36
+    abcjas * evalee + audkee = 49
+    audkee = 9
+    tleug * evalee + chabak = 81
+    ezqli * evalee + tleug = 64
+    evalee + wiknos = 25
+    apadal + aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos * evalee + ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee + apadal + aedibe = 36
+    abcjas * evalee + audkee = 49
+    audkee = 9
+    tleug * evalee + chabak = 81
+    ezqli * evalee + tleug = 64
+    evalee + wiknos = 25
+    apadal + aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos * evalee + ezqli = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi * ssaypo + ummdi = 9 
+    ummdi * ssaypo + yalace = 13
+    toncor * ssaypo + ummdi = 17
+    toncor * ssaypo + reqbid = 20
+    rifior * ssaypo + toncor = 26
+    rifior * ssaypo + firuss = 30
+    reqbid * ssaypo + rifior = 35
+
+    rifior * ssaypo + yalace = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi * ssaypo + ummdi = 9 
+    ummdi * ssaypo + yalace = 13
+    toncor * ssaypo + ummdi = 17
+    toncor * ssaypo + reqbid = 20
+    rifior * ssaypo + toncor = 26
+    rifior * ssaypo + firuss = 30
+    reqbid * ssaypo + rifior = 35
+
+    rifior * ssaypo + yalace = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi * ssaypo + ummdi = 9 
+    ummdi * ssaypo + yalace = 13
+    toncor * ssaypo + ummdi = 17
+    toncor * ssaypo + reqbid = 20
+    rifior * ssaypo + toncor = 26
+    rifior * ssaypo + firuss = 30
+    reqbid * ssaypo + rifior = 35
+
+    rifior * ssaypo + yalace = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi * ssaypo + ummdi = 9 
+    ummdi * ssaypo + yalace = 13
+    toncor * ssaypo + ummdi = 17
+    toncor * ssaypo + reqbid = 20
+    rifior * ssaypo + toncor = 26
+    rifior * ssaypo + firuss = 30
+    reqbid * ssaypo + rifior = 35
+
+    rifior * ssaypo + yalace = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi * ssaypo + ummdi = 9 
+    ummdi * ssaypo + yalace = 13
+    toncor * ssaypo + ummdi = 17
+    toncor * ssaypo + reqbid = 20
+    rifior * ssaypo + toncor = 26
+    rifior * ssaypo + firuss = 30
+    reqbid * ssaypo + rifior = 35
+
+    rifior * ssaypo + yalace = ?? 
+
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad * pagig) + masaad + opbob = 31
+    (masaad * pagig) + masaad + buylen = 26
+    (masaad * pagig) + masaad + gbaifi = 36
+    (innops * pagig) + innops + buylen = 89
+    (asflat * pagig) + asflat + opbob = 73
+    (asflat * pagig) + (asflat * kould) = 75
+    (asflat * pagig) + asflat + gbaifi = 78
+    (ajssci * pagig) + ajssci = 42
+    (ajssci * pagig) + ajssci + opbob = 52
+    (ajssci * pagig) + (ajssci * kould) = 50
+
+    (innops * pagig) + innops + opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad * pagig) + masaad + opbob = 31
+    (masaad * pagig) + masaad + buylen = 26
+    (masaad * pagig) + masaad + gbaifi = 36
+    (innops * pagig) + innops + buylen = 89
+    (asflat * pagig) + asflat + opbob = 73
+    (asflat * pagig) + (asflat * kould) = 75
+    (asflat * pagig) + asflat + gbaifi = 78
+    (ajssci * pagig) + ajssci = 42
+    (ajssci * pagig) + ajssci + opbob = 52
+    (ajssci * pagig) + (ajssci * kould) = 50
+
+    (innops * pagig) + innops + opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad * pagig) + masaad + opbob = 31
+    (masaad * pagig) + masaad + buylen = 26
+    (masaad * pagig) + masaad + gbaifi = 36
+    (innops * pagig) + innops + buylen = 89
+    (asflat * pagig) + asflat + opbob = 73
+    (asflat * pagig) + (asflat * kould) = 75
+    (asflat * pagig) + asflat + gbaifi = 78
+    (ajssci * pagig) + ajssci = 42
+    (ajssci * pagig) + ajssci + opbob = 52
+    (ajssci * pagig) + (ajssci * kould) = 50
+
+    (innops * pagig) + innops + opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad * pagig) + masaad + opbob = 31
+    (masaad * pagig) + masaad + buylen = 26
+    (masaad * pagig) + masaad + gbaifi = 36
+    (innops * pagig) + innops + buylen = 89
+    (asflat * pagig) + asflat + opbob = 73
+    (asflat * pagig) + (asflat * kould) = 75
+    (asflat * pagig) + asflat + gbaifi = 78
+    (ajssci * pagig) + ajssci = 42
+    (ajssci * pagig) + ajssci + opbob = 52
+    (ajssci * pagig) + (ajssci * kould) = 50
+
+    (innops * pagig) + innops + opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad * pagig) + masaad + opbob = 31
+    (masaad * pagig) + masaad + buylen = 26
+    (masaad * pagig) + masaad + gbaifi = 36
+    (innops * pagig) + innops + buylen = 89
+    (asflat * pagig) + asflat + opbob = 73
+    (asflat * pagig) + (asflat * kould) = 75
+    (asflat * pagig) + asflat + gbaifi = 78
+    (ajssci * pagig) + ajssci = 42
+    (ajssci * pagig) + ajssci + opbob = 52
+    (ajssci * pagig) + (ajssci * kould) = 50
+
+    (innops * pagig) + innops + opbob = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom * xedci + impind = 16
+    lowkok * xedci + tabdom + idearo = 81
+    lowkok + tabdom * xedci + docaid = 49
+    lowkok + uueth + tabdom + impind = 64
+    lowkok * xedci + uueth + tabdom + impind = 100
+    uueth + tabdom + docaid = 25
+    tabdom + idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok * idearo + idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom * xedci + impind = 16
+    lowkok * xedci + tabdom + idearo = 81
+    lowkok + tabdom * xedci + docaid = 49
+    lowkok + uueth + tabdom + impind = 64
+    lowkok * xedci + uueth + tabdom + impind = 100
+    uueth + tabdom + docaid = 25
+    tabdom + idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok * idearo + idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom * xedci + impind = 16
+    lowkok * xedci + tabdom + idearo = 81
+    lowkok + tabdom * xedci + docaid = 49
+    lowkok + uueth + tabdom + impind = 64
+    lowkok * xedci + uueth + tabdom + impind = 100
+    uueth + tabdom + docaid = 25
+    tabdom + idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok * idearo + idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom * xedci + impind = 16
+    lowkok * xedci + tabdom + idearo = 81
+    lowkok + tabdom * xedci + docaid = 49
+    lowkok + uueth + tabdom + impind = 64
+    lowkok * xedci + uueth + tabdom + impind = 100
+    uueth + tabdom + docaid = 25
+    tabdom + idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok * idearo + idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom * xedci + impind = 16
+    lowkok * xedci + tabdom + idearo = 81
+    lowkok + tabdom * xedci + docaid = 49
+    lowkok + uueth + tabdom + impind = 64
+    lowkok * xedci + uueth + tabdom + impind = 100
+    uueth + tabdom + docaid = 25
+    tabdom + idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok * idearo + idearo = ?? 
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre - anttes + iazpir = 10 
+    kedjor - anttes + lorec = 15
+    hudsol = 20
+    uhefea - anttes + fiisc = 21
+    ogotoe - anttes + lorec = 27
+    learaq - anttes + iazpir = 30
+    uhefea + (judgre - anttes + lorec) = 35
+    uhefea + kedjor = 40
+    uhefea * iazpir = 48
+    uhefea + (ogotoe - anttes + iazpir) = 50
+    uhefea * iazpir + (uhefea - anttes + fiisc) = 69
+    uhefea * iazpir + (learaq - anttes + lorec) = 79
+    uhefea * lorec + (ogotoe - anttes + fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea * lorec + (kedjor - anttes + iazpir) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre - anttes + iazpir = 10 
+    kedjor - anttes + lorec = 15
+    hudsol = 20
+    uhefea - anttes + fiisc = 21
+    ogotoe - anttes + lorec = 27
+    learaq - anttes + iazpir = 30
+    uhefea + (judgre - anttes + lorec) = 35
+    uhefea + kedjor = 40
+    uhefea * iazpir = 48
+    uhefea + (ogotoe - anttes + iazpir) = 50
+    uhefea * iazpir + (uhefea - anttes + fiisc) = 69
+    uhefea * iazpir + (learaq - anttes + lorec) = 79
+    uhefea * lorec + (ogotoe - anttes + fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea * lorec + (kedjor - anttes + iazpir) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre - anttes + iazpir = 10 
+    kedjor - anttes + lorec = 15
+    hudsol = 20
+    uhefea - anttes + fiisc = 21
+    ogotoe - anttes + lorec = 27
+    learaq - anttes + iazpir = 30
+    uhefea + (judgre - anttes + lorec) = 35
+    uhefea + kedjor = 40
+    uhefea * iazpir = 48
+    uhefea + (ogotoe - anttes + iazpir) = 50
+    uhefea * iazpir + (uhefea - anttes + fiisc) = 69
+    uhefea * iazpir + (learaq - anttes + lorec) = 79
+    uhefea * lorec + (ogotoe - anttes + fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea * lorec + (kedjor - anttes + iazpir) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre - anttes + iazpir = 10 
+    kedjor - anttes + lorec = 15
+    hudsol = 20
+    uhefea - anttes + fiisc = 21
+    ogotoe - anttes + lorec = 27
+    learaq - anttes + iazpir = 30
+    uhefea + (judgre - anttes + lorec) = 35
+    uhefea + kedjor = 40
+    uhefea * iazpir = 48
+    uhefea + (ogotoe - anttes + iazpir) = 50
+    uhefea * iazpir + (uhefea - anttes + fiisc) = 69
+    uhefea * iazpir + (learaq - anttes + lorec) = 79
+    uhefea * lorec + (ogotoe - anttes + fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea * lorec + (kedjor - anttes + iazpir) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre - anttes + iazpir = 10 
+    kedjor - anttes + lorec = 15
+    hudsol = 20
+    uhefea - anttes + fiisc = 21
+    ogotoe - anttes + lorec = 27
+    learaq - anttes + iazpir = 30
+    uhefea + (judgre - anttes + lorec) = 35
+    uhefea + kedjor = 40
+    uhefea * iazpir = 48
+    uhefea + (ogotoe - anttes + iazpir) = 50
+    uhefea * iazpir + (uhefea - anttes + fiisc) = 69
+    uhefea * iazpir + (learaq - anttes + lorec) = 79
+    uhefea * lorec + (ogotoe - anttes + fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea * lorec + (kedjor - anttes + iazpir) = ??
+
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip * (supcli + tteevt) + supcli + tteevt = 294 
+    ostip * (ostip + tteevt) + supcli + unkdel = 492 
+    ostip * (ostip * unkdel) + iyaids + ifita = 816
+    ostip * (iyaids + unkdel) + iyaids + unkdel = 357
+    ostip * (ostip + ifita) + iyaids + actob = 438
+    ostip * (supcli + actob) + iyaids + ifita = 276 
+
+    ostip * (ostip + unkdel) + supcli + ifita = ?? 
+     "
+o1-mini,0,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip * (supcli + tteevt) + supcli + tteevt = 294 
+    ostip * (ostip + tteevt) + supcli + unkdel = 492 
+    ostip * (ostip * unkdel) + iyaids + ifita = 816
+    ostip * (iyaids + unkdel) + iyaids + unkdel = 357
+    ostip * (ostip + ifita) + iyaids + actob = 438
+    ostip * (supcli + actob) + iyaids + ifita = 276 
+
+    ostip * (ostip + unkdel) + supcli + ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip * (supcli + tteevt) + supcli + tteevt = 294 
+    ostip * (ostip + tteevt) + supcli + unkdel = 492 
+    ostip * (ostip * unkdel) + iyaids + ifita = 816
+    ostip * (iyaids + unkdel) + iyaids + unkdel = 357
+    ostip * (ostip + ifita) + iyaids + actob = 438
+    ostip * (supcli + actob) + iyaids + ifita = 276 
+
+    ostip * (ostip + unkdel) + supcli + ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip * (supcli + tteevt) + supcli + tteevt = 294 
+    ostip * (ostip + tteevt) + supcli + unkdel = 492 
+    ostip * (ostip * unkdel) + iyaids + ifita = 816
+    ostip * (iyaids + unkdel) + iyaids + unkdel = 357
+    ostip * (ostip + ifita) + iyaids + actob = 438
+    ostip * (supcli + actob) + iyaids + ifita = 276 
+
+    ostip * (ostip + unkdel) + supcli + ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip * (supcli + tteevt) + supcli + tteevt = 294 
+    ostip * (ostip + tteevt) + supcli + unkdel = 492 
+    ostip * (ostip * unkdel) + iyaids + ifita = 816
+    ostip * (iyaids + unkdel) + iyaids + unkdel = 357
+    ostip * (ostip + ifita) + iyaids + actob = 438
+    ostip * (supcli + actob) + iyaids + ifita = 276 
+
+    ostip * (ostip + unkdel) + supcli + ifita = ?? 
+     "
+
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse + jniuse + jniuse + jniuse + jniuse + jniuse = (biners + kelsig) x 2
+    kelsig ^ 2 + jniuse ^ 2 = biners
+    (biners + kelsig) ^ 2 = (jniuse + jniuse) x (biners + jniuse + jniuse)
+    jniuse x biners = batird
+
+    jniuse + kelsig = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse + jniuse + jniuse + jniuse + jniuse + jniuse = (biners + kelsig) x 2
+    kelsig ^ 2 + jniuse ^ 2 = biners
+    (biners + kelsig) ^ 2 = (jniuse + jniuse) x (biners + jniuse + jniuse)
+    jniuse x biners = batird
+
+    jniuse + kelsig = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse + jniuse + jniuse + jniuse + jniuse + jniuse = (biners + kelsig) x 2
+    kelsig ^ 2 + jniuse ^ 2 = biners
+    (biners + kelsig) ^ 2 = (jniuse + jniuse) x (biners + jniuse + jniuse)
+    jniuse x biners = batird
+
+    jniuse + kelsig = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse + jniuse + jniuse + jniuse + jniuse + jniuse = (biners + kelsig) x 2
+    kelsig ^ 2 + jniuse ^ 2 = biners
+    (biners + kelsig) ^ 2 = (jniuse + jniuse) x (biners + jniuse + jniuse)
+    jniuse x biners = batird
+
+    jniuse + kelsig = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse + jniuse + jniuse + jniuse + jniuse + jniuse = (biners + kelsig) x 2
+    kelsig ^ 2 + jniuse ^ 2 = biners
+    (biners + kelsig) ^ 2 = (jniuse + jniuse) x (biners + jniuse + jniuse)
+    jniuse x biners = batird
+
+    jniuse + kelsig = ??
+     "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri * ipauv + ahoxe) + (ahoxe * ipauv + ahoxe) = ikheep * ipauv + otfaf
+    lenfri + (lenfri * ipauv + lenfri) = ikheep * ipauv + ahoxe
+    (ahoxe * ipauv + otfaf) + ahoxe = ahoxe * ipauv + lenfri
+    lenfri * ikheep = otfaf * ipauv + otfaf
+    (ahoxe * ipauv + lenfri) + (otfaf * ipauv + lenfri) = ikheep * ipauv + ahoxe 
+    
+
+    lenfri * ipauv + otfaf = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri * ipauv + ahoxe) + (ahoxe * ipauv + ahoxe) = ikheep * ipauv + otfaf
+    lenfri + (lenfri * ipauv + lenfri) = ikheep * ipauv + ahoxe
+    (ahoxe * ipauv + otfaf) + ahoxe = ahoxe * ipauv + lenfri
+    lenfri * ikheep = otfaf * ipauv + otfaf
+    (ahoxe * ipauv + lenfri) + (otfaf * ipauv + lenfri) = ikheep * ipauv + ahoxe 
+    
+
+    lenfri * ipauv + otfaf = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri * ipauv + ahoxe) + (ahoxe * ipauv + ahoxe) = ikheep * ipauv + otfaf
+    lenfri + (lenfri * ipauv + lenfri) = ikheep * ipauv + ahoxe
+    (ahoxe * ipauv + otfaf) + ahoxe = ahoxe * ipauv + lenfri
+    lenfri * ikheep = otfaf * ipauv + otfaf
+    (ahoxe * ipauv + lenfri) + (otfaf * ipauv + lenfri) = ikheep * ipauv + ahoxe 
+    
+
+    lenfri * ipauv + otfaf = ?? "
+o1-mini,7,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri * ipauv + ahoxe) + (ahoxe * ipauv + ahoxe) = ikheep * ipauv + otfaf
+    lenfri + (lenfri * ipauv + lenfri) = ikheep * ipauv + ahoxe
+    (ahoxe * ipauv + otfaf) + ahoxe = ahoxe * ipauv + lenfri
+    lenfri * ikheep = otfaf * ipauv + otfaf
+    (ahoxe * ipauv + lenfri) + (otfaf * ipauv + lenfri) = ikheep * ipauv + ahoxe 
+    
+
+    lenfri * ipauv + otfaf = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri * ipauv + ahoxe) + (ahoxe * ipauv + ahoxe) = ikheep * ipauv + otfaf
+    lenfri + (lenfri * ipauv + lenfri) = ikheep * ipauv + ahoxe
+    (ahoxe * ipauv + otfaf) + ahoxe = ahoxe * ipauv + lenfri
+    lenfri * ikheep = otfaf * ipauv + otfaf
+    (ahoxe * ipauv + lenfri) + (otfaf * ipauv + lenfri) = ikheep * ipauv + ahoxe 
+    
+
+    lenfri * ipauv + otfaf = ?? "

@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+deepseek-r1-distill-qwen-7b,equations,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r α r α r α r α r α r = (j α w) x 2
+    w ^ 2 α r ^ 2 = j
+    (j α w) ^ 2 = (r α r) x (j α r α r)
+    r x j = i
+
+    r α w = ?? "
+deepseek-r1-distill-qwen-7b,equations,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r α r α r α r α r α r = (j α w) x 2
+    w ^ 2 α r ^ 2 = j
+    (j α w) ^ 2 = (r α r) x (j α r α r)
+    r x j = i
+
+    r α w = ?? "
+deepseek-r1-distill-qwen-7b,equations,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r α r α r α r α r α r = (j α w) x 2
+    w ^ 2 α r ^ 2 = j
+    (j α w) ^ 2 = (r α r) x (j α r α r)
+    r x j = i
+
+    r α w = ?? "
+deepseek-r1-distill-qwen-7b,equations,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r α r α r α r α r α r = (j α w) x 2
+    w ^ 2 α r ^ 2 = j
+    (j α w) ^ 2 = (r α r) x (j α r α r)
+    r x j = i
+
+    r α w = ?? "
+deepseek-r1-distill-qwen-7b,equations,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r α r α r α r α r α r = (j α w) x 2
+    w ^ 2 α r ^ 2 = j
+    (j α w) ^ 2 = (r α r) x (j α r α r)
+    r x j = i
+
+    r α w = ?? "
+deepseek-r1-distill-qwen-7b,3,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a β v α i) α (i β v α i) = t β v α n
+    a α (a β v α a) = t β v α i
+    (i β v α n) α i = i β v α a
+    a β t = n β v α n
+    (i β v α a) α (n β v α a) = t β v α i 
+    
+
+    a β v α n = ?? "
+deepseek-r1-distill-qwen-7b,3,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a β v α i) α (i β v α i) = t β v α n
+    a α (a β v α a) = t β v α i
+    (i β v α n) α i = i β v α a
+    a β t = n β v α n
+    (i β v α a) α (n β v α a) = t β v α i 
+    
+
+    a β v α n = ?? "
+deepseek-r1-distill-qwen-7b,3,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a β v α i) α (i β v α i) = t β v α n
+    a α (a β v α a) = t β v α i
+    (i β v α n) α i = i β v α a
+    a β t = n β v α n
+    (i β v α a) α (n β v α a) = t β v α i 
+    
+
+    a β v α n = ?? "
+deepseek-r1-distill-qwen-7b,3,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a β v α i) α (i β v α i) = t β v α n
+    a α (a β v α a) = t β v α i
+    (i β v α n) α i = i β v α a
+    a β t = n β v α n
+    (i β v α a) α (n β v α a) = t β v α i 
+    
+
+    a β v α n = ?? "
+deepseek-r1-distill-qwen-7b,3,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a β v α i) α (i β v α i) = t β v α n
+    a α (a β v α a) = t β v α i
+    (i β v α n) α i = i β v α a
+    a β t = n β v α n
+    (i β v α a) α (n β v α a) = t β v α i 
+    
+
+    a β v α n = ?? "
+deepseek-r1-distill-qwen-7b,x,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z β i α v β s α z β x α z = 1000
+    z β x α v = 27
+    j = 1
+    j β s α z β x α z = 64
+    j β i α v β s α v β x α j = 343
+    j β x α p = 8
+    i = 216
+    p β i α p β s α j β x α p = 512
+    v β s α p β x α k = 125
+    v β i α p β s α j β x α v = 729 
+    
+    z β s α k β x α j = ??  "
+deepseek-r1-distill-qwen-7b,x,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z β i α v β s α z β x α z = 1000
+    z β x α v = 27
+    j = 1
+    j β s α z β x α z = 64
+    j β i α v β s α v β x α j = 343
+    j β x α p = 8
+    i = 216
+    p β i α p β s α j β x α p = 512
+    v β s α p β x α k = 125
+    v β i α p β s α j β x α v = 729 
+    
+    z β s α k β x α j = ??  "
+deepseek-r1-distill-qwen-7b,x,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z β i α v β s α z β x α z = 1000
+    z β x α v = 27
+    j = 1
+    j β s α z β x α z = 64
+    j β i α v β s α v β x α j = 343
+    j β x α p = 8
+    i = 216
+    p β i α p β s α j β x α p = 512
+    v β s α p β x α k = 125
+    v β i α p β s α j β x α v = 729 
+    
+    z β s α k β x α j = ??  "
+deepseek-r1-distill-qwen-7b,x,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z β i α v β s α z β x α z = 1000
+    z β x α v = 27
+    j = 1
+    j β s α z β x α z = 64
+    j β i α v β s α v β x α j = 343
+    j β x α p = 8
+    i = 216
+    p β i α p β s α j β x α p = 512
+    v β s α p β x α k = 125
+    v β i α p β s α j β x α v = 729 
+    
+    z β s α k β x α j = ??  "
+deepseek-r1-distill-qwen-7b,x,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z β i α v β s α z β x α z = 1000
+    z β x α v = 27
+    j = 1
+    j β s α z β x α z = 64
+    j β i α v β s α v β x α j = 343
+    j β x α p = 8
+    i = 216
+    p β i α p β s α j β x α p = 512
+    v β s α p β x α k = 125
+    v β i α p β s α j β x α v = 729 
+    
+    z β s α k β x α j = ??  "
+deepseek-r1-distill-qwen-7b,+,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z β d ζ a = 36
+    a = 4
+    a α z β d = 44
+    z β a ζ w = 77
+    z ζ d = 18
+    w α z β a = 83
+
+    z β w ζ w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,+,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z β d ζ a = 36
+    a = 4
+    a α z β d = 44
+    z β a ζ w = 77
+    z ζ d = 18
+    w α z β a = 83
+
+    z β w ζ w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,+,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z β d ζ a = 36
+    a = 4
+    a α z β d = 44
+    z β a ζ w = 77
+    z ζ d = 18
+    w α z β a = 83
+
+    z β w ζ w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,+,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z β d ζ a = 36
+    a = 4
+    a α z β d = 44
+    z β a ζ w = 77
+    z ζ d = 18
+    w α z β a = 83
+
+    z β w ζ w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,+,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z β d ζ a = 36
+    a = 4
+    a α z β d = 44
+    z β a ζ w = 77
+    z ζ d = 18
+    w α z β a = 83
+
+    z β w ζ w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,15,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r α d α w = 36
+    a β r α c = 49
+    c = 9
+    m β r α s = 81
+    h β r α m = 64
+    r α q = 25
+    d α w = 16
+    m = 4 
+    s = 1
+
+    q β r α h = ??
+     "
+deepseek-r1-distill-qwen-7b,15,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r α d α w = 36
+    a β r α c = 49
+    c = 9
+    m β r α s = 81
+    h β r α m = 64
+    r α q = 25
+    d α w = 16
+    m = 4 
+    s = 1
+
+    q β r α h = ??
+     "
+deepseek-r1-distill-qwen-7b,15,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r α d α w = 36
+    a β r α c = 49
+    c = 9
+    m β r α s = 81
+    h β r α m = 64
+    r α q = 25
+    d α w = 16
+    m = 4 
+    s = 1
+
+    q β r α h = ??
+     "
+deepseek-r1-distill-qwen-7b,15,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r α d α w = 36
+    a β r α c = 49
+    c = 9
+    m β r α s = 81
+    h β r α m = 64
+    r α q = 25
+    d α w = 16
+    m = 4 
+    s = 1
+
+    q β r α h = ??
+     "
+deepseek-r1-distill-qwen-7b,15,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r α d α w = 36
+    a β r α c = 49
+    c = 9
+    m β r α s = 81
+    h β r α m = 64
+    r α q = 25
+    d α w = 16
+    m = 4 
+    s = 1
+
+    q β r α h = ??
+     "
+deepseek-r1-distill-qwen-7b,+,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q β r α q = 9 
+    q β r α m = 13
+    v β r α q = 17
+    v β r α f = 20
+    o β r α v = 26
+    o β r α x = 30
+    f β r α o = 35
+
+    o β r α m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,+,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q β r α q = 9 
+    q β r α m = 13
+    v β r α q = 17
+    v β r α f = 20
+    o β r α v = 26
+    o β r α x = 30
+    f β r α o = 35
+
+    o β r α m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,+,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q β r α q = 9 
+    q β r α m = 13
+    v β r α q = 17
+    v β r α f = 20
+    o β r α v = 26
+    o β r α x = 30
+    f β r α o = 35
+
+    o β r α m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,+,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q β r α q = 9 
+    q β r α m = 13
+    v β r α q = 17
+    v β r α f = 20
+    o β r α v = 26
+    o β r α x = 30
+    f β r α o = 35
+
+    o β r α m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,+,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q β r α q = 9 
+    q β r α m = 13
+    v β r α q = 17
+    v β r α f = 20
+    o β r α v = 26
+    o β r α x = 30
+    f β r α o = 35
+
+    o β r α m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,perhaps,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b β (f α j) α f α j = 294
+    b β (b α j) α f α q = 492
+    b β (b β q) α o α c = 816
+    b β (o α q) α o α q = 357
+    b β (b α c) α o α v = 438
+    b β (f α v) α o α c = 276
+
+    b β (b α q) α f α c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,perhaps,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b β (f α j) α f α j = 294
+    b β (b α j) α f α q = 492
+    b β (b β q) α o α c = 816
+    b β (o α q) α o α q = 357
+    b β (b α c) α o α v = 438
+    b β (f α v) α o α c = 276
+
+    b β (b α q) α f α c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,perhaps,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b β (f α j) α f α j = 294
+    b β (b α j) α f α q = 492
+    b β (b β q) α o α c = 816
+    b β (o α q) α o α q = 357
+    b β (b α c) α o α v = 438
+    b β (f α v) α o α c = 276
+
+    b β (b α q) α f α c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,perhaps,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b β (f α j) α f α j = 294
+    b β (b α j) α f α q = 492
+    b β (b β q) α o α c = 816
+    b β (o α q) α o α q = 357
+    b β (b α c) α o α v = 438
+    b β (f α v) α o α c = 276
+
+    b β (b α q) α f α c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,perhaps,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b β (f α j) α f α j = 294
+    b β (b α j) α f α q = 492
+    b β (b β q) α o α c = 816
+    b β (o α q) α o α q = 357
+    b β (b α c) α o α v = 438
+    b β (f α v) α o α c = 276
+
+    b β (b α q) α f α c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,and,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i β s) α i α n = 31
+    (i β s) α i α x = 26
+    (i β s) α i α d = 36
+    (r β s) α r α x = 89
+    (w β s) α w α n = 73
+    (w β s) α (w β g) = 75
+    (w β s) α w α d = 78
+    (u β s) α u = 42
+    (u β s) α u α n = 52
+    (u β s) α (u β g) = 50
+
+    (r β s) α r α n = ??
+     "
+deepseek-r1-distill-qwen-7b,and,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i β s) α i α n = 31
+    (i β s) α i α x = 26
+    (i β s) α i α d = 36
+    (r β s) α r α x = 89
+    (w β s) α w α n = 73
+    (w β s) α (w β g) = 75
+    (w β s) α w α d = 78
+    (u β s) α u = 42
+    (u β s) α u α n = 52
+    (u β s) α (u β g) = 50
+
+    (r β s) α r α n = ??
+     "
+deepseek-r1-distill-qwen-7b,and,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i β s) α i α n = 31
+    (i β s) α i α x = 26
+    (i β s) α i α d = 36
+    (r β s) α r α x = 89
+    (w β s) α w α n = 73
+    (w β s) α (w β g) = 75
+    (w β s) α w α d = 78
+    (u β s) α u = 42
+    (u β s) α u α n = 52
+    (u β s) α (u β g) = 50
+
+    (r β s) α r α n = ??
+     "
+deepseek-r1-distill-qwen-7b,and,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i β s) α i α n = 31
+    (i β s) α i α x = 26
+    (i β s) α i α d = 36
+    (r β s) α r α x = 89
+    (w β s) α w α n = 73
+    (w β s) α (w β g) = 75
+    (w β s) α w α d = 78
+    (u β s) α u = 42
+    (u β s) α u α n = 52
+    (u β s) α (u β g) = 50
+
+    (r β s) α r α n = ??
+     "
+deepseek-r1-distill-qwen-7b,and,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i β s) α i α n = 31
+    (i β s) α i α x = 26
+    (i β s) α i α d = 36
+    (r β s) α r α x = 89
+    (w β s) α w α n = 73
+    (w β s) α (w β g) = 75
+    (w β s) α w α d = 78
+    (u β s) α u = 42
+    (u β s) α u α n = 52
+    (u β s) α (u β g) = 50
+
+    (r β s) α r α n = ??
+     "
+deepseek-r1-distill-qwen-7b,5,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m β b α g = 16
+    h β b α m α q = 81
+    h α m β b α f = 49
+    h α a α m α g = 64
+    h β b α a α m α g = 100
+    a α m α f = 25
+    m α q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h β q α q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,5,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m β b α g = 16
+    h β b α m α q = 81
+    h α m β b α f = 49
+    h α a α m α g = 64
+    h β b α a α m α g = 100
+    a α m α f = 25
+    m α q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h β q α q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,5,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m β b α g = 16
+    h β b α m α q = 81
+    h α m β b α f = 49
+    h α a α m α g = 64
+    h β b α a α m α g = 100
+    a α m α f = 25
+    m α q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h β q α q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,5,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m β b α g = 16
+    h β b α m α q = 81
+    h α m β b α f = 49
+    h α a α m α g = 64
+    h β b α a α m α g = 100
+    a α m α f = 25
+    m α q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h β q α q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,5,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m β b α g = 16
+    h β b α m α q = 81
+    h α m β b α f = 49
+    h α a α m α g = 64
+    h β b α a α m α g = 100
+    a α m α f = 25
+    m α q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h β q α q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,�,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y ζ w α m = 10 
+    x ζ w α z = 15
+    i = 20
+    r ζ w α a = 21
+    f ζ w α z = 27
+    e ζ w α m = 30
+    r α (y ζ w α z) = 35
+    r α x = 40
+    r β m = 48
+    r α (f ζ w α m) = 50
+    r β m α (r ζ w α a) = 69
+    r β m α (e ζ w α z) = 79
+    r β z α (f ζ w α a) = 97
+
+    a < z
+
+    r β z α (x ζ w α m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,�,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y ζ w α m = 10 
+    x ζ w α z = 15
+    i = 20
+    r ζ w α a = 21
+    f ζ w α z = 27
+    e ζ w α m = 30
+    r α (y ζ w α z) = 35
+    r α x = 40
+    r β m = 48
+    r α (f ζ w α m) = 50
+    r β m α (r ζ w α a) = 69
+    r β m α (e ζ w α z) = 79
+    r β z α (f ζ w α a) = 97
+
+    a < z
+
+    r β z α (x ζ w α m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,�,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y ζ w α m = 10 
+    x ζ w α z = 15
+    i = 20
+    r ζ w α a = 21
+    f ζ w α z = 27
+    e ζ w α m = 30
+    r α (y ζ w α z) = 35
+    r α x = 40
+    r β m = 48
+    r α (f ζ w α m) = 50
+    r β m α (r ζ w α a) = 69
+    r β m α (e ζ w α z) = 79
+    r β z α (f ζ w α a) = 97
+
+    a < z
+
+    r β z α (x ζ w α m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,�,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y ζ w α m = 10 
+    x ζ w α z = 15
+    i = 20
+    r ζ w α a = 21
+    f ζ w α z = 27
+    e ζ w α m = 30
+    r α (y ζ w α z) = 35
+    r α x = 40
+    r β m = 48
+    r α (f ζ w α m) = 50
+    r β m α (r ζ w α a) = 69
+    r β m α (e ζ w α z) = 79
+    r β z α (f ζ w α a) = 97
+
+    a < z
+
+    r β z α (x ζ w α m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,�,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y ζ w α m = 10 
+    x ζ w α z = 15
+    i = 20
+    r ζ w α a = 21
+    f ζ w α z = 27
+    e ζ w α m = 30
+    r α (y ζ w α z) = 35
+    r α x = 40
+    r β m = 48
+    r α (f ζ w α m) = 50
+    r β m α (r ζ w α a) = 69
+    r β m α (e ζ w α z) = 79
+    r β z α (f ζ w α a) = 97
+
+    a < z
+
+    r β z α (x ζ w α m) = ??
+
+     "

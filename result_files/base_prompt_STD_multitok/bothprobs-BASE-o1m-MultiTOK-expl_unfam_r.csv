@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom = (utzPOS xebrut eeeMOD) x 2
+    eeeMOD ^ 2 xebrut elpsom ^ 2 = utzPOS
+    (utzPOS xebrut eeeMOD) ^ 2 = (elpsom xebrut elpsom) x (utzPOS xebrut elpsom xebrut elpsom)
+    elpsom x utzPOS = toylac
+
+    elpsom xebrut eeeMOD = ?? "
+o1-mini,2,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom = (utzPOS xebrut eeeMOD) x 2
+    eeeMOD ^ 2 xebrut elpsom ^ 2 = utzPOS
+    (utzPOS xebrut eeeMOD) ^ 2 = (elpsom xebrut elpsom) x (utzPOS xebrut elpsom xebrut elpsom)
+    elpsom x utzPOS = toylac
+
+    elpsom xebrut eeeMOD = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom = (utzPOS xebrut eeeMOD) x 2
+    eeeMOD ^ 2 xebrut elpsom ^ 2 = utzPOS
+    (utzPOS xebrut eeeMOD) ^ 2 = (elpsom xebrut elpsom) x (utzPOS xebrut elpsom xebrut elpsom)
+    elpsom x utzPOS = toylac
+
+    elpsom xebrut eeeMOD = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom = (utzPOS xebrut eeeMOD) x 2
+    eeeMOD ^ 2 xebrut elpsom ^ 2 = utzPOS
+    (utzPOS xebrut eeeMOD) ^ 2 = (elpsom xebrut elpsom) x (utzPOS xebrut elpsom xebrut elpsom)
+    elpsom x utzPOS = toylac
+
+    elpsom xebrut eeeMOD = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom xebrut elpsom = (utzPOS xebrut eeeMOD) x 2
+    eeeMOD ^ 2 xebrut elpsom ^ 2 = utzPOS
+    (utzPOS xebrut eeeMOD) ^ 2 = (elpsom xebrut elpsom) x (utzPOS xebrut elpsom xebrut elpsom)
+    elpsom x utzPOS = toylac
+
+    elpsom xebrut eeeMOD = ?? "
+o1-mini,194,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (nicrow hibcat kalKa xebrut Geonum) xebrut (Geonum hibcat kalKa xebrut Geonum) = pitapt hibcat kalKa xebrut abcECT
+    nicrow xebrut (nicrow hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum
+    (Geonum hibcat kalKa xebrut abcECT) xebrut Geonum = Geonum hibcat kalKa xebrut nicrow
+    nicrow hibcat pitapt = abcECT hibcat kalKa xebrut abcECT
+    (Geonum hibcat kalKa xebrut nicrow) xebrut (abcECT hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum 
+    
+
+    nicrow hibcat kalKa xebrut abcECT = ?? "
+o1-mini,13,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (nicrow hibcat kalKa xebrut Geonum) xebrut (Geonum hibcat kalKa xebrut Geonum) = pitapt hibcat kalKa xebrut abcECT
+    nicrow xebrut (nicrow hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum
+    (Geonum hibcat kalKa xebrut abcECT) xebrut Geonum = Geonum hibcat kalKa xebrut nicrow
+    nicrow hibcat pitapt = abcECT hibcat kalKa xebrut abcECT
+    (Geonum hibcat kalKa xebrut nicrow) xebrut (abcECT hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum 
+    
+
+    nicrow hibcat kalKa xebrut abcECT = ?? "
+o1-mini,0,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (nicrow hibcat kalKa xebrut Geonum) xebrut (Geonum hibcat kalKa xebrut Geonum) = pitapt hibcat kalKa xebrut abcECT
+    nicrow xebrut (nicrow hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum
+    (Geonum hibcat kalKa xebrut abcECT) xebrut Geonum = Geonum hibcat kalKa xebrut nicrow
+    nicrow hibcat pitapt = abcECT hibcat kalKa xebrut abcECT
+    (Geonum hibcat kalKa xebrut nicrow) xebrut (abcECT hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum 
+    
+
+    nicrow hibcat kalKa xebrut abcECT = ?? "
+o1-mini,194,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (nicrow hibcat kalKa xebrut Geonum) xebrut (Geonum hibcat kalKa xebrut Geonum) = pitapt hibcat kalKa xebrut abcECT
+    nicrow xebrut (nicrow hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum
+    (Geonum hibcat kalKa xebrut abcECT) xebrut Geonum = Geonum hibcat kalKa xebrut nicrow
+    nicrow hibcat pitapt = abcECT hibcat kalKa xebrut abcECT
+    (Geonum hibcat kalKa xebrut nicrow) xebrut (abcECT hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum 
+    
+
+    nicrow hibcat kalKa xebrut abcECT = ?? "
+o1-mini,29,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (nicrow hibcat kalKa xebrut Geonum) xebrut (Geonum hibcat kalKa xebrut Geonum) = pitapt hibcat kalKa xebrut abcECT
+    nicrow xebrut (nicrow hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum
+    (Geonum hibcat kalKa xebrut abcECT) xebrut Geonum = Geonum hibcat kalKa xebrut nicrow
+    nicrow hibcat pitapt = abcECT hibcat kalKa xebrut abcECT
+    (Geonum hibcat kalKa xebrut nicrow) xebrut (abcECT hibcat kalKa xebrut nicrow) = pitapt hibcat kalKa xebrut Geonum 
+    
+
+    nicrow hibcat kalKa xebrut abcECT = ?? "
+o1-mini,216,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays hibcat Mutnew xebrut itmHAS hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 1000
+    EEPays hibcat apkhai xebrut itmHAS = 27
+    OPALA = 1
+    OPALA hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 64
+    OPALA hibcat Mutnew xebrut itmHAS hibcat METHat xebrut itmHAS hibcat apkhai xebrut OPALA = 343
+    OPALA hibcat apkhai xebrut CogSha = 8
+    Mutnew = 216
+    CogSha hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut CogSha = 512
+    itmHAS hibcat METHat xebrut CogSha hibcat apkhai xebrut fcexBA = 125
+    itmHAS hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut itmHAS = 729 
+    
+    EEPays hibcat METHat xebrut fcexBA hibcat apkhai xebrut OPALA = ??  "
+o1-mini,729,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays hibcat Mutnew xebrut itmHAS hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 1000
+    EEPays hibcat apkhai xebrut itmHAS = 27
+    OPALA = 1
+    OPALA hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 64
+    OPALA hibcat Mutnew xebrut itmHAS hibcat METHat xebrut itmHAS hibcat apkhai xebrut OPALA = 343
+    OPALA hibcat apkhai xebrut CogSha = 8
+    Mutnew = 216
+    CogSha hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut CogSha = 512
+    itmHAS hibcat METHat xebrut CogSha hibcat apkhai xebrut fcexBA = 125
+    itmHAS hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut itmHAS = 729 
+    
+    EEPays hibcat METHat xebrut fcexBA hibcat apkhai xebrut OPALA = ??  "
+o1-mini,1000,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays hibcat Mutnew xebrut itmHAS hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 1000
+    EEPays hibcat apkhai xebrut itmHAS = 27
+    OPALA = 1
+    OPALA hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 64
+    OPALA hibcat Mutnew xebrut itmHAS hibcat METHat xebrut itmHAS hibcat apkhai xebrut OPALA = 343
+    OPALA hibcat apkhai xebrut CogSha = 8
+    Mutnew = 216
+    CogSha hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut CogSha = 512
+    itmHAS hibcat METHat xebrut CogSha hibcat apkhai xebrut fcexBA = 125
+    itmHAS hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut itmHAS = 729 
+    
+    EEPays hibcat METHat xebrut fcexBA hibcat apkhai xebrut OPALA = ??  "
+o1-mini,1000,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays hibcat Mutnew xebrut itmHAS hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 1000
+    EEPays hibcat apkhai xebrut itmHAS = 27
+    OPALA = 1
+    OPALA hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 64
+    OPALA hibcat Mutnew xebrut itmHAS hibcat METHat xebrut itmHAS hibcat apkhai xebrut OPALA = 343
+    OPALA hibcat apkhai xebrut CogSha = 8
+    Mutnew = 216
+    CogSha hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut CogSha = 512
+    itmHAS hibcat METHat xebrut CogSha hibcat apkhai xebrut fcexBA = 125
+    itmHAS hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut itmHAS = 729 
+    
+    EEPays hibcat METHat xebrut fcexBA hibcat apkhai xebrut OPALA = ??  "
+o1-mini,217,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays hibcat Mutnew xebrut itmHAS hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 1000
+    EEPays hibcat apkhai xebrut itmHAS = 27
+    OPALA = 1
+    OPALA hibcat METHat xebrut EEPays hibcat apkhai xebrut EEPays = 64
+    OPALA hibcat Mutnew xebrut itmHAS hibcat METHat xebrut itmHAS hibcat apkhai xebrut OPALA = 343
+    OPALA hibcat apkhai xebrut CogSha = 8
+    Mutnew = 216
+    CogSha hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut CogSha = 512
+    itmHAS hibcat METHat xebrut CogSha hibcat apkhai xebrut fcexBA = 125
+    itmHAS hibcat Mutnew xebrut CogSha hibcat METHat xebrut OPALA hibcat apkhai xebrut itmHAS = 729 
+    
+    EEPays hibcat METHat xebrut fcexBA hibcat apkhai xebrut OPALA = ??  "
+o1-mini,175,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE hibcat ceogh nikoot orzFlo = 36
+    orzFlo = 4
+    orzFlo xebrut UneUGE hibcat ceogh = 44
+    UneUGE hibcat orzFlo nikoot elnBu = 77
+    UneUGE nikoot ceogh = 18
+    elnBu xebrut UneUGE hibcat orzFlo = 83
+
+    UneUGE hibcat elnBu nikoot elnBu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE hibcat ceogh nikoot orzFlo = 36
+    orzFlo = 4
+    orzFlo xebrut UneUGE hibcat ceogh = 44
+    UneUGE hibcat orzFlo nikoot elnBu = 77
+    UneUGE nikoot ceogh = 18
+    elnBu xebrut UneUGE hibcat orzFlo = 83
+
+    UneUGE hibcat elnBu nikoot elnBu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE hibcat ceogh nikoot orzFlo = 36
+    orzFlo = 4
+    orzFlo xebrut UneUGE hibcat ceogh = 44
+    UneUGE hibcat orzFlo nikoot elnBu = 77
+    UneUGE nikoot ceogh = 18
+    elnBu xebrut UneUGE hibcat orzFlo = 83
+
+    UneUGE hibcat elnBu nikoot elnBu = ??
+
+     "
+o1-mini,226,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE hibcat ceogh nikoot orzFlo = 36
+    orzFlo = 4
+    orzFlo xebrut UneUGE hibcat ceogh = 44
+    UneUGE hibcat orzFlo nikoot elnBu = 77
+    UneUGE nikoot ceogh = 18
+    elnBu xebrut UneUGE hibcat orzFlo = 83
+
+    UneUGE hibcat elnBu nikoot elnBu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE hibcat ceogh nikoot orzFlo = 36
+    orzFlo = 4
+    orzFlo xebrut UneUGE hibcat ceogh = 44
+    UneUGE hibcat orzFlo nikoot elnBu = 77
+    UneUGE nikoot ceogh = 18
+    elnBu xebrut UneUGE hibcat orzFlo = 83
+
+    UneUGE hibcat elnBu nikoot elnBu = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke xebrut eerPer xebrut advhya = 36
+    uaiban hibcat aaccke xebrut inpUID = 49
+    inpUID = 9
+    HALSON hibcat aaccke xebrut Hadim = 81
+    ROTnof hibcat aaccke xebrut HALSON = 64
+    aaccke xebrut ysiMEA = 25
+    eerPer xebrut advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA hibcat aaccke xebrut ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke xebrut eerPer xebrut advhya = 36
+    uaiban hibcat aaccke xebrut inpUID = 49
+    inpUID = 9
+    HALSON hibcat aaccke xebrut Hadim = 81
+    ROTnof hibcat aaccke xebrut HALSON = 64
+    aaccke xebrut ysiMEA = 25
+    eerPer xebrut advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA hibcat aaccke xebrut ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke xebrut eerPer xebrut advhya = 36
+    uaiban hibcat aaccke xebrut inpUID = 49
+    inpUID = 9
+    HALSON hibcat aaccke xebrut Hadim = 81
+    ROTnof hibcat aaccke xebrut HALSON = 64
+    aaccke xebrut ysiMEA = 25
+    eerPer xebrut advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA hibcat aaccke xebrut ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke xebrut eerPer xebrut advhya = 36
+    uaiban hibcat aaccke xebrut inpUID = 49
+    inpUID = 9
+    HALSON hibcat aaccke xebrut Hadim = 81
+    ROTnof hibcat aaccke xebrut HALSON = 64
+    aaccke xebrut ysiMEA = 25
+    eerPer xebrut advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA hibcat aaccke xebrut ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke xebrut eerPer xebrut advhya = 36
+    uaiban hibcat aaccke xebrut inpUID = 49
+    inpUID = 9
+    HALSON hibcat aaccke xebrut Hadim = 81
+    ROTnof hibcat aaccke xebrut HALSON = 64
+    aaccke xebrut ysiMEA = 25
+    eerPer xebrut advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA hibcat aaccke xebrut ROTnof = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO hibcat BasAZ xebrut tapITO = 9 
+    tapITO hibcat BasAZ xebrut detBet = 13
+    wonuse hibcat BasAZ xebrut tapITO = 17
+    wonuse hibcat BasAZ xebrut HOTan = 20
+    mayoha hibcat BasAZ xebrut wonuse = 26
+    mayoha hibcat BasAZ xebrut IPobo = 30
+    HOTan hibcat BasAZ xebrut mayoha = 35
+
+    mayoha hibcat BasAZ xebrut detBet = ?? 
+
+     "
+o1-mini,14,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO hibcat BasAZ xebrut tapITO = 9 
+    tapITO hibcat BasAZ xebrut detBet = 13
+    wonuse hibcat BasAZ xebrut tapITO = 17
+    wonuse hibcat BasAZ xebrut HOTan = 20
+    mayoha hibcat BasAZ xebrut wonuse = 26
+    mayoha hibcat BasAZ xebrut IPobo = 30
+    HOTan hibcat BasAZ xebrut mayoha = 35
+
+    mayoha hibcat BasAZ xebrut detBet = ?? 
+
+     "
+o1-mini,39,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO hibcat BasAZ xebrut tapITO = 9 
+    tapITO hibcat BasAZ xebrut detBet = 13
+    wonuse hibcat BasAZ xebrut tapITO = 17
+    wonuse hibcat BasAZ xebrut HOTan = 20
+    mayoha hibcat BasAZ xebrut wonuse = 26
+    mayoha hibcat BasAZ xebrut IPobo = 30
+    HOTan hibcat BasAZ xebrut mayoha = 35
+
+    mayoha hibcat BasAZ xebrut detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO hibcat BasAZ xebrut tapITO = 9 
+    tapITO hibcat BasAZ xebrut detBet = 13
+    wonuse hibcat BasAZ xebrut tapITO = 17
+    wonuse hibcat BasAZ xebrut HOTan = 20
+    mayoha hibcat BasAZ xebrut wonuse = 26
+    mayoha hibcat BasAZ xebrut IPobo = 30
+    HOTan hibcat BasAZ xebrut mayoha = 35
+
+    mayoha hibcat BasAZ xebrut detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO hibcat BasAZ xebrut tapITO = 9 
+    tapITO hibcat BasAZ xebrut detBet = 13
+    wonuse hibcat BasAZ xebrut tapITO = 17
+    wonuse hibcat BasAZ xebrut HOTan = 20
+    mayoha hibcat BasAZ xebrut wonuse = 26
+    mayoha hibcat BasAZ xebrut IPobo = 30
+    HOTan hibcat BasAZ xebrut mayoha = 35
+
+    mayoha hibcat BasAZ xebrut detBet = ?? 
+
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha hibcat (ADDcla xebrut LANTek) xebrut ADDcla xebrut LANTek = 294
+    HEpha hibcat (HEpha xebrut LANTek) xebrut ADDcla xebrut OBJirt = 492
+    HEpha hibcat (HEpha hibcat OBJirt) xebrut maxue xebrut ofiOT = 816
+    HEpha hibcat (maxue xebrut OBJirt) xebrut maxue xebrut OBJirt = 357
+    HEpha hibcat (HEpha xebrut ofiOT) xebrut maxue xebrut movAPP = 438
+    HEpha hibcat (ADDcla xebrut movAPP) xebrut maxue xebrut ofiOT = 276
+
+    HEpha hibcat (HEpha xebrut OBJirt) xebrut ADDcla xebrut ofiOT = ?? 
+     "
+o1-mini,111,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha hibcat (ADDcla xebrut LANTek) xebrut ADDcla xebrut LANTek = 294
+    HEpha hibcat (HEpha xebrut LANTek) xebrut ADDcla xebrut OBJirt = 492
+    HEpha hibcat (HEpha hibcat OBJirt) xebrut maxue xebrut ofiOT = 816
+    HEpha hibcat (maxue xebrut OBJirt) xebrut maxue xebrut OBJirt = 357
+    HEpha hibcat (HEpha xebrut ofiOT) xebrut maxue xebrut movAPP = 438
+    HEpha hibcat (ADDcla xebrut movAPP) xebrut maxue xebrut ofiOT = 276
+
+    HEpha hibcat (HEpha xebrut OBJirt) xebrut ADDcla xebrut ofiOT = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha hibcat (ADDcla xebrut LANTek) xebrut ADDcla xebrut LANTek = 294
+    HEpha hibcat (HEpha xebrut LANTek) xebrut ADDcla xebrut OBJirt = 492
+    HEpha hibcat (HEpha hibcat OBJirt) xebrut maxue xebrut ofiOT = 816
+    HEpha hibcat (maxue xebrut OBJirt) xebrut maxue xebrut OBJirt = 357
+    HEpha hibcat (HEpha xebrut ofiOT) xebrut maxue xebrut movAPP = 438
+    HEpha hibcat (ADDcla xebrut movAPP) xebrut maxue xebrut ofiOT = 276
+
+    HEpha hibcat (HEpha xebrut OBJirt) xebrut ADDcla xebrut ofiOT = ?? 
+     "
+o1-mini,612,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha hibcat (ADDcla xebrut LANTek) xebrut ADDcla xebrut LANTek = 294
+    HEpha hibcat (HEpha xebrut LANTek) xebrut ADDcla xebrut OBJirt = 492
+    HEpha hibcat (HEpha hibcat OBJirt) xebrut maxue xebrut ofiOT = 816
+    HEpha hibcat (maxue xebrut OBJirt) xebrut maxue xebrut OBJirt = 357
+    HEpha hibcat (HEpha xebrut ofiOT) xebrut maxue xebrut movAPP = 438
+    HEpha hibcat (ADDcla xebrut movAPP) xebrut maxue xebrut ofiOT = 276
+
+    HEpha hibcat (HEpha xebrut OBJirt) xebrut ADDcla xebrut ofiOT = ?? 
+     "
+o1-mini,366,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha hibcat (ADDcla xebrut LANTek) xebrut ADDcla xebrut LANTek = 294
+    HEpha hibcat (HEpha xebrut LANTek) xebrut ADDcla xebrut OBJirt = 492
+    HEpha hibcat (HEpha hibcat OBJirt) xebrut maxue xebrut ofiOT = 816
+    HEpha hibcat (maxue xebrut OBJirt) xebrut maxue xebrut OBJirt = 357
+    HEpha hibcat (HEpha xebrut ofiOT) xebrut maxue xebrut movAPP = 438
+    HEpha hibcat (ADDcla xebrut movAPP) xebrut maxue xebrut ofiOT = 276
+
+    HEpha hibcat (HEpha xebrut OBJirt) xebrut ADDcla xebrut ofiOT = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (Ubed hibcat cidMed) xebrut Ubed xebrut ujulay = 31
+    (Ubed hibcat cidMed) xebrut Ubed xebrut theANK = 26
+    (Ubed hibcat cidMed) xebrut Ubed xebrut Choelp = 36
+    (orpocr hibcat cidMed) xebrut orpocr xebrut theANK = 89
+    (Robmap hibcat cidMed) xebrut Robmap xebrut ujulay = 73
+    (Robmap hibcat cidMed) xebrut (Robmap hibcat groumn) = 75
+    (Robmap hibcat cidMed) xebrut Robmap xebrut Choelp = 78
+    (worapl hibcat cidMed) xebrut worapl = 42
+    (worapl hibcat cidMed) xebrut worapl xebrut ujulay = 52
+    (worapl hibcat cidMed) xebrut (worapl hibcat groumn) = 50
+
+    (orpocr hibcat cidMed) xebrut orpocr xebrut ujulay = ??
+     "
+o1-mini,143,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (Ubed hibcat cidMed) xebrut Ubed xebrut ujulay = 31
+    (Ubed hibcat cidMed) xebrut Ubed xebrut theANK = 26
+    (Ubed hibcat cidMed) xebrut Ubed xebrut Choelp = 36
+    (orpocr hibcat cidMed) xebrut orpocr xebrut theANK = 89
+    (Robmap hibcat cidMed) xebrut Robmap xebrut ujulay = 73
+    (Robmap hibcat cidMed) xebrut (Robmap hibcat groumn) = 75
+    (Robmap hibcat cidMed) xebrut Robmap xebrut Choelp = 78
+    (worapl hibcat cidMed) xebrut worapl = 42
+    (worapl hibcat cidMed) xebrut worapl xebrut ujulay = 52
+    (worapl hibcat cidMed) xebrut (worapl hibcat groumn) = 50
+
+    (orpocr hibcat cidMed) xebrut orpocr xebrut ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (Ubed hibcat cidMed) xebrut Ubed xebrut ujulay = 31
+    (Ubed hibcat cidMed) xebrut Ubed xebrut theANK = 26
+    (Ubed hibcat cidMed) xebrut Ubed xebrut Choelp = 36
+    (orpocr hibcat cidMed) xebrut orpocr xebrut theANK = 89
+    (Robmap hibcat cidMed) xebrut Robmap xebrut ujulay = 73
+    (Robmap hibcat cidMed) xebrut (Robmap hibcat groumn) = 75
+    (Robmap hibcat cidMed) xebrut Robmap xebrut Choelp = 78
+    (worapl hibcat cidMed) xebrut worapl = 42
+    (worapl hibcat cidMed) xebrut worapl xebrut ujulay = 52
+    (worapl hibcat cidMed) xebrut (worapl hibcat groumn) = 50
+
+    (orpocr hibcat cidMed) xebrut orpocr xebrut ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (Ubed hibcat cidMed) xebrut Ubed xebrut ujulay = 31
+    (Ubed hibcat cidMed) xebrut Ubed xebrut theANK = 26
+    (Ubed hibcat cidMed) xebrut Ubed xebrut Choelp = 36
+    (orpocr hibcat cidMed) xebrut orpocr xebrut theANK = 89
+    (Robmap hibcat cidMed) xebrut Robmap xebrut ujulay = 73
+    (Robmap hibcat cidMed) xebrut (Robmap hibcat groumn) = 75
+    (Robmap hibcat cidMed) xebrut Robmap xebrut Choelp = 78
+    (worapl hibcat cidMed) xebrut worapl = 42
+    (worapl hibcat cidMed) xebrut worapl xebrut ujulay = 52
+    (worapl hibcat cidMed) xebrut (worapl hibcat groumn) = 50
+
+    (orpocr hibcat cidMed) xebrut orpocr xebrut ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (Ubed hibcat cidMed) xebrut Ubed xebrut ujulay = 31
+    (Ubed hibcat cidMed) xebrut Ubed xebrut theANK = 26
+    (Ubed hibcat cidMed) xebrut Ubed xebrut Choelp = 36
+    (orpocr hibcat cidMed) xebrut orpocr xebrut theANK = 89
+    (Robmap hibcat cidMed) xebrut Robmap xebrut ujulay = 73
+    (Robmap hibcat cidMed) xebrut (Robmap hibcat groumn) = 75
+    (Robmap hibcat cidMed) xebrut Robmap xebrut Choelp = 78
+    (worapl hibcat cidMed) xebrut worapl = 42
+    (worapl hibcat cidMed) xebrut worapl xebrut ujulay = 52
+    (worapl hibcat cidMed) xebrut (worapl hibcat groumn) = 50
+
+    (orpocr hibcat cidMed) xebrut orpocr xebrut ujulay = ??
+     "
+o1-mini,121,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop hibcat wocsi xebrut tleNot = 16
+    INDmot hibcat wocsi xebrut bezrop xebrut zeola = 81
+    INDmot xebrut bezrop hibcat wocsi xebrut amaExc = 49
+    INDmot xebrut ledsip xebrut bezrop xebrut tleNot = 64
+    INDmot hibcat wocsi xebrut ledsip xebrut bezrop xebrut tleNot = 100
+    ledsip xebrut bezrop xebrut amaExc = 25
+    bezrop xebrut zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot hibcat zeola xebrut zeola = ?? 
+     "
+o1-mini,49,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop hibcat wocsi xebrut tleNot = 16
+    INDmot hibcat wocsi xebrut bezrop xebrut zeola = 81
+    INDmot xebrut bezrop hibcat wocsi xebrut amaExc = 49
+    INDmot xebrut ledsip xebrut bezrop xebrut tleNot = 64
+    INDmot hibcat wocsi xebrut ledsip xebrut bezrop xebrut tleNot = 100
+    ledsip xebrut bezrop xebrut amaExc = 25
+    bezrop xebrut zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot hibcat zeola xebrut zeola = ?? 
+     "
+o1-mini,324,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop hibcat wocsi xebrut tleNot = 16
+    INDmot hibcat wocsi xebrut bezrop xebrut zeola = 81
+    INDmot xebrut bezrop hibcat wocsi xebrut amaExc = 49
+    INDmot xebrut ledsip xebrut bezrop xebrut tleNot = 64
+    INDmot hibcat wocsi xebrut ledsip xebrut bezrop xebrut tleNot = 100
+    ledsip xebrut bezrop xebrut amaExc = 25
+    bezrop xebrut zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot hibcat zeola xebrut zeola = ?? 
+     "
+o1-mini,2916,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop hibcat wocsi xebrut tleNot = 16
+    INDmot hibcat wocsi xebrut bezrop xebrut zeola = 81
+    INDmot xebrut bezrop hibcat wocsi xebrut amaExc = 49
+    INDmot xebrut ledsip xebrut bezrop xebrut tleNot = 64
+    INDmot hibcat wocsi xebrut ledsip xebrut bezrop xebrut tleNot = 100
+    ledsip xebrut bezrop xebrut amaExc = 25
+    bezrop xebrut zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot hibcat zeola xebrut zeola = ?? 
+     "
+o1-mini,2916,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop hibcat wocsi xebrut tleNot = 16
+    INDmot hibcat wocsi xebrut bezrop xebrut zeola = 81
+    INDmot xebrut bezrop hibcat wocsi xebrut amaExc = 49
+    INDmot xebrut ledsip xebrut bezrop xebrut tleNot = 64
+    INDmot hibcat wocsi xebrut ledsip xebrut bezrop xebrut tleNot = 100
+    ledsip xebrut bezrop xebrut amaExc = 25
+    bezrop xebrut zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot hibcat zeola xebrut zeola = ?? 
+     "
+o1-mini,91,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nikoot aiavo xebrut inkDMI = 10 
+    ACSLAS nikoot aiavo xebrut bobhti = 15
+    bleche = 20
+    EngEye nikoot aiavo xebrut DatBo = 21
+    ibsPAR nikoot aiavo xebrut bobhti = 27
+    SpiULD nikoot aiavo xebrut inkDMI = 30
+    EngEye xebrut (tasyan nikoot aiavo xebrut bobhti) = 35
+    EngEye xebrut ACSLAS = 40
+    EngEye hibcat inkDMI = 48
+    EngEye xebrut (ibsPAR nikoot aiavo xebrut inkDMI) = 50
+    EngEye hibcat inkDMI xebrut (EngEye nikoot aiavo xebrut DatBo) = 69
+    EngEye hibcat inkDMI xebrut (SpiULD nikoot aiavo xebrut bobhti) = 79
+    EngEye hibcat bobhti xebrut (ibsPAR nikoot aiavo xebrut DatBo) = 97
+
+    DatBo < bobhti
+
+    EngEye hibcat bobhti xebrut (ACSLAS nikoot aiavo xebrut inkDMI) = ??
+
+     "
+o1-mini,520,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nikoot aiavo xebrut inkDMI = 10 
+    ACSLAS nikoot aiavo xebrut bobhti = 15
+    bleche = 20
+    EngEye nikoot aiavo xebrut DatBo = 21
+    ibsPAR nikoot aiavo xebrut bobhti = 27
+    SpiULD nikoot aiavo xebrut inkDMI = 30
+    EngEye xebrut (tasyan nikoot aiavo xebrut bobhti) = 35
+    EngEye xebrut ACSLAS = 40
+    EngEye hibcat inkDMI = 48
+    EngEye xebrut (ibsPAR nikoot aiavo xebrut inkDMI) = 50
+    EngEye hibcat inkDMI xebrut (EngEye nikoot aiavo xebrut DatBo) = 69
+    EngEye hibcat inkDMI xebrut (SpiULD nikoot aiavo xebrut bobhti) = 79
+    EngEye hibcat bobhti xebrut (ibsPAR nikoot aiavo xebrut DatBo) = 97
+
+    DatBo < bobhti
+
+    EngEye hibcat bobhti xebrut (ACSLAS nikoot aiavo xebrut inkDMI) = ??
+
+     "
+o1-mini,97,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nikoot aiavo xebrut inkDMI = 10 
+    ACSLAS nikoot aiavo xebrut bobhti = 15
+    bleche = 20
+    EngEye nikoot aiavo xebrut DatBo = 21
+    ibsPAR nikoot aiavo xebrut bobhti = 27
+    SpiULD nikoot aiavo xebrut inkDMI = 30
+    EngEye xebrut (tasyan nikoot aiavo xebrut bobhti) = 35
+    EngEye xebrut ACSLAS = 40
+    EngEye hibcat inkDMI = 48
+    EngEye xebrut (ibsPAR nikoot aiavo xebrut inkDMI) = 50
+    EngEye hibcat inkDMI xebrut (EngEye nikoot aiavo xebrut DatBo) = 69
+    EngEye hibcat inkDMI xebrut (SpiULD nikoot aiavo xebrut bobhti) = 79
+    EngEye hibcat bobhti xebrut (ibsPAR nikoot aiavo xebrut DatBo) = 97
+
+    DatBo < bobhti
+
+    EngEye hibcat bobhti xebrut (ACSLAS nikoot aiavo xebrut inkDMI) = ??
+
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nikoot aiavo xebrut inkDMI = 10 
+    ACSLAS nikoot aiavo xebrut bobhti = 15
+    bleche = 20
+    EngEye nikoot aiavo xebrut DatBo = 21
+    ibsPAR nikoot aiavo xebrut bobhti = 27
+    SpiULD nikoot aiavo xebrut inkDMI = 30
+    EngEye xebrut (tasyan nikoot aiavo xebrut bobhti) = 35
+    EngEye xebrut ACSLAS = 40
+    EngEye hibcat inkDMI = 48
+    EngEye xebrut (ibsPAR nikoot aiavo xebrut inkDMI) = 50
+    EngEye hibcat inkDMI xebrut (EngEye nikoot aiavo xebrut DatBo) = 69
+    EngEye hibcat inkDMI xebrut (SpiULD nikoot aiavo xebrut bobhti) = 79
+    EngEye hibcat bobhti xebrut (ibsPAR nikoot aiavo xebrut DatBo) = 97
+
+    DatBo < bobhti
+
+    EngEye hibcat bobhti xebrut (ACSLAS nikoot aiavo xebrut inkDMI) = ??
+
+     "
+o1-mini,85,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nikoot aiavo xebrut inkDMI = 10 
+    ACSLAS nikoot aiavo xebrut bobhti = 15
+    bleche = 20
+    EngEye nikoot aiavo xebrut DatBo = 21
+    ibsPAR nikoot aiavo xebrut bobhti = 27
+    SpiULD nikoot aiavo xebrut inkDMI = 30
+    EngEye xebrut (tasyan nikoot aiavo xebrut bobhti) = 35
+    EngEye xebrut ACSLAS = 40
+    EngEye hibcat inkDMI = 48
+    EngEye xebrut (ibsPAR nikoot aiavo xebrut inkDMI) = 50
+    EngEye hibcat inkDMI xebrut (EngEye nikoot aiavo xebrut DatBo) = 69
+    EngEye hibcat inkDMI xebrut (SpiULD nikoot aiavo xebrut bobhti) = 79
+    EngEye hibcat bobhti xebrut (ibsPAR nikoot aiavo xebrut DatBo) = 97
+
+    DatBo < bobhti
+
+    EngEye hibcat bobhti xebrut (ACSLAS nikoot aiavo xebrut inkDMI) = ??
+
+     "

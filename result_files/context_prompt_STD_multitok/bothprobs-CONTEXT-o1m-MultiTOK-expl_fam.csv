@@ -1,0 +1,791 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags + ehags + ehags + ehags + ehags + ehags = (chodot + krehum) x 2
+    krehum ^ 2 + ehags ^ 2 = chodot
+    (chodot + krehum) ^ 2 = (ehags + ehags) x (chodot + ehags + ehags)
+    ehags x chodot = niyou
+
+    ehags + krehum = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags + ehags + ehags + ehags + ehags + ehags = (chodot + krehum) x 2
+    krehum ^ 2 + ehags ^ 2 = chodot
+    (chodot + krehum) ^ 2 = (ehags + ehags) x (chodot + ehags + ehags)
+    ehags x chodot = niyou
+
+    ehags + krehum = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags + ehags + ehags + ehags + ehags + ehags = (chodot + krehum) x 2
+    krehum ^ 2 + ehags ^ 2 = chodot
+    (chodot + krehum) ^ 2 = (ehags + ehags) x (chodot + ehags + ehags)
+    ehags x chodot = niyou
+
+    ehags + krehum = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags + ehags + ehags + ehags + ehags + ehags = (chodot + krehum) x 2
+    krehum ^ 2 + ehags ^ 2 = chodot
+    (chodot + krehum) ^ 2 = (ehags + ehags) x (chodot + ehags + ehags)
+    ehags x chodot = niyou
+
+    ehags + krehum = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags + ehags + ehags + ehags + ehags + ehags = (chodot + krehum) x 2
+    krehum ^ 2 + ehags ^ 2 = chodot
+    (chodot + krehum) ^ 2 = (ehags + ehags) x (chodot + ehags + ehags)
+    ehags x chodot = niyou
+
+    ehags + krehum = ??
+     "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid * maduis + gapthe) + (gapthe * maduis + gapthe) = owanic * maduis + hiit
+    squid + (squid * maduis + squid) = owanic * maduis + gapthe
+    (gapthe * maduis + hiit) + gapthe = gapthe * maduis + squid
+    squid * owanic = hiit * maduis + hiit
+    (gapthe * maduis + squid) + (hiit * maduis + squid) = owanic * maduis + gapthe 
+    
+
+    squid * maduis + hiit = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid * maduis + gapthe) + (gapthe * maduis + gapthe) = owanic * maduis + hiit
+    squid + (squid * maduis + squid) = owanic * maduis + gapthe
+    (gapthe * maduis + hiit) + gapthe = gapthe * maduis + squid
+    squid * owanic = hiit * maduis + hiit
+    (gapthe * maduis + squid) + (hiit * maduis + squid) = owanic * maduis + gapthe 
+    
+
+    squid * maduis + hiit = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid * maduis + gapthe) + (gapthe * maduis + gapthe) = owanic * maduis + hiit
+    squid + (squid * maduis + squid) = owanic * maduis + gapthe
+    (gapthe * maduis + hiit) + gapthe = gapthe * maduis + squid
+    squid * owanic = hiit * maduis + hiit
+    (gapthe * maduis + squid) + (hiit * maduis + squid) = owanic * maduis + gapthe 
+    
+
+    squid * maduis + hiit = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid * maduis + gapthe) + (gapthe * maduis + gapthe) = owanic * maduis + hiit
+    squid + (squid * maduis + squid) = owanic * maduis + gapthe
+    (gapthe * maduis + hiit) + gapthe = gapthe * maduis + squid
+    squid * owanic = hiit * maduis + hiit
+    (gapthe * maduis + squid) + (hiit * maduis + squid) = owanic * maduis + gapthe 
+    
+
+    squid * maduis + hiit = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid * maduis + gapthe) + (gapthe * maduis + gapthe) = owanic * maduis + hiit
+    squid + (squid * maduis + squid) = owanic * maduis + gapthe
+    (gapthe * maduis + hiit) + gapthe = gapthe * maduis + squid
+    squid * owanic = hiit * maduis + hiit
+    (gapthe * maduis + squid) + (hiit * maduis + squid) = owanic * maduis + gapthe 
+    
+
+    squid * maduis + hiit = ?? "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao * bumbay + tesii * acide + felao * manlo + felao = 1000
+    felao * manlo + tesii = 27
+    mulno = 1
+    mulno * acide + felao * manlo + felao = 64
+    mulno * bumbay + tesii * acide + tesii * manlo + mulno = 343
+    mulno * manlo + mornem = 8
+    bumbay = 216
+    mornem * bumbay + mornem * acide + mulno * manlo + mornem = 512
+    tesii * acide + mornem * manlo + kamays = 125
+    tesii * bumbay + mornem * acide + mulno * manlo + tesii = 729 
+    
+    felao * acide + kamays * manlo + mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao * bumbay + tesii * acide + felao * manlo + felao = 1000
+    felao * manlo + tesii = 27
+    mulno = 1
+    mulno * acide + felao * manlo + felao = 64
+    mulno * bumbay + tesii * acide + tesii * manlo + mulno = 343
+    mulno * manlo + mornem = 8
+    bumbay = 216
+    mornem * bumbay + mornem * acide + mulno * manlo + mornem = 512
+    tesii * acide + mornem * manlo + kamays = 125
+    tesii * bumbay + mornem * acide + mulno * manlo + tesii = 729 
+    
+    felao * acide + kamays * manlo + mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao * bumbay + tesii * acide + felao * manlo + felao = 1000
+    felao * manlo + tesii = 27
+    mulno = 1
+    mulno * acide + felao * manlo + felao = 64
+    mulno * bumbay + tesii * acide + tesii * manlo + mulno = 343
+    mulno * manlo + mornem = 8
+    bumbay = 216
+    mornem * bumbay + mornem * acide + mulno * manlo + mornem = 512
+    tesii * acide + mornem * manlo + kamays = 125
+    tesii * bumbay + mornem * acide + mulno * manlo + tesii = 729 
+    
+    felao * acide + kamays * manlo + mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao * bumbay + tesii * acide + felao * manlo + felao = 1000
+    felao * manlo + tesii = 27
+    mulno = 1
+    mulno * acide + felao * manlo + felao = 64
+    mulno * bumbay + tesii * acide + tesii * manlo + mulno = 343
+    mulno * manlo + mornem = 8
+    bumbay = 216
+    mornem * bumbay + mornem * acide + mulno * manlo + mornem = 512
+    tesii * acide + mornem * manlo + kamays = 125
+    tesii * bumbay + mornem * acide + mulno * manlo + tesii = 729 
+    
+    felao * acide + kamays * manlo + mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao * bumbay + tesii * acide + felao * manlo + felao = 1000
+    felao * manlo + tesii = 27
+    mulno = 1
+    mulno * acide + felao * manlo + felao = 64
+    mulno * bumbay + tesii * acide + tesii * manlo + mulno = 343
+    mulno * manlo + mornem = 8
+    bumbay = 216
+    mornem * bumbay + mornem * acide + mulno * manlo + mornem = 512
+    tesii * acide + mornem * manlo + kamays = 125
+    tesii * bumbay + mornem * acide + mulno * manlo + tesii = 729 
+    
+    felao * acide + kamays * manlo + mulno = ??  "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv * uxadh - irkial = 36
+    irkial = 4
+    inkiv * uxadh + irkial = 44
+    inkiv * irkial - difli = 77
+    inkiv - uxadh = 18
+    inkiv * irkial + difli = 83
+
+    inkiv * difli - difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv * uxadh - irkial = 36
+    irkial = 4
+    inkiv * uxadh + irkial = 44
+    inkiv * irkial - difli = 77
+    inkiv - uxadh = 18
+    inkiv * irkial + difli = 83
+
+    inkiv * difli - difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv * uxadh - irkial = 36
+    irkial = 4
+    inkiv * uxadh + irkial = 44
+    inkiv * irkial - difli = 77
+    inkiv - uxadh = 18
+    inkiv * irkial + difli = 83
+
+    inkiv * difli - difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv * uxadh - irkial = 36
+    irkial = 4
+    inkiv * uxadh + irkial = 44
+    inkiv * irkial - difli = 77
+    inkiv - uxadh = 18
+    inkiv * irkial + difli = 83
+
+    inkiv * difli - difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv * uxadh - irkial = 36
+    irkial = 4
+    inkiv * uxadh + irkial = 44
+    inkiv * irkial - difli = 77
+    inkiv - uxadh = 18
+    inkiv * irkial + difli = 83
+
+    inkiv * difli - difli = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask + niciau + cesric = 36
+    preea * samask + onsiel = 49
+    onsiel = 9
+    rotrom * samask + kogeof = 81
+    appita * samask + rotrom = 64
+    samask + timinx = 25
+    niciau + cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx * samask + appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask + niciau + cesric = 36
+    preea * samask + onsiel = 49
+    onsiel = 9
+    rotrom * samask + kogeof = 81
+    appita * samask + rotrom = 64
+    samask + timinx = 25
+    niciau + cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx * samask + appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask + niciau + cesric = 36
+    preea * samask + onsiel = 49
+    onsiel = 9
+    rotrom * samask + kogeof = 81
+    appita * samask + rotrom = 64
+    samask + timinx = 25
+    niciau + cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx * samask + appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask + niciau + cesric = 36
+    preea * samask + onsiel = 49
+    onsiel = 9
+    rotrom * samask + kogeof = 81
+    appita * samask + rotrom = 64
+    samask + timinx = 25
+    niciau + cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx * samask + appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask + niciau + cesric = 36
+    preea * samask + onsiel = 49
+    onsiel = 9
+    rotrom * samask + kogeof = 81
+    appita * samask + rotrom = 64
+    samask + timinx = 25
+    niciau + cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx * samask + appita = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf * tuetra + aloraf = 9 
+    aloraf * tuetra + iroing = 13
+    ansfas * tuetra + aloraf = 17
+    ansfas * tuetra + goems = 20
+    htuiii * tuetra + ansfas = 26
+    htuiii * tuetra + ipiinu = 30
+    goems * tuetra + htuiii = 35
+
+    htuiii * tuetra + iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf * tuetra + aloraf = 9 
+    aloraf * tuetra + iroing = 13
+    ansfas * tuetra + aloraf = 17
+    ansfas * tuetra + goems = 20
+    htuiii * tuetra + ansfas = 26
+    htuiii * tuetra + ipiinu = 30
+    goems * tuetra + htuiii = 35
+
+    htuiii * tuetra + iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf * tuetra + aloraf = 9 
+    aloraf * tuetra + iroing = 13
+    ansfas * tuetra + aloraf = 17
+    ansfas * tuetra + goems = 20
+    htuiii * tuetra + ansfas = 26
+    htuiii * tuetra + ipiinu = 30
+    goems * tuetra + htuiii = 35
+
+    htuiii * tuetra + iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf * tuetra + aloraf = 9 
+    aloraf * tuetra + iroing = 13
+    ansfas * tuetra + aloraf = 17
+    ansfas * tuetra + goems = 20
+    htuiii * tuetra + ansfas = 26
+    htuiii * tuetra + ipiinu = 30
+    goems * tuetra + htuiii = 35
+
+    htuiii * tuetra + iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf * tuetra + aloraf = 9 
+    aloraf * tuetra + iroing = 13
+    ansfas * tuetra + aloraf = 17
+    ansfas * tuetra + goems = 20
+    htuiii * tuetra + ansfas = 26
+    htuiii * tuetra + ipiinu = 30
+    goems * tuetra + htuiii = 35
+
+    htuiii * tuetra + iroing = ?? 
+
+     "
+o1-mini,702,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia * (tabmot + vresie) + tabmot + vresie = 294 
+    raadia * (raadia + vresie) + tabmot + xfevoz = 492 
+    raadia * (raadia * xfevoz) + latiss + licnon = 816
+    raadia * (latiss + xfevoz) + latiss + xfevoz = 357
+    raadia * (raadia + licnon) + latiss + ispagd = 438
+    raadia * (tabmot + ispagd) + latiss + licnon = 276 
+
+    raadia * (raadia + xfevoz) + tabmot + licnon = ?? 
+     "
+o1-mini,520,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia * (tabmot + vresie) + tabmot + vresie = 294 
+    raadia * (raadia + vresie) + tabmot + xfevoz = 492 
+    raadia * (raadia * xfevoz) + latiss + licnon = 816
+    raadia * (latiss + xfevoz) + latiss + xfevoz = 357
+    raadia * (raadia + licnon) + latiss + ispagd = 438
+    raadia * (tabmot + ispagd) + latiss + licnon = 276 
+
+    raadia * (raadia + xfevoz) + tabmot + licnon = ?? 
+     "
+o1-mini,900,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia * (tabmot + vresie) + tabmot + vresie = 294 
+    raadia * (raadia + vresie) + tabmot + xfevoz = 492 
+    raadia * (raadia * xfevoz) + latiss + licnon = 816
+    raadia * (latiss + xfevoz) + latiss + xfevoz = 357
+    raadia * (raadia + licnon) + latiss + ispagd = 438
+    raadia * (tabmot + ispagd) + latiss + licnon = 276 
+
+    raadia * (raadia + xfevoz) + tabmot + licnon = ?? 
+     "
+o1-mini,390,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia * (tabmot + vresie) + tabmot + vresie = 294 
+    raadia * (raadia + vresie) + tabmot + xfevoz = 492 
+    raadia * (raadia * xfevoz) + latiss + licnon = 816
+    raadia * (latiss + xfevoz) + latiss + xfevoz = 357
+    raadia * (raadia + licnon) + latiss + ispagd = 438
+    raadia * (tabmot + ispagd) + latiss + licnon = 276 
+
+    raadia * (raadia + xfevoz) + tabmot + licnon = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia * (tabmot + vresie) + tabmot + vresie = 294 
+    raadia * (raadia + vresie) + tabmot + xfevoz = 492 
+    raadia * (raadia * xfevoz) + latiss + licnon = 816
+    raadia * (latiss + xfevoz) + latiss + xfevoz = 357
+    raadia * (raadia + licnon) + latiss + ispagd = 438
+    raadia * (tabmot + ispagd) + latiss + licnon = 276 
+
+    raadia * (raadia + xfevoz) + tabmot + licnon = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat * casllo) + ceoat + kazyet = 31
+    (ceoat * casllo) + ceoat + hadyii = 26
+    (ceoat * casllo) + ceoat + awnvia = 36
+    (berul * casllo) + berul + hadyii = 89
+    (beiget * casllo) + beiget + kazyet = 73
+    (beiget * casllo) + (beiget * owytay) = 75
+    (beiget * casllo) + beiget + awnvia = 78
+    (thaunt * casllo) + thaunt = 42
+    (thaunt * casllo) + thaunt + kazyet = 52
+    (thaunt * casllo) + (thaunt * owytay) = 50
+
+    (berul * casllo) + berul + kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat * casllo) + ceoat + kazyet = 31
+    (ceoat * casllo) + ceoat + hadyii = 26
+    (ceoat * casllo) + ceoat + awnvia = 36
+    (berul * casllo) + berul + hadyii = 89
+    (beiget * casllo) + beiget + kazyet = 73
+    (beiget * casllo) + (beiget * owytay) = 75
+    (beiget * casllo) + beiget + awnvia = 78
+    (thaunt * casllo) + thaunt = 42
+    (thaunt * casllo) + thaunt + kazyet = 52
+    (thaunt * casllo) + (thaunt * owytay) = 50
+
+    (berul * casllo) + berul + kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat * casllo) + ceoat + kazyet = 31
+    (ceoat * casllo) + ceoat + hadyii = 26
+    (ceoat * casllo) + ceoat + awnvia = 36
+    (berul * casllo) + berul + hadyii = 89
+    (beiget * casllo) + beiget + kazyet = 73
+    (beiget * casllo) + (beiget * owytay) = 75
+    (beiget * casllo) + beiget + awnvia = 78
+    (thaunt * casllo) + thaunt = 42
+    (thaunt * casllo) + thaunt + kazyet = 52
+    (thaunt * casllo) + (thaunt * owytay) = 50
+
+    (berul * casllo) + berul + kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat * casllo) + ceoat + kazyet = 31
+    (ceoat * casllo) + ceoat + hadyii = 26
+    (ceoat * casllo) + ceoat + awnvia = 36
+    (berul * casllo) + berul + hadyii = 89
+    (beiget * casllo) + beiget + kazyet = 73
+    (beiget * casllo) + (beiget * owytay) = 75
+    (beiget * casllo) + beiget + awnvia = 78
+    (thaunt * casllo) + thaunt = 42
+    (thaunt * casllo) + thaunt + kazyet = 52
+    (thaunt * casllo) + (thaunt * owytay) = 50
+
+    (berul * casllo) + berul + kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat * casllo) + ceoat + kazyet = 31
+    (ceoat * casllo) + ceoat + hadyii = 26
+    (ceoat * casllo) + ceoat + awnvia = 36
+    (berul * casllo) + berul + hadyii = 89
+    (beiget * casllo) + beiget + kazyet = 73
+    (beiget * casllo) + (beiget * owytay) = 75
+    (beiget * casllo) + beiget + awnvia = 78
+    (thaunt * casllo) + thaunt = 42
+    (thaunt * casllo) + thaunt + kazyet = 52
+    (thaunt * casllo) + (thaunt * owytay) = 50
+
+    (berul * casllo) + berul + kazyet = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye * unzoe + dosons = 16
+    azzghi * unzoe + digye + odbipo = 81
+    azzghi + digye * unzoe + irkga = 49
+    azzghi + ujoyin + digye + dosons = 64
+    azzghi * unzoe + ujoyin + digye + dosons = 100
+    ujoyin + digye + irkga = 25
+    digye + odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi * odbipo + odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye * unzoe + dosons = 16
+    azzghi * unzoe + digye + odbipo = 81
+    azzghi + digye * unzoe + irkga = 49
+    azzghi + ujoyin + digye + dosons = 64
+    azzghi * unzoe + ujoyin + digye + dosons = 100
+    ujoyin + digye + irkga = 25
+    digye + odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi * odbipo + odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye * unzoe + dosons = 16
+    azzghi * unzoe + digye + odbipo = 81
+    azzghi + digye * unzoe + irkga = 49
+    azzghi + ujoyin + digye + dosons = 64
+    azzghi * unzoe + ujoyin + digye + dosons = 100
+    ujoyin + digye + irkga = 25
+    digye + odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi * odbipo + odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye * unzoe + dosons = 16
+    azzghi * unzoe + digye + odbipo = 81
+    azzghi + digye * unzoe + irkga = 49
+    azzghi + ujoyin + digye + dosons = 64
+    azzghi * unzoe + ujoyin + digye + dosons = 100
+    ujoyin + digye + irkga = 25
+    digye + odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi * odbipo + odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye * unzoe + dosons = 16
+    azzghi * unzoe + digye + odbipo = 81
+    azzghi + digye * unzoe + irkga = 49
+    azzghi + ujoyin + digye + dosons = 64
+    azzghi * unzoe + ujoyin + digye + dosons = 100
+    ujoyin + digye + irkga = 25
+    digye + odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi * odbipo + odbipo = ?? 
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic - alluzu + ruism = 10 
+    damfed - alluzu + eguomb = 15
+    wireen = 20
+    yarxi - alluzu + arnast = 21
+    bufova - alluzu + eguomb = 27
+    muthas - alluzu + ruism = 30
+    yarxi + (tosmic - alluzu + eguomb) = 35
+    yarxi + damfed = 40
+    yarxi * ruism = 48
+    yarxi + (bufova - alluzu + ruism) = 50
+    yarxi * ruism + (yarxi - alluzu + arnast) = 69
+    yarxi * ruism + (muthas - alluzu + eguomb) = 79
+    yarxi * eguomb + (bufova - alluzu + arnast) = 97
+
+    arnast < eguomb
+
+    yarxi * eguomb + (damfed - alluzu + ruism) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic - alluzu + ruism = 10 
+    damfed - alluzu + eguomb = 15
+    wireen = 20
+    yarxi - alluzu + arnast = 21
+    bufova - alluzu + eguomb = 27
+    muthas - alluzu + ruism = 30
+    yarxi + (tosmic - alluzu + eguomb) = 35
+    yarxi + damfed = 40
+    yarxi * ruism = 48
+    yarxi + (bufova - alluzu + ruism) = 50
+    yarxi * ruism + (yarxi - alluzu + arnast) = 69
+    yarxi * ruism + (muthas - alluzu + eguomb) = 79
+    yarxi * eguomb + (bufova - alluzu + arnast) = 97
+
+    arnast < eguomb
+
+    yarxi * eguomb + (damfed - alluzu + ruism) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic - alluzu + ruism = 10 
+    damfed - alluzu + eguomb = 15
+    wireen = 20
+    yarxi - alluzu + arnast = 21
+    bufova - alluzu + eguomb = 27
+    muthas - alluzu + ruism = 30
+    yarxi + (tosmic - alluzu + eguomb) = 35
+    yarxi + damfed = 40
+    yarxi * ruism = 48
+    yarxi + (bufova - alluzu + ruism) = 50
+    yarxi * ruism + (yarxi - alluzu + arnast) = 69
+    yarxi * ruism + (muthas - alluzu + eguomb) = 79
+    yarxi * eguomb + (bufova - alluzu + arnast) = 97
+
+    arnast < eguomb
+
+    yarxi * eguomb + (damfed - alluzu + ruism) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic - alluzu + ruism = 10 
+    damfed - alluzu + eguomb = 15
+    wireen = 20
+    yarxi - alluzu + arnast = 21
+    bufova - alluzu + eguomb = 27
+    muthas - alluzu + ruism = 30
+    yarxi + (tosmic - alluzu + eguomb) = 35
+    yarxi + damfed = 40
+    yarxi * ruism = 48
+    yarxi + (bufova - alluzu + ruism) = 50
+    yarxi * ruism + (yarxi - alluzu + arnast) = 69
+    yarxi * ruism + (muthas - alluzu + eguomb) = 79
+    yarxi * eguomb + (bufova - alluzu + arnast) = 97
+
+    arnast < eguomb
+
+    yarxi * eguomb + (damfed - alluzu + ruism) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic - alluzu + ruism = 10 
+    damfed - alluzu + eguomb = 15
+    wireen = 20
+    yarxi - alluzu + arnast = 21
+    bufova - alluzu + eguomb = 27
+    muthas - alluzu + ruism = 30
+    yarxi + (tosmic - alluzu + eguomb) = 35
+    yarxi + damfed = 40
+    yarxi * ruism = 48
+    yarxi + (bufova - alluzu + ruism) = 50
+    yarxi * ruism + (yarxi - alluzu + arnast) = 69
+    yarxi * ruism + (muthas - alluzu + eguomb) = 79
+    yarxi * eguomb + (bufova - alluzu + arnast) = 97
+
+    arnast < eguomb
+
+    yarxi * eguomb + (damfed - alluzu + ruism) = ??
+
+     "

@@ -1,0 +1,921 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    (gunjej μ lidolu) ν gunjej ν ueruvo = 31
+    (gunjej μ lidolu) ν gunjej ν jegew = 26
+    (gunjej μ lidolu) ν gunjej ν surdap = 36
+    (uoscor μ lidolu) ν uoscor ν jegew = 89
+    (rowim μ lidolu) ν rowim ν ueruvo = 73
+    (rowim μ lidolu) ν (rowim μ gpurek) = 75
+    (rowim μ lidolu) ν rowim ν surdap = 78
+    (titimm μ lidolu) ν titimm = 42
+    (titimm μ lidolu) ν titimm ν ueruvo = 52
+    (titimm μ lidolu) ν (titimm μ gpurek) = 50
+
+    (uoscor μ lidolu) ν uoscor ν ueruvo = ??
+     "
+o1-mini,88,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    (cefper τ eeeegt) ε cefper ε sedsam = 31
+    (cefper τ eeeegt) ε cefper ε sombut = 26
+    (cefper τ eeeegt) ε cefper ε ikte = 36
+    (hinrah τ eeeegt) ε hinrah ε sombut = 89
+    (etaias τ eeeegt) ε etaias ε sedsam = 73
+    (etaias τ eeeegt) ε (etaias τ aspsoc) = 75
+    (etaias τ eeeegt) ε etaias ε ikte = 78
+    (dpixab τ eeeegt) ε dpixab = 42
+    (dpixab τ eeeegt) ε dpixab ε sedsam = 52
+    (dpixab τ eeeegt) ε (dpixab τ aspsoc) = 50
+
+    (hinrah τ eeeegt) ε hinrah ε sedsam = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    (utocre ν mixius) δ utocre δ remuin = 31
+    (utocre ν mixius) δ utocre δ rocox = 26
+    (utocre ν mixius) δ utocre δ attugi = 36
+    (opeant ν mixius) δ opeant δ rocox = 89
+    (irezed ν mixius) δ irezed δ remuin = 73
+    (irezed ν mixius) δ (irezed ν prodoi) = 75
+    (irezed ν mixius) δ irezed δ attugi = 78
+    (vieogr ν mixius) δ vieogr = 42
+    (vieogr ν mixius) δ vieogr δ remuin = 52
+    (vieogr ν mixius) δ (vieogr ν prodoi) = 50
+
+    (opeant ν mixius) δ opeant δ remuin = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    (monice λ latwei) α monice α mudev = 31
+    (monice λ latwei) α monice α iniwij = 26
+    (monice λ latwei) α monice α friinx = 36
+    (escipa λ latwei) α escipa α iniwij = 89
+    (psioi λ latwei) α psioi α mudev = 73
+    (psioi λ latwei) α (psioi λ guntag) = 75
+    (psioi λ latwei) α psioi α friinx = 78
+    (desnil λ latwei) α desnil = 42
+    (desnil λ latwei) α desnil α mudev = 52
+    (desnil λ latwei) α (desnil λ guntag) = 50
+
+    (escipa λ latwei) α escipa α mudev = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    (ilibox μ sedvel) ε ilibox ε koplen = 31
+    (ilibox μ sedvel) ε ilibox ε ottrec = 26
+    (ilibox μ sedvel) ε ilibox ε binowi = 36
+    (codecz μ sedvel) ε codecz ε ottrec = 89
+    (awiego μ sedvel) ε awiego ε koplen = 73
+    (awiego μ sedvel) ε (awiego μ hibed) = 75
+    (awiego μ sedvel) ε awiego ε binowi = 78
+    (colna μ sedvel) ε colna = 42
+    (colna μ sedvel) ε colna ε koplen = 52
+    (colna μ sedvel) ε (colna μ hibed) = 50
+
+    (codecz μ sedvel) ε codecz ε koplen = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    calimg μ xiapy θ finpi = 16
+    lohout μ xiapy θ calimg θ ouvji = 81
+    lohout θ calimg μ xiapy θ endidd = 49
+    lohout θ unsnio θ calimg θ finpi = 64
+    lohout μ xiapy θ unsnio θ calimg θ finpi = 100
+    unsnio θ calimg θ endidd = 25
+    calimg θ ouvji = 9
+    finpi = 4
+    endidd = 1
+    lohout = 36
+
+    lohout μ ouvji θ ouvji = ?? 
+     "
+o1-mini,64,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    hamcio η ralerr χ utadon = 16
+    aufmed η ralerr χ hamcio χ gowinf = 81
+    aufmed χ hamcio η ralerr χ elzer = 49
+    aufmed χ dupips χ hamcio χ utadon = 64
+    aufmed η ralerr χ dupips χ hamcio χ utadon = 100
+    dupips χ hamcio χ elzer = 25
+    hamcio χ gowinf = 9
+    utadon = 4
+    elzer = 1
+    aufmed = 36
+
+    aufmed η gowinf χ gowinf = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    nesnaz ω keup ι etidou = 16
+    xeakit ω keup ι nesnaz ι cheexp = 81
+    xeakit ι nesnaz ω keup ι apeacl = 49
+    xeakit ι mesulo ι nesnaz ι etidou = 64
+    xeakit ω keup ι mesulo ι nesnaz ι etidou = 100
+    mesulo ι nesnaz ι apeacl = 25
+    nesnaz ι cheexp = 9
+    etidou = 4
+    apeacl = 1
+    xeakit = 36
+
+    xeakit ω cheexp ι cheexp = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    jeeinv δ zetnor ρ ipcomo = 16
+    hraxce δ zetnor ρ jeeinv ρ emsism = 81
+    hraxce ρ jeeinv δ zetnor ρ gifodd = 49
+    hraxce ρ heyicl ρ jeeinv ρ ipcomo = 64
+    hraxce δ zetnor ρ heyicl ρ jeeinv ρ ipcomo = 100
+    heyicl ρ jeeinv ρ gifodd = 25
+    jeeinv ρ emsism = 9
+    ipcomo = 4
+    gifodd = 1
+    hraxce = 36
+
+    hraxce δ emsism ρ emsism = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    ingink μ sheyla σ acboz = 16
+    cumike μ sheyla σ ingink σ pedodo = 81
+    cumike σ ingink μ sheyla σ azalm = 49
+    cumike σ ipptex σ ingink σ acboz = 64
+    cumike μ sheyla σ ipptex σ ingink σ acboz = 100
+    ipptex σ ingink σ azalm = 25
+    ingink σ pedodo = 9
+    acboz = 4
+    azalm = 1
+    cumike = 36
+
+    cumike μ pedodo σ pedodo = ?? 
+     "
+o1-mini,1,37,birom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    All numbers in this problem are greater than 0 and less than 125.
+
+    urleur ^ 2 φ okaenv φ gilip = phefig μ tocpi φ cafvan
+    okaenv ^ gilip = phefig μ subesp φ (phefig ξ okaenv)
+    ucdao ^ 2 φ (phefig ξ okaenv) φ ezact = phefig μ gilip φ (phefig ξ ezact)
+    (phefig ξ okaenv) ^ ezact = (phefig ξ okaenv)
+    cafvan ^ 2 φ tocpi φ urleur = phefig μ urleur φ (phefig ξ ezact)
+    tocpi ^ urleur = phefig μ tocpi φ cafvan
+    (phefig ξ okaenv) ^ 2 φ gilip φ okaenv = phefig μ ucdao φ gilip
+    gilip ^ okaenv = phefig μ urleur φ gilip
+    phefig φ gilip φ phefig φ (phefig ξ okaenv) = phefig φ subesp φ tocpi φ phefig φ urleur
+
+    phefig μ okaenv φ ezact = ??
+
+     "
+o1-mini,1,37,birom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    All numbers in this problem are greater than 0 and less than 125.
+
+    urncki ^ 2 ξ uxlez ξ hekios = abdro η totifa ξ uvwala
+    uxlez ^ hekios = abdro η howfo ξ (abdro β uxlez)
+    mobie ^ 2 ξ (abdro β uxlez) ξ jaore = abdro η hekios ξ (abdro β jaore)
+    (abdro β uxlez) ^ jaore = (abdro β uxlez)
+    uvwala ^ 2 ξ totifa ξ urncki = abdro η urncki ξ (abdro β jaore)
+    totifa ^ urncki = abdro η totifa ξ uvwala
+    (abdro β uxlez) ^ 2 ξ hekios ξ uxlez = abdro η mobie ξ hekios
+    hekios ^ uxlez = abdro η urncki ξ hekios
+    abdro ξ hekios ξ abdro ξ (abdro β uxlez) = abdro ξ howfo ξ totifa ξ abdro ξ urncki
+
+    abdro η uxlez ξ jaore = ??
+
+     "
+o1-mini,4,37,birom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    All numbers in this problem are greater than 0 and less than 125.
+
+    ruaxae ^ 2 ι ctahay ι outmux = nerlin κ ninkin ι afsero
+    ctahay ^ outmux = nerlin κ rawla ι (nerlin φ ctahay)
+    dalxab ^ 2 ι (nerlin φ ctahay) ι zzajac = nerlin κ outmux ι (nerlin φ zzajac)
+    (nerlin φ ctahay) ^ zzajac = (nerlin φ ctahay)
+    afsero ^ 2 ι ninkin ι ruaxae = nerlin κ ruaxae ι (nerlin φ zzajac)
+    ninkin ^ ruaxae = nerlin κ ninkin ι afsero
+    (nerlin φ ctahay) ^ 2 ι outmux ι ctahay = nerlin κ dalxab ι outmux
+    outmux ^ ctahay = nerlin κ ruaxae ι outmux
+    nerlin ι outmux ι nerlin ι (nerlin φ ctahay) = nerlin ι rawla ι ninkin ι nerlin ι ruaxae
+
+    nerlin κ ctahay ι zzajac = ??
+
+     "
+o1-mini,8,37,birom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    All numbers in this problem are greater than 0 and less than 125.
+
+    lleham ^ 2 α besoff α tauson = funo ξ zear α baera
+    besoff ^ tauson = funo ξ untrho α (funo κ besoff)
+    putmon ^ 2 α (funo κ besoff) α itsrio = funo ξ tauson α (funo κ itsrio)
+    (funo κ besoff) ^ itsrio = (funo κ besoff)
+    baera ^ 2 α zear α lleham = funo ξ lleham α (funo κ itsrio)
+    zear ^ lleham = funo ξ zear α baera
+    (funo κ besoff) ^ 2 α tauson α besoff = funo ξ putmon α tauson
+    tauson ^ besoff = funo ξ lleham α tauson
+    funo α tauson α funo α (funo κ besoff) = funo α untrho α zear α funo α lleham
+
+    funo ξ besoff α itsrio = ??
+
+     "
+o1-mini,27,37,birom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    All numbers in this problem are greater than 0 and less than 125.
+
+    lexeda ^ 2 θ oitexc θ recdet = etikt π wobia θ arfxef
+    oitexc ^ recdet = etikt π umpdev θ (etikt ε oitexc)
+    atsgte ^ 2 θ (etikt ε oitexc) θ rowout = etikt π recdet θ (etikt ε rowout)
+    (etikt ε oitexc) ^ rowout = (etikt ε oitexc)
+    arfxef ^ 2 θ wobia θ lexeda = etikt π lexeda θ (etikt ε rowout)
+    wobia ^ lexeda = etikt π wobia θ arfxef
+    (etikt ε oitexc) ^ 2 θ recdet θ oitexc = etikt π atsgte θ recdet
+    recdet ^ oitexc = etikt π lexeda θ recdet
+    etikt θ recdet θ etikt θ (etikt ε oitexc) = etikt θ umpdev θ wobia θ etikt θ lexeda
+
+    etikt π oitexc θ rowout = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    euis τ nemix φ filram = 10 
+    vorode τ nemix φ olpal = 15
+    arusr = 20
+    spiish τ nemix φ cotehr = 21
+    fteno τ nemix φ olpal = 27
+    jetim τ nemix φ filram = 30
+    spiish φ (euis τ nemix φ olpal) = 35
+    spiish φ vorode = 40
+    spiish δ filram = 48
+    spiish φ (fteno τ nemix φ filram) = 50
+    spiish δ filram φ (spiish τ nemix φ cotehr) = 69
+    spiish δ filram φ (jetim τ nemix φ olpal) = 79
+    spiish δ olpal φ (fteno τ nemix φ cotehr) = 97
+
+    cotehr < olpal
+
+    spiish δ olpal φ (vorode τ nemix φ filram) = ??
+
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    wedtid κ paylog τ eatlus = 10 
+    ongams κ paylog τ epsapk = 15
+    nutke = 20
+    uggfil κ paylog τ trisi = 21
+    xabcus κ paylog τ epsapk = 27
+    satep κ paylog τ eatlus = 30
+    uggfil τ (wedtid κ paylog τ epsapk) = 35
+    uggfil τ ongams = 40
+    uggfil σ eatlus = 48
+    uggfil τ (xabcus κ paylog τ eatlus) = 50
+    uggfil σ eatlus τ (uggfil κ paylog τ trisi) = 69
+    uggfil σ eatlus τ (satep κ paylog τ epsapk) = 79
+    uggfil σ epsapk τ (xabcus κ paylog τ trisi) = 97
+
+    trisi < epsapk
+
+    uggfil σ epsapk τ (ongams κ paylog τ eatlus) = ??
+
+     "
+o1-mini,92,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    mexdsa κ locdur π extsel = 10 
+    kayope κ locdur π sarda = 15
+    viiu = 20
+    itoi κ locdur π pieury = 21
+    exprsa κ locdur π sarda = 27
+    pdoabc κ locdur π extsel = 30
+    itoi π (mexdsa κ locdur π sarda) = 35
+    itoi π kayope = 40
+    itoi ε extsel = 48
+    itoi π (exprsa κ locdur π extsel) = 50
+    itoi ε extsel π (itoi κ locdur π pieury) = 69
+    itoi ε extsel π (pdoabc κ locdur π sarda) = 79
+    itoi ε sarda π (exprsa κ locdur π pieury) = 97
+
+    pieury < sarda
+
+    itoi ε sarda π (kayope κ locdur π extsel) = ??
+
+     "
+o1-mini,120,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    erevas λ cumiod ρ ifryet = 10 
+    laydot λ cumiod ρ iflou = 15
+    cpufas = 20
+    efetro λ cumiod ρ isace = 21
+    bidcus λ cumiod ρ iflou = 27
+    uneara λ cumiod ρ ifryet = 30
+    efetro ρ (erevas λ cumiod ρ iflou) = 35
+    efetro ρ laydot = 40
+    efetro ξ ifryet = 48
+    efetro ρ (bidcus λ cumiod ρ ifryet) = 50
+    efetro ξ ifryet ρ (efetro λ cumiod ρ isace) = 69
+    efetro ξ ifryet ρ (uneara λ cumiod ρ iflou) = 79
+    efetro ξ iflou ρ (bidcus λ cumiod ρ isace) = 97
+
+    isace < iflou
+
+    efetro ξ iflou ρ (laydot λ cumiod ρ ifryet) = ??
+
+     "
+o1-mini,120,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    afxinc φ gugle γ ognhof = 10 
+    sixyor φ gugle γ uthecc = 15
+    rapder = 20
+    eornas φ gugle γ becea = 21
+    ecodb φ gugle γ uthecc = 27
+    humpet φ gugle γ ognhof = 30
+    eornas γ (afxinc φ gugle γ uthecc) = 35
+    eornas γ sixyor = 40
+    eornas ω ognhof = 48
+    eornas γ (ecodb φ gugle γ ognhof) = 50
+    eornas ω ognhof γ (eornas φ gugle γ becea) = 69
+    eornas ω ognhof γ (humpet φ gugle γ uthecc) = 79
+    eornas ω uthecc γ (ecodb φ gugle γ becea) = 97
+
+    becea < uthecc
+
+    eornas ω uthecc γ (sixyor φ gugle γ ognhof) = ??
+
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    anccur α anccur α anccur α anccur α anccur α anccur = (quiwal α nicatk) x 2
+    nicatk ^ 2 α anccur ^ 2 = quiwal
+    (quiwal α nicatk) ^ 2 = (anccur α anccur) x (quiwal α anccur α anccur)
+    anccur x quiwal = ixcus
+
+    anccur α nicatk = ??
+     "
+o1-mini,2,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    funes υ funes υ funes υ funes υ funes υ funes = (bruapy υ equjob) x 2
+    equjob ^ 2 υ funes ^ 2 = bruapy
+    (bruapy υ equjob) ^ 2 = (funes υ funes) x (bruapy υ funes υ funes)
+    funes x bruapy = argbob
+
+    funes υ equjob = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    invton η invton η invton η invton η invton η invton = (tteabr η bbeats) x 2
+    bbeats ^ 2 η invton ^ 2 = tteabr
+    (tteabr η bbeats) ^ 2 = (invton η invton) x (tteabr η invton η invton)
+    invton x tteabr = ifudi
+
+    invton η bbeats = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    adtecn ω adtecn ω adtecn ω adtecn ω adtecn ω adtecn = (calho ω alaaur) x 2
+    alaaur ^ 2 ω adtecn ^ 2 = calho
+    (calho ω alaaur) ^ 2 = (adtecn ω adtecn) x (calho ω adtecn ω adtecn)
+    adtecn x calho = opiapo
+
+    adtecn ω alaaur = ??
+     "
+o1-mini,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    ogakke θ ogakke θ ogakke θ ogakke θ ogakke θ ogakke = (loxosa θ epmpi) x 2
+    epmpi ^ 2 θ ogakke ^ 2 = loxosa
+    (loxosa θ epmpi) ^ 2 = (ogakke θ ogakke) x (loxosa θ ogakke θ ogakke)
+    ogakke x loxosa = peeiev
+
+    ogakke θ epmpi = ??
+     "
+o1-mini,16,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (divece ι yetary υ orerep) υ (orerep ι yetary υ orerep) = winerb ι yetary υ tramat
+    divece υ (divece ι yetary υ divece) = winerb ι yetary υ orerep
+    (orerep ι yetary υ tramat) υ orerep = orerep ι yetary υ divece
+    divece ι winerb = tramat ι yetary υ tramat
+    (orerep ι yetary υ divece) υ (tramat ι yetary υ divece) = winerb ι yetary υ orerep 
+    
+
+    divece ι yetary υ tramat = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (fenen ψ anaipt ξ owoano) ξ (owoano ψ anaipt ξ owoano) = peook ψ anaipt ξ weiiap
+    fenen ξ (fenen ψ anaipt ξ fenen) = peook ψ anaipt ξ owoano
+    (owoano ψ anaipt ξ weiiap) ξ owoano = owoano ψ anaipt ξ fenen
+    fenen ψ peook = weiiap ψ anaipt ξ weiiap
+    (owoano ψ anaipt ξ fenen) ξ (weiiap ψ anaipt ξ fenen) = peook ψ anaipt ξ owoano 
+    
+
+    fenen ψ anaipt ξ weiiap = ?? "
+o1-mini,12,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (ultaa ψ hcilez τ ossaze) τ (ossaze ψ hcilez τ ossaze) = losnam ψ hcilez τ wenbes
+    ultaa τ (ultaa ψ hcilez τ ultaa) = losnam ψ hcilez τ ossaze
+    (ossaze ψ hcilez τ wenbes) τ ossaze = ossaze ψ hcilez τ ultaa
+    ultaa ψ losnam = wenbes ψ hcilez τ wenbes
+    (ossaze ψ hcilez τ ultaa) τ (wenbes ψ hcilez τ ultaa) = losnam ψ hcilez τ ossaze 
+    
+
+    ultaa ψ hcilez τ wenbes = ?? "
+o1-mini,12,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (leiigg δ pedler ι garein) ι (garein δ pedler ι garein) = iaeeq δ pedler ι atsiv
+    leiigg ι (leiigg δ pedler ι leiigg) = iaeeq δ pedler ι garein
+    (garein δ pedler ι atsiv) ι garein = garein δ pedler ι leiigg
+    leiigg δ iaeeq = atsiv δ pedler ι atsiv
+    (garein δ pedler ι leiigg) ι (atsiv δ pedler ι leiigg) = iaeeq δ pedler ι garein 
+    
+
+    leiigg δ pedler ι atsiv = ?? "
+o1-mini,3014,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (vatop γ eusama π iodhel) π (iodhel γ eusama π iodhel) = oshuen γ eusama π ueiam
+    vatop π (vatop γ eusama π vatop) = oshuen γ eusama π iodhel
+    (iodhel γ eusama π ueiam) π iodhel = iodhel γ eusama π vatop
+    vatop γ oshuen = ueiam γ eusama π ueiam
+    (iodhel γ eusama π vatop) π (ueiam γ eusama π vatop) = oshuen γ eusama π iodhel 
+    
+
+    vatop γ eusama π ueiam = ?? "
+o1-mini,25,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    oruful ε levfu θ unaold ε impho θ oruful ε toapi θ oruful = 1000
+    oruful ε toapi θ unaold = 27
+    ivalit = 1
+    ivalit ε impho θ oruful ε toapi θ oruful = 64
+    ivalit ε levfu θ unaold ε impho θ unaold ε toapi θ ivalit = 343
+    ivalit ε toapi θ ryorix = 8
+    levfu = 216
+    ryorix ε levfu θ ryorix ε impho θ ivalit ε toapi θ ryorix = 512
+    unaold ε impho θ ryorix ε toapi θ usets = 125
+    unaold ε levfu θ ryorix ε impho θ ivalit ε toapi θ unaold = 729 
+    
+    oruful ε toapi θ ivalit = ??  "
+o1-mini,64,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    plaxad λ rugyat μ inysci λ afxge μ plaxad λ didamt μ plaxad = 1000
+    plaxad λ didamt μ inysci = 27
+    zeint = 1
+    zeint λ afxge μ plaxad λ didamt μ plaxad = 64
+    zeint λ rugyat μ inysci λ afxge μ inysci λ didamt μ zeint = 343
+    zeint λ didamt μ bobaad = 8
+    rugyat = 216
+    bobaad λ rugyat μ bobaad λ afxge μ zeint λ didamt μ bobaad = 512
+    inysci λ afxge μ bobaad λ didamt μ coghid = 125
+    inysci λ rugyat μ bobaad λ afxge μ zeint λ didamt μ inysci = 729 
+    
+    plaxad λ didamt μ zeint = ??  "
+o1-mini,10,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    angic β octrie φ htaweg β xabneg φ angic β impeof φ angic = 1000
+    angic β impeof φ htaweg = 27
+    quigpu = 1
+    quigpu β xabneg φ angic β impeof φ angic = 64
+    quigpu β octrie φ htaweg β xabneg φ htaweg β impeof φ quigpu = 343
+    quigpu β impeof φ teawy = 8
+    octrie = 216
+    teawy β octrie φ teawy β xabneg φ quigpu β impeof φ teawy = 512
+    htaweg β xabneg φ teawy β impeof φ socol = 125
+    htaweg β octrie φ teawy β xabneg φ quigpu β impeof φ htaweg = 729 
+    
+    angic β impeof φ quigpu = ??  "
+o1-mini,1000,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    ejsorm ν peur σ akiocr ν amashe σ ejsorm ν erkjen σ ejsorm = 1000
+    ejsorm ν erkjen σ akiocr = 27
+    antau = 1
+    antau ν amashe σ ejsorm ν erkjen σ ejsorm = 64
+    antau ν peur σ akiocr ν amashe σ akiocr ν erkjen σ antau = 343
+    antau ν erkjen σ ievcap = 8
+    peur = 216
+    ievcap ν peur σ ievcap ν amashe σ antau ν erkjen σ ievcap = 512
+    akiocr ν amashe σ ievcap ν erkjen σ eragam = 125
+    akiocr ν peur σ ievcap ν amashe σ antau ν erkjen σ akiocr = 729 
+    
+    ejsorm ν erkjen σ antau = ??  "
+o1-mini,25,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    exoudp φ nitpat ω fatab φ owaera ω exoudp φ keyexp ω exoudp = 1000
+    exoudp φ keyexp ω fatab = 27
+    camety = 1
+    camety φ owaera ω exoudp φ keyexp ω exoudp = 64
+    camety φ nitpat ω fatab φ owaera ω fatab φ keyexp ω camety = 343
+    camety φ keyexp ω howmur = 8
+    nitpat = 216
+    howmur φ nitpat ω howmur φ owaera ω camety φ keyexp ω howmur = 512
+    fatab φ owaera ω howmur φ keyexp ω ipaigh = 125
+    fatab φ nitpat ω howmur φ owaera ω camety φ keyexp ω fatab = 729 
+    
+    exoudp φ keyexp ω camety = ??  "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    valorg = 2 
+    uespor λ valorg ι uthdal = 36
+    uthdal = 4
+    uthdal κ uespor λ valorg = 44
+    uespor λ uthdal ι retobl = 77
+    uespor ι valorg = 18
+    retobl κ uespor λ uthdal = 83
+
+    uespor λ retobl ι retobl = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    aimtok = 2 
+    ypicus ι aimtok ψ aidoid = 36
+    aidoid = 4
+    aidoid θ ypicus ι aimtok = 44
+    ypicus ι aidoid ψ azemi = 77
+    ypicus ψ aimtok = 18
+    azemi θ ypicus ι aidoid = 83
+
+    ypicus ι azemi ψ azemi = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    aesha = 2 
+    roiawl ξ aesha ι ixathe = 36
+    ixathe = 4
+    ixathe ν roiawl ξ aesha = 44
+    roiawl ξ ixathe ι oshdie = 77
+    roiawl ι aesha = 18
+    oshdie ν roiawl ξ ixathe = 83
+
+    roiawl ξ oshdie ι oshdie = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    honamb = 2 
+    encyre χ honamb ζ petrho = 36
+    petrho = 4
+    petrho τ encyre χ honamb = 44
+    encyre χ petrho ζ vizus = 77
+    encyre ζ honamb = 18
+    vizus τ encyre χ petrho = 83
+
+    encyre χ vizus ζ vizus = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    silren = 2 
+    owkok η silren λ ypemac = 36
+    ypemac = 4
+    ypemac π owkok η silren = 44
+    owkok η ypemac λ deslep = 77
+    owkok λ silren = 18
+    deslep π owkok η ypemac = 83
+
+    owkok η deslep λ deslep = ??
+
+     "
+o1-mini,49,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    issarc τ iidutc τ ruzotp = 36
+    wisnis γ issarc τ mesmet = 49
+    mesmet = 9
+    numagu γ issarc τ oupsab = 81
+    polems γ issarc τ numagu = 64
+    issarc τ limson = 25
+    iidutc τ ruzotp = 16
+    numagu = 4 
+    oupsab = 1
+
+    limson γ issarc τ polems = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    grozek ζ euopy ζ unssu = 36
+    iccict ω grozek ζ camhas = 49
+    camhas = 9
+    hieq ω grozek ζ ashoak = 81
+    dtoows ω grozek ζ hieq = 64
+    grozek ζ dasseg = 25
+    euopy ζ unssu = 16
+    hieq = 4 
+    ashoak = 1
+
+    dasseg ω grozek ζ dtoows = ??
+     "
+o1-mini,144,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    cisobo υ sudig υ homnos = 36
+    chuadr ψ cisobo υ ethtam = 49
+    ethtam = 9
+    antnow ψ cisobo υ gewany = 81
+    getubi ψ cisobo υ antnow = 64
+    cisobo υ lihum = 25
+    sudig υ homnos = 16
+    antnow = 4 
+    gewany = 1
+
+    lihum ψ cisobo υ getubi = ??
+     "
+o1-mini,80,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    cowtim β gititu β deepeg = 36
+    vasgi ι cowtim β idaobj = 49
+    idaobj = 9
+    herrac ι cowtim β inaeu = 81
+    iocehr ι cowtim β herrac = 64
+    cowtim β finify = 25
+    gititu β deepeg = 16
+    herrac = 4 
+    inaeu = 1
+
+    finify ι cowtim β iocehr = ??
+     "
+o1-mini,125,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    ciomir η agrbum η levwa = 36
+    winale κ ciomir η nitafi = 49
+    nitafi = 9
+    jedar κ ciomir η edsben = 81
+    iccuid κ ciomir η jedar = 64
+    ciomir η nyapin = 25
+    agrbum η levwa = 16
+    jedar = 4 
+    edsben = 1
+
+    nyapin κ ciomir η iccuid = ??
+     "
+o1-mini,40,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    adrif σ emouct ε eneape = 9 
+    adrif σ emouct ε punoir = 13
+    letgas σ emouct ε eneape = 17
+    letgas σ emouct ε itbir = 20
+    raag σ emouct ε letgas = 26
+    raag σ emouct ε velopy = 30
+    itbir σ emouct ε raag = 35
+
+    raag σ emouct ε punoir = ?? 
+
+     "
+o1-mini,34,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    gemtam μ ieiark ν belrol = 9 
+    gemtam μ ieiark ν behone = 13
+    hasgu μ ieiark ν belrol = 17
+    hasgu μ ieiark ν ousset = 20
+    digush μ ieiark ν hasgu = 26
+    digush μ ieiark ν iobi = 30
+    ousset μ ieiark ν digush = 35
+
+    digush μ ieiark ν behone = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    eprew φ rahdux γ cioxy = 9 
+    eprew φ rahdux γ dagtet = 13
+    rapsec φ rahdux γ cioxy = 17
+    rapsec φ rahdux γ amuemu = 20
+    ageqid φ rahdux γ rapsec = 26
+    ageqid φ rahdux γ oddbag = 30
+    amuemu φ rahdux γ ageqid = 35
+
+    ageqid φ rahdux γ dagtet = ?? 
+
+     "
+o1-mini,41,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    dueaws χ xilaw ε ahreu = 9 
+    dueaws χ xilaw ε expno = 13
+    murero χ xilaw ε ahreu = 17
+    murero χ xilaw ε ucscac = 20
+    orbumu χ xilaw ε murero = 26
+    orbumu χ xilaw ε aaaarg = 30
+    ucscac χ xilaw ε orbumu = 35
+
+    orbumu χ xilaw ε expno = ?? 
+
+     "
+o1-mini,10,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    defues κ cesmun χ menvas = 9 
+    defues κ cesmun χ loyzel = 13
+    agmit κ cesmun χ menvas = 17
+    agmit κ cesmun χ abrana = 20
+    irqki κ cesmun χ agmit = 26
+    irqki κ cesmun χ elsorn = 30
+    abrana κ cesmun χ irqki = 35
+
+    irqki κ cesmun χ loyzel = ?? 
+
+     "

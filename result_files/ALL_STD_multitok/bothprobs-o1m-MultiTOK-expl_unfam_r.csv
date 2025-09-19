@@ -1,0 +1,790 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,10,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus hibcat futex xebrut gascap hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 1000
+    koshus hibcat eomse xebrut gascap = 27
+    lecfat = 1
+    lecfat hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 64
+    lecfat hibcat futex xebrut gascap hibcat torcci xebrut gascap hibcat eomse xebrut lecfat = 343
+    lecfat hibcat eomse xebrut ugiuri = 8
+    futex = 216
+    ugiuri hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut ugiuri = 512
+    gascap hibcat torcci xebrut ugiuri hibcat eomse xebrut xiaech = 125
+    gascap hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut gascap = 729 
+    
+    koshus hibcat torcci xebrut xiaech hibcat eomse xebrut lecfat = ??  "
+o1-mini,120,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus hibcat futex xebrut gascap hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 1000
+    koshus hibcat eomse xebrut gascap = 27
+    lecfat = 1
+    lecfat hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 64
+    lecfat hibcat futex xebrut gascap hibcat torcci xebrut gascap hibcat eomse xebrut lecfat = 343
+    lecfat hibcat eomse xebrut ugiuri = 8
+    futex = 216
+    ugiuri hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut ugiuri = 512
+    gascap hibcat torcci xebrut ugiuri hibcat eomse xebrut xiaech = 125
+    gascap hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut gascap = 729 
+    
+    koshus hibcat torcci xebrut xiaech hibcat eomse xebrut lecfat = ??  "
+o1-mini,343,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus hibcat futex xebrut gascap hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 1000
+    koshus hibcat eomse xebrut gascap = 27
+    lecfat = 1
+    lecfat hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 64
+    lecfat hibcat futex xebrut gascap hibcat torcci xebrut gascap hibcat eomse xebrut lecfat = 343
+    lecfat hibcat eomse xebrut ugiuri = 8
+    futex = 216
+    ugiuri hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut ugiuri = 512
+    gascap hibcat torcci xebrut ugiuri hibcat eomse xebrut xiaech = 125
+    gascap hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut gascap = 729 
+    
+    koshus hibcat torcci xebrut xiaech hibcat eomse xebrut lecfat = ??  "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus hibcat futex xebrut gascap hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 1000
+    koshus hibcat eomse xebrut gascap = 27
+    lecfat = 1
+    lecfat hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 64
+    lecfat hibcat futex xebrut gascap hibcat torcci xebrut gascap hibcat eomse xebrut lecfat = 343
+    lecfat hibcat eomse xebrut ugiuri = 8
+    futex = 216
+    ugiuri hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut ugiuri = 512
+    gascap hibcat torcci xebrut ugiuri hibcat eomse xebrut xiaech = 125
+    gascap hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut gascap = 729 
+    
+    koshus hibcat torcci xebrut xiaech hibcat eomse xebrut lecfat = ??  "
+o1-mini,343,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus hibcat futex xebrut gascap hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 1000
+    koshus hibcat eomse xebrut gascap = 27
+    lecfat = 1
+    lecfat hibcat torcci xebrut koshus hibcat eomse xebrut koshus = 64
+    lecfat hibcat futex xebrut gascap hibcat torcci xebrut gascap hibcat eomse xebrut lecfat = 343
+    lecfat hibcat eomse xebrut ugiuri = 8
+    futex = 216
+    ugiuri hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut ugiuri = 512
+    gascap hibcat torcci xebrut ugiuri hibcat eomse xebrut xiaech = 125
+    gascap hibcat futex xebrut ugiuri hibcat torcci xebrut lecfat hibcat eomse xebrut gascap = 729 
+    
+    koshus hibcat torcci xebrut xiaech hibcat eomse xebrut lecfat = ??  "
+o1-mini,116,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume hibcat diswa nikoot oeava = 36
+    oeava = 4
+    oeava xebrut preume hibcat diswa = 44
+    preume hibcat oeava nikoot bamgu = 77
+    preume nikoot diswa = 18
+    bamgu xebrut preume hibcat oeava = 83
+
+    preume hibcat bamgu nikoot bamgu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume hibcat diswa nikoot oeava = 36
+    oeava = 4
+    oeava xebrut preume hibcat diswa = 44
+    preume hibcat oeava nikoot bamgu = 77
+    preume nikoot diswa = 18
+    bamgu xebrut preume hibcat oeava = 83
+
+    preume hibcat bamgu nikoot bamgu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume hibcat diswa nikoot oeava = 36
+    oeava = 4
+    oeava xebrut preume hibcat diswa = 44
+    preume hibcat oeava nikoot bamgu = 77
+    preume nikoot diswa = 18
+    bamgu xebrut preume hibcat oeava = 83
+
+    preume hibcat bamgu nikoot bamgu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume hibcat diswa nikoot oeava = 36
+    oeava = 4
+    oeava xebrut preume hibcat diswa = 44
+    preume hibcat oeava nikoot bamgu = 77
+    preume nikoot diswa = 18
+    bamgu xebrut preume hibcat oeava = 83
+
+    preume hibcat bamgu nikoot bamgu = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume hibcat diswa nikoot oeava = 36
+    oeava = 4
+    oeava xebrut preume hibcat diswa = 44
+    preume hibcat oeava nikoot bamgu = 77
+    preume nikoot diswa = 18
+    bamgu xebrut preume hibcat oeava = 83
+
+    preume hibcat bamgu nikoot bamgu = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee xebrut apadal xebrut aedibe = 36
+    abcjas hibcat evalee xebrut audkee = 49
+    audkee = 9
+    tleug hibcat evalee xebrut chabak = 81
+    ezqli hibcat evalee xebrut tleug = 64
+    evalee xebrut wiknos = 25
+    apadal xebrut aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos hibcat evalee xebrut ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee xebrut apadal xebrut aedibe = 36
+    abcjas hibcat evalee xebrut audkee = 49
+    audkee = 9
+    tleug hibcat evalee xebrut chabak = 81
+    ezqli hibcat evalee xebrut tleug = 64
+    evalee xebrut wiknos = 25
+    apadal xebrut aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos hibcat evalee xebrut ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee xebrut apadal xebrut aedibe = 36
+    abcjas hibcat evalee xebrut audkee = 49
+    audkee = 9
+    tleug hibcat evalee xebrut chabak = 81
+    ezqli hibcat evalee xebrut tleug = 64
+    evalee xebrut wiknos = 25
+    apadal xebrut aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos hibcat evalee xebrut ezqli = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee xebrut apadal xebrut aedibe = 36
+    abcjas hibcat evalee xebrut audkee = 49
+    audkee = 9
+    tleug hibcat evalee xebrut chabak = 81
+    ezqli hibcat evalee xebrut tleug = 64
+    evalee xebrut wiknos = 25
+    apadal xebrut aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos hibcat evalee xebrut ezqli = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee xebrut apadal xebrut aedibe = 36
+    abcjas hibcat evalee xebrut audkee = 49
+    audkee = 9
+    tleug hibcat evalee xebrut chabak = 81
+    ezqli hibcat evalee xebrut tleug = 64
+    evalee xebrut wiknos = 25
+    apadal xebrut aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos hibcat evalee xebrut ezqli = ??
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi hibcat ssaypo xebrut ummdi = 9 
+    ummdi hibcat ssaypo xebrut yalace = 13
+    toncor hibcat ssaypo xebrut ummdi = 17
+    toncor hibcat ssaypo xebrut reqbid = 20
+    rifior hibcat ssaypo xebrut toncor = 26
+    rifior hibcat ssaypo xebrut firuss = 30
+    reqbid hibcat ssaypo xebrut rifior = 35
+
+    rifior hibcat ssaypo xebrut yalace = ?? 
+
+     "
+o1-mini,41,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi hibcat ssaypo xebrut ummdi = 9 
+    ummdi hibcat ssaypo xebrut yalace = 13
+    toncor hibcat ssaypo xebrut ummdi = 17
+    toncor hibcat ssaypo xebrut reqbid = 20
+    rifior hibcat ssaypo xebrut toncor = 26
+    rifior hibcat ssaypo xebrut firuss = 30
+    reqbid hibcat ssaypo xebrut rifior = 35
+
+    rifior hibcat ssaypo xebrut yalace = ?? 
+
+     "
+o1-mini,28,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi hibcat ssaypo xebrut ummdi = 9 
+    ummdi hibcat ssaypo xebrut yalace = 13
+    toncor hibcat ssaypo xebrut ummdi = 17
+    toncor hibcat ssaypo xebrut reqbid = 20
+    rifior hibcat ssaypo xebrut toncor = 26
+    rifior hibcat ssaypo xebrut firuss = 30
+    reqbid hibcat ssaypo xebrut rifior = 35
+
+    rifior hibcat ssaypo xebrut yalace = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi hibcat ssaypo xebrut ummdi = 9 
+    ummdi hibcat ssaypo xebrut yalace = 13
+    toncor hibcat ssaypo xebrut ummdi = 17
+    toncor hibcat ssaypo xebrut reqbid = 20
+    rifior hibcat ssaypo xebrut toncor = 26
+    rifior hibcat ssaypo xebrut firuss = 30
+    reqbid hibcat ssaypo xebrut rifior = 35
+
+    rifior hibcat ssaypo xebrut yalace = ?? 
+
+     "
+o1-mini,40,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi hibcat ssaypo xebrut ummdi = 9 
+    ummdi hibcat ssaypo xebrut yalace = 13
+    toncor hibcat ssaypo xebrut ummdi = 17
+    toncor hibcat ssaypo xebrut reqbid = 20
+    rifior hibcat ssaypo xebrut toncor = 26
+    rifior hibcat ssaypo xebrut firuss = 30
+    reqbid hibcat ssaypo xebrut rifior = 35
+
+    rifior hibcat ssaypo xebrut yalace = ?? 
+
+     "
+
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad hibcat pagig) xebrut masaad xebrut opbob = 31
+    (masaad hibcat pagig) xebrut masaad xebrut buylen = 26
+    (masaad hibcat pagig) xebrut masaad xebrut gbaifi = 36
+    (innops hibcat pagig) xebrut innops xebrut buylen = 89
+    (asflat hibcat pagig) xebrut asflat xebrut opbob = 73
+    (asflat hibcat pagig) xebrut (asflat hibcat kould) = 75
+    (asflat hibcat pagig) xebrut asflat xebrut gbaifi = 78
+    (ajssci hibcat pagig) xebrut ajssci = 42
+    (ajssci hibcat pagig) xebrut ajssci xebrut opbob = 52
+    (ajssci hibcat pagig) xebrut (ajssci hibcat kould) = 50
+
+    (innops hibcat pagig) xebrut innops xebrut opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad hibcat pagig) xebrut masaad xebrut opbob = 31
+    (masaad hibcat pagig) xebrut masaad xebrut buylen = 26
+    (masaad hibcat pagig) xebrut masaad xebrut gbaifi = 36
+    (innops hibcat pagig) xebrut innops xebrut buylen = 89
+    (asflat hibcat pagig) xebrut asflat xebrut opbob = 73
+    (asflat hibcat pagig) xebrut (asflat hibcat kould) = 75
+    (asflat hibcat pagig) xebrut asflat xebrut gbaifi = 78
+    (ajssci hibcat pagig) xebrut ajssci = 42
+    (ajssci hibcat pagig) xebrut ajssci xebrut opbob = 52
+    (ajssci hibcat pagig) xebrut (ajssci hibcat kould) = 50
+
+    (innops hibcat pagig) xebrut innops xebrut opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad hibcat pagig) xebrut masaad xebrut opbob = 31
+    (masaad hibcat pagig) xebrut masaad xebrut buylen = 26
+    (masaad hibcat pagig) xebrut masaad xebrut gbaifi = 36
+    (innops hibcat pagig) xebrut innops xebrut buylen = 89
+    (asflat hibcat pagig) xebrut asflat xebrut opbob = 73
+    (asflat hibcat pagig) xebrut (asflat hibcat kould) = 75
+    (asflat hibcat pagig) xebrut asflat xebrut gbaifi = 78
+    (ajssci hibcat pagig) xebrut ajssci = 42
+    (ajssci hibcat pagig) xebrut ajssci xebrut opbob = 52
+    (ajssci hibcat pagig) xebrut (ajssci hibcat kould) = 50
+
+    (innops hibcat pagig) xebrut innops xebrut opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad hibcat pagig) xebrut masaad xebrut opbob = 31
+    (masaad hibcat pagig) xebrut masaad xebrut buylen = 26
+    (masaad hibcat pagig) xebrut masaad xebrut gbaifi = 36
+    (innops hibcat pagig) xebrut innops xebrut buylen = 89
+    (asflat hibcat pagig) xebrut asflat xebrut opbob = 73
+    (asflat hibcat pagig) xebrut (asflat hibcat kould) = 75
+    (asflat hibcat pagig) xebrut asflat xebrut gbaifi = 78
+    (ajssci hibcat pagig) xebrut ajssci = 42
+    (ajssci hibcat pagig) xebrut ajssci xebrut opbob = 52
+    (ajssci hibcat pagig) xebrut (ajssci hibcat kould) = 50
+
+    (innops hibcat pagig) xebrut innops xebrut opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad hibcat pagig) xebrut masaad xebrut opbob = 31
+    (masaad hibcat pagig) xebrut masaad xebrut buylen = 26
+    (masaad hibcat pagig) xebrut masaad xebrut gbaifi = 36
+    (innops hibcat pagig) xebrut innops xebrut buylen = 89
+    (asflat hibcat pagig) xebrut asflat xebrut opbob = 73
+    (asflat hibcat pagig) xebrut (asflat hibcat kould) = 75
+    (asflat hibcat pagig) xebrut asflat xebrut gbaifi = 78
+    (ajssci hibcat pagig) xebrut ajssci = 42
+    (ajssci hibcat pagig) xebrut ajssci xebrut opbob = 52
+    (ajssci hibcat pagig) xebrut (ajssci hibcat kould) = 50
+
+    (innops hibcat pagig) xebrut innops xebrut opbob = ??
+     "
+o1-mini,100,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom hibcat xedci xebrut impind = 16
+    lowkok hibcat xedci xebrut tabdom xebrut idearo = 81
+    lowkok xebrut tabdom hibcat xedci xebrut docaid = 49
+    lowkok xebrut uueth xebrut tabdom xebrut impind = 64
+    lowkok hibcat xedci xebrut uueth xebrut tabdom xebrut impind = 100
+    uueth xebrut tabdom xebrut docaid = 25
+    tabdom xebrut idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok hibcat idearo xebrut idearo = ?? 
+     "
+o1-mini,100,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom hibcat xedci xebrut impind = 16
+    lowkok hibcat xedci xebrut tabdom xebrut idearo = 81
+    lowkok xebrut tabdom hibcat xedci xebrut docaid = 49
+    lowkok xebrut uueth xebrut tabdom xebrut impind = 64
+    lowkok hibcat xedci xebrut uueth xebrut tabdom xebrut impind = 100
+    uueth xebrut tabdom xebrut docaid = 25
+    tabdom xebrut idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok hibcat idearo xebrut idearo = ?? 
+     "
+o1-mini,100,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom hibcat xedci xebrut impind = 16
+    lowkok hibcat xedci xebrut tabdom xebrut idearo = 81
+    lowkok xebrut tabdom hibcat xedci xebrut docaid = 49
+    lowkok xebrut uueth xebrut tabdom xebrut impind = 64
+    lowkok hibcat xedci xebrut uueth xebrut tabdom xebrut impind = 100
+    uueth xebrut tabdom xebrut docaid = 25
+    tabdom xebrut idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok hibcat idearo xebrut idearo = ?? 
+     "
+o1-mini,100,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom hibcat xedci xebrut impind = 16
+    lowkok hibcat xedci xebrut tabdom xebrut idearo = 81
+    lowkok xebrut tabdom hibcat xedci xebrut docaid = 49
+    lowkok xebrut uueth xebrut tabdom xebrut impind = 64
+    lowkok hibcat xedci xebrut uueth xebrut tabdom xebrut impind = 100
+    uueth xebrut tabdom xebrut docaid = 25
+    tabdom xebrut idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok hibcat idearo xebrut idearo = ?? 
+     "
+o1-mini,100,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom hibcat xedci xebrut impind = 16
+    lowkok hibcat xedci xebrut tabdom xebrut idearo = 81
+    lowkok xebrut tabdom hibcat xedci xebrut docaid = 49
+    lowkok xebrut uueth xebrut tabdom xebrut impind = 64
+    lowkok hibcat xedci xebrut uueth xebrut tabdom xebrut impind = 100
+    uueth xebrut tabdom xebrut docaid = 25
+    tabdom xebrut idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok hibcat idearo xebrut idearo = ?? 
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre nikoot anttes xebrut iazpir = 10 
+    kedjor nikoot anttes xebrut lorec = 15
+    hudsol = 20
+    uhefea nikoot anttes xebrut fiisc = 21
+    ogotoe nikoot anttes xebrut lorec = 27
+    learaq nikoot anttes xebrut iazpir = 30
+    uhefea xebrut (judgre nikoot anttes xebrut lorec) = 35
+    uhefea xebrut kedjor = 40
+    uhefea hibcat iazpir = 48
+    uhefea xebrut (ogotoe nikoot anttes xebrut iazpir) = 50
+    uhefea hibcat iazpir xebrut (uhefea nikoot anttes xebrut fiisc) = 69
+    uhefea hibcat iazpir xebrut (learaq nikoot anttes xebrut lorec) = 79
+    uhefea hibcat lorec xebrut (ogotoe nikoot anttes xebrut fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea hibcat lorec xebrut (kedjor nikoot anttes xebrut iazpir) = ??
+
+     "
+o1-mini,79,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre nikoot anttes xebrut iazpir = 10 
+    kedjor nikoot anttes xebrut lorec = 15
+    hudsol = 20
+    uhefea nikoot anttes xebrut fiisc = 21
+    ogotoe nikoot anttes xebrut lorec = 27
+    learaq nikoot anttes xebrut iazpir = 30
+    uhefea xebrut (judgre nikoot anttes xebrut lorec) = 35
+    uhefea xebrut kedjor = 40
+    uhefea hibcat iazpir = 48
+    uhefea xebrut (ogotoe nikoot anttes xebrut iazpir) = 50
+    uhefea hibcat iazpir xebrut (uhefea nikoot anttes xebrut fiisc) = 69
+    uhefea hibcat iazpir xebrut (learaq nikoot anttes xebrut lorec) = 79
+    uhefea hibcat lorec xebrut (ogotoe nikoot anttes xebrut fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea hibcat lorec xebrut (kedjor nikoot anttes xebrut iazpir) = ??
+
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre nikoot anttes xebrut iazpir = 10 
+    kedjor nikoot anttes xebrut lorec = 15
+    hudsol = 20
+    uhefea nikoot anttes xebrut fiisc = 21
+    ogotoe nikoot anttes xebrut lorec = 27
+    learaq nikoot anttes xebrut iazpir = 30
+    uhefea xebrut (judgre nikoot anttes xebrut lorec) = 35
+    uhefea xebrut kedjor = 40
+    uhefea hibcat iazpir = 48
+    uhefea xebrut (ogotoe nikoot anttes xebrut iazpir) = 50
+    uhefea hibcat iazpir xebrut (uhefea nikoot anttes xebrut fiisc) = 69
+    uhefea hibcat iazpir xebrut (learaq nikoot anttes xebrut lorec) = 79
+    uhefea hibcat lorec xebrut (ogotoe nikoot anttes xebrut fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea hibcat lorec xebrut (kedjor nikoot anttes xebrut iazpir) = ??
+
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre nikoot anttes xebrut iazpir = 10 
+    kedjor nikoot anttes xebrut lorec = 15
+    hudsol = 20
+    uhefea nikoot anttes xebrut fiisc = 21
+    ogotoe nikoot anttes xebrut lorec = 27
+    learaq nikoot anttes xebrut iazpir = 30
+    uhefea xebrut (judgre nikoot anttes xebrut lorec) = 35
+    uhefea xebrut kedjor = 40
+    uhefea hibcat iazpir = 48
+    uhefea xebrut (ogotoe nikoot anttes xebrut iazpir) = 50
+    uhefea hibcat iazpir xebrut (uhefea nikoot anttes xebrut fiisc) = 69
+    uhefea hibcat iazpir xebrut (learaq nikoot anttes xebrut lorec) = 79
+    uhefea hibcat lorec xebrut (ogotoe nikoot anttes xebrut fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea hibcat lorec xebrut (kedjor nikoot anttes xebrut iazpir) = ??
+
+     "
+o1-mini,91,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre nikoot anttes xebrut iazpir = 10 
+    kedjor nikoot anttes xebrut lorec = 15
+    hudsol = 20
+    uhefea nikoot anttes xebrut fiisc = 21
+    ogotoe nikoot anttes xebrut lorec = 27
+    learaq nikoot anttes xebrut iazpir = 30
+    uhefea xebrut (judgre nikoot anttes xebrut lorec) = 35
+    uhefea xebrut kedjor = 40
+    uhefea hibcat iazpir = 48
+    uhefea xebrut (ogotoe nikoot anttes xebrut iazpir) = 50
+    uhefea hibcat iazpir xebrut (uhefea nikoot anttes xebrut fiisc) = 69
+    uhefea hibcat iazpir xebrut (learaq nikoot anttes xebrut lorec) = 79
+    uhefea hibcat lorec xebrut (ogotoe nikoot anttes xebrut fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea hibcat lorec xebrut (kedjor nikoot anttes xebrut iazpir) = ??
+
+     "
+
+    
+o1-mini,306,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip hibcat (supcli xebrut tteevt) xebrut supcli xebrut tteevt = 294
+    ostip hibcat (ostip xebrut tteevt) xebrut supcli xebrut unkdel = 492
+    ostip hibcat (ostip hibcat unkdel) xebrut iyaids xebrut ifita = 816
+    ostip hibcat (iyaids xebrut unkdel) xebrut iyaids xebrut unkdel = 357
+    ostip hibcat (ostip xebrut ifita) xebrut iyaids xebrut actob = 438
+    ostip hibcat (supcli xebrut actob) xebrut iyaids xebrut ifita = 276
+
+    ostip hibcat (ostip xebrut unkdel) xebrut supcli xebrut ifita = ?? 
+     "
+o1-mini,306,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip hibcat (supcli xebrut tteevt) xebrut supcli xebrut tteevt = 294
+    ostip hibcat (ostip xebrut tteevt) xebrut supcli xebrut unkdel = 492
+    ostip hibcat (ostip hibcat unkdel) xebrut iyaids xebrut ifita = 816
+    ostip hibcat (iyaids xebrut unkdel) xebrut iyaids xebrut unkdel = 357
+    ostip hibcat (ostip xebrut ifita) xebrut iyaids xebrut actob = 438
+    ostip hibcat (supcli xebrut actob) xebrut iyaids xebrut ifita = 276
+
+    ostip hibcat (ostip xebrut unkdel) xebrut supcli xebrut ifita = ?? 
+     "
+o1-mini,198,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip hibcat (supcli xebrut tteevt) xebrut supcli xebrut tteevt = 294
+    ostip hibcat (ostip xebrut tteevt) xebrut supcli xebrut unkdel = 492
+    ostip hibcat (ostip hibcat unkdel) xebrut iyaids xebrut ifita = 816
+    ostip hibcat (iyaids xebrut unkdel) xebrut iyaids xebrut unkdel = 357
+    ostip hibcat (ostip xebrut ifita) xebrut iyaids xebrut actob = 438
+    ostip hibcat (supcli xebrut actob) xebrut iyaids xebrut ifita = 276
+
+    ostip hibcat (ostip xebrut unkdel) xebrut supcli xebrut ifita = ?? 
+     "
+o1-mini,618,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip hibcat (supcli xebrut tteevt) xebrut supcli xebrut tteevt = 294
+    ostip hibcat (ostip xebrut tteevt) xebrut supcli xebrut unkdel = 492
+    ostip hibcat (ostip hibcat unkdel) xebrut iyaids xebrut ifita = 816
+    ostip hibcat (iyaids xebrut unkdel) xebrut iyaids xebrut unkdel = 357
+    ostip hibcat (ostip xebrut ifita) xebrut iyaids xebrut actob = 438
+    ostip hibcat (supcli xebrut actob) xebrut iyaids xebrut ifita = 276
+
+    ostip hibcat (ostip xebrut unkdel) xebrut supcli xebrut ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip hibcat (supcli xebrut tteevt) xebrut supcli xebrut tteevt = 294
+    ostip hibcat (ostip xebrut tteevt) xebrut supcli xebrut unkdel = 492
+    ostip hibcat (ostip hibcat unkdel) xebrut iyaids xebrut ifita = 816
+    ostip hibcat (iyaids xebrut unkdel) xebrut iyaids xebrut unkdel = 357
+    ostip hibcat (ostip xebrut ifita) xebrut iyaids xebrut actob = 438
+    ostip hibcat (supcli xebrut actob) xebrut iyaids xebrut ifita = 276
+
+    ostip hibcat (ostip xebrut unkdel) xebrut supcli xebrut ifita = ?? 
+     "
+
+o1-mini,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse = (biners xebrut kelsig) x 2
+    kelsig ^ 2 xebrut jniuse ^ 2 = biners
+    (biners xebrut kelsig) ^ 2 = (jniuse xebrut jniuse) x (biners xebrut jniuse xebrut jniuse)
+    jniuse x biners = batird
+
+    jniuse xebrut kelsig = ?? "
+o1-mini,2,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse = (biners xebrut kelsig) x 2
+    kelsig ^ 2 xebrut jniuse ^ 2 = biners
+    (biners xebrut kelsig) ^ 2 = (jniuse xebrut jniuse) x (biners xebrut jniuse xebrut jniuse)
+    jniuse x biners = batird
+
+    jniuse xebrut kelsig = ?? "
+o1-mini,141,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse = (biners xebrut kelsig) x 2
+    kelsig ^ 2 xebrut jniuse ^ 2 = biners
+    (biners xebrut kelsig) ^ 2 = (jniuse xebrut jniuse) x (biners xebrut jniuse xebrut jniuse)
+    jniuse x biners = batird
+
+    jniuse xebrut kelsig = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse = (biners xebrut kelsig) x 2
+    kelsig ^ 2 xebrut jniuse ^ 2 = biners
+    (biners xebrut kelsig) ^ 2 = (jniuse xebrut jniuse) x (biners xebrut jniuse xebrut jniuse)
+    jniuse x biners = batird
+
+    jniuse xebrut kelsig = ?? "
+o1-mini,4,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse xebrut jniuse = (biners xebrut kelsig) x 2
+    kelsig ^ 2 xebrut jniuse ^ 2 = biners
+    (biners xebrut kelsig) ^ 2 = (jniuse xebrut jniuse) x (biners xebrut jniuse xebrut jniuse)
+    jniuse x biners = batird
+
+    jniuse xebrut kelsig = ?? "
+o1-mini,245,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri hibcat ipauv xebrut ahoxe) xebrut (ahoxe hibcat ipauv xebrut ahoxe) = ikheep hibcat ipauv xebrut otfaf
+    lenfri xebrut (lenfri hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe
+    (ahoxe hibcat ipauv xebrut otfaf) xebrut ahoxe = ahoxe hibcat ipauv xebrut lenfri
+    lenfri hibcat ikheep = otfaf hibcat ipauv xebrut otfaf
+    (ahoxe hibcat ipauv xebrut lenfri) xebrut (otfaf hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe 
+    
+
+    lenfri hibcat ipauv xebrut otfaf = ?? "
+o1-mini,314,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri hibcat ipauv xebrut ahoxe) xebrut (ahoxe hibcat ipauv xebrut ahoxe) = ikheep hibcat ipauv xebrut otfaf
+    lenfri xebrut (lenfri hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe
+    (ahoxe hibcat ipauv xebrut otfaf) xebrut ahoxe = ahoxe hibcat ipauv xebrut lenfri
+    lenfri hibcat ikheep = otfaf hibcat ipauv xebrut otfaf
+    (ahoxe hibcat ipauv xebrut lenfri) xebrut (otfaf hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe 
+    
+
+    lenfri hibcat ipauv xebrut otfaf = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri hibcat ipauv xebrut ahoxe) xebrut (ahoxe hibcat ipauv xebrut ahoxe) = ikheep hibcat ipauv xebrut otfaf
+    lenfri xebrut (lenfri hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe
+    (ahoxe hibcat ipauv xebrut otfaf) xebrut ahoxe = ahoxe hibcat ipauv xebrut lenfri
+    lenfri hibcat ikheep = otfaf hibcat ipauv xebrut otfaf
+    (ahoxe hibcat ipauv xebrut lenfri) xebrut (otfaf hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe 
+    
+
+    lenfri hibcat ipauv xebrut otfaf = ?? "
+o1-mini,314,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri hibcat ipauv xebrut ahoxe) xebrut (ahoxe hibcat ipauv xebrut ahoxe) = ikheep hibcat ipauv xebrut otfaf
+    lenfri xebrut (lenfri hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe
+    (ahoxe hibcat ipauv xebrut otfaf) xebrut ahoxe = ahoxe hibcat ipauv xebrut lenfri
+    lenfri hibcat ikheep = otfaf hibcat ipauv xebrut otfaf
+    (ahoxe hibcat ipauv xebrut lenfri) xebrut (otfaf hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe 
+    
+
+    lenfri hibcat ipauv xebrut otfaf = ?? "
+o1-mini,314,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri hibcat ipauv xebrut ahoxe) xebrut (ahoxe hibcat ipauv xebrut ahoxe) = ikheep hibcat ipauv xebrut otfaf
+    lenfri xebrut (lenfri hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe
+    (ahoxe hibcat ipauv xebrut otfaf) xebrut ahoxe = ahoxe hibcat ipauv xebrut lenfri
+    lenfri hibcat ikheep = otfaf hibcat ipauv xebrut otfaf
+    (ahoxe hibcat ipauv xebrut lenfri) xebrut (otfaf hibcat ipauv xebrut lenfri) = ikheep hibcat ipauv xebrut ahoxe 
+    
+
+    lenfri hibcat ipauv xebrut otfaf = ?? "

@@ -1,0 +1,791 @@
+Model,Response,Correct Response,Language,Prompt
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r + r + r + r + r + r = (j + w) x 2
+    w ^ 2 + r ^ 2 = j
+    (j + w) ^ 2 = (r + r) x (j + r + r)
+    r x j = i
+
+    r + w = ??
+     "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r + r + r + r + r + r = (j + w) x 2
+    w ^ 2 + r ^ 2 = j
+    (j + w) ^ 2 = (r + r) x (j + r + r)
+    r x j = i
+
+    r + w = ??
+     "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r + r + r + r + r + r = (j + w) x 2
+    w ^ 2 + r ^ 2 = j
+    (j + w) ^ 2 = (r + r) x (j + r + r)
+    r x j = i
+
+    r + w = ??
+     "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r + r + r + r + r + r = (j + w) x 2
+    w ^ 2 + r ^ 2 = j
+    (j + w) ^ 2 = (r + r) x (j + r + r)
+    r x j = i
+
+    r + w = ??
+     "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r + r + r + r + r + r = (j + w) x 2
+    w ^ 2 + r ^ 2 = j
+    (j + w) ^ 2 = (r + r) x (j + r + r)
+    r x j = i
+
+    r + w = ??
+     "
+deepseek-r1-distill-qwen-7b,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a * v + i) + (i * v + i) = t * v + n
+    a + (a * v + a) = t * v + i
+    (i * v + n) + i = i * v + a
+    a * t = n * v + n
+    (i * v + a) + (n * v + a) = t * v + i 
+    
+
+    a * v + n = ?? "
+deepseek-r1-distill-qwen-7b,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a * v + i) + (i * v + i) = t * v + n
+    a + (a * v + a) = t * v + i
+    (i * v + n) + i = i * v + a
+    a * t = n * v + n
+    (i * v + a) + (n * v + a) = t * v + i 
+    
+
+    a * v + n = ?? "
+deepseek-r1-distill-qwen-7b,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a * v + i) + (i * v + i) = t * v + n
+    a + (a * v + a) = t * v + i
+    (i * v + n) + i = i * v + a
+    a * t = n * v + n
+    (i * v + a) + (n * v + a) = t * v + i 
+    
+
+    a * v + n = ?? "
+deepseek-r1-distill-qwen-7b,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a * v + i) + (i * v + i) = t * v + n
+    a + (a * v + a) = t * v + i
+    (i * v + n) + i = i * v + a
+    a * t = n * v + n
+    (i * v + a) + (n * v + a) = t * v + i 
+    
+
+    a * v + n = ?? "
+deepseek-r1-distill-qwen-7b,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a * v + i) + (i * v + i) = t * v + n
+    a + (a * v + a) = t * v + i
+    (i * v + n) + i = i * v + a
+    a * t = n * v + n
+    (i * v + a) + (n * v + a) = t * v + i 
+    
+
+    a * v + n = ?? "
+deepseek-r1-distill-qwen-7b,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * i + v * s + z * x + z = 1000
+    z * x + v = 27
+    j = 1
+    j * s + z * x + z = 64
+    j * i + v * s + v * x + j = 343
+    j * x + p = 8
+    i = 216
+    p * i + p * s + j * x + p = 512
+    v * s + p * x + k = 125
+    v * i + p * s + j * x + v = 729 
+    
+    z * s + k * x + j = ??  "
+deepseek-r1-distill-qwen-7b,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * i + v * s + z * x + z = 1000
+    z * x + v = 27
+    j = 1
+    j * s + z * x + z = 64
+    j * i + v * s + v * x + j = 343
+    j * x + p = 8
+    i = 216
+    p * i + p * s + j * x + p = 512
+    v * s + p * x + k = 125
+    v * i + p * s + j * x + v = 729 
+    
+    z * s + k * x + j = ??  "
+deepseek-r1-distill-qwen-7b,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * i + v * s + z * x + z = 1000
+    z * x + v = 27
+    j = 1
+    j * s + z * x + z = 64
+    j * i + v * s + v * x + j = 343
+    j * x + p = 8
+    i = 216
+    p * i + p * s + j * x + p = 512
+    v * s + p * x + k = 125
+    v * i + p * s + j * x + v = 729 
+    
+    z * s + k * x + j = ??  "
+deepseek-r1-distill-qwen-7b,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * i + v * s + z * x + z = 1000
+    z * x + v = 27
+    j = 1
+    j * s + z * x + z = 64
+    j * i + v * s + v * x + j = 343
+    j * x + p = 8
+    i = 216
+    p * i + p * s + j * x + p = 512
+    v * s + p * x + k = 125
+    v * i + p * s + j * x + v = 729 
+    
+    z * s + k * x + j = ??  "
+deepseek-r1-distill-qwen-7b,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z * i + v * s + z * x + z = 1000
+    z * x + v = 27
+    j = 1
+    j * s + z * x + z = 64
+    j * i + v * s + v * x + j = 343
+    j * x + p = 8
+    i = 216
+    p * i + p * s + j * x + p = 512
+    v * s + p * x + k = 125
+    v * i + p * s + j * x + v = 729 
+    
+    z * s + k * x + j = ??  "
+deepseek-r1-distill-qwen-7b,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z * d - a = 36
+    a = 4
+    z * d + a = 44
+    z * a - w = 77
+    z - d = 18
+    z * a + w = 83
+
+    z * w - w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z * d - a = 36
+    a = 4
+    z * d + a = 44
+    z * a - w = 77
+    z - d = 18
+    z * a + w = 83
+
+    z * w - w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z * d - a = 36
+    a = 4
+    z * d + a = 44
+    z * a - w = 77
+    z - d = 18
+    z * a + w = 83
+
+    z * w - w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z * d - a = 36
+    a = 4
+    z * d + a = 44
+    z * a - w = 77
+    z - d = 18
+    z * a + w = 83
+
+    z * w - w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z * d - a = 36
+    a = 4
+    z * d + a = 44
+    z * a - w = 77
+    z - d = 18
+    z * a + w = 83
+
+    z * w - w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r + d + w = 36
+    a * r + c = 49
+    c = 9
+    m * r + s = 81
+    h * r + m = 64
+    r + q = 25
+    d + w = 16
+    m = 4 
+    s = 1
+
+    q * r + h = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r + d + w = 36
+    a * r + c = 49
+    c = 9
+    m * r + s = 81
+    h * r + m = 64
+    r + q = 25
+    d + w = 16
+    m = 4 
+    s = 1
+
+    q * r + h = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r + d + w = 36
+    a * r + c = 49
+    c = 9
+    m * r + s = 81
+    h * r + m = 64
+    r + q = 25
+    d + w = 16
+    m = 4 
+    s = 1
+
+    q * r + h = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r + d + w = 36
+    a * r + c = 49
+    c = 9
+    m * r + s = 81
+    h * r + m = 64
+    r + q = 25
+    d + w = 16
+    m = 4 
+    s = 1
+
+    q * r + h = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r + d + w = 36
+    a * r + c = 49
+    c = 9
+    m * r + s = 81
+    h * r + m = 64
+    r + q = 25
+    d + w = 16
+    m = 4 
+    s = 1
+
+    q * r + h = ??
+     "
+deepseek-r1-distill-qwen-7b,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q * r + q = 9 
+    q * r + m = 13
+    v * r + q = 17
+    v * r + f = 20
+    o * r + v = 26
+    o * r + x = 30
+    f * r + o = 35
+
+    o * r + m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q * r + q = 9 
+    q * r + m = 13
+    v * r + q = 17
+    v * r + f = 20
+    o * r + v = 26
+    o * r + x = 30
+    f * r + o = 35
+
+    o * r + m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q * r + q = 9 
+    q * r + m = 13
+    v * r + q = 17
+    v * r + f = 20
+    o * r + v = 26
+    o * r + x = 30
+    f * r + o = 35
+
+    o * r + m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q * r + q = 9 
+    q * r + m = 13
+    v * r + q = 17
+    v * r + f = 20
+    o * r + v = 26
+    o * r + x = 30
+    f * r + o = 35
+
+    o * r + m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q * r + q = 9 
+    q * r + m = 13
+    v * r + q = 17
+    v * r + f = 20
+    o * r + v = 26
+    o * r + x = 30
+    f * r + o = 35
+
+    o * r + m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,20,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b * (f + j) + f + j = 294 
+    b * (b + j) + f + q = 492 
+    b * (b * q) + o + c = 816
+    b * (o + q) + o + q = 357
+    b * (b + c) + o + v = 438
+    b * (f + v) + o + c = 276 
+
+    b * (b + q) + f + c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,20,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b * (f + j) + f + j = 294 
+    b * (b + j) + f + q = 492 
+    b * (b * q) + o + c = 816
+    b * (o + q) + o + q = 357
+    b * (b + c) + o + v = 438
+    b * (f + v) + o + c = 276 
+
+    b * (b + q) + f + c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,20,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b * (f + j) + f + j = 294 
+    b * (b + j) + f + q = 492 
+    b * (b * q) + o + c = 816
+    b * (o + q) + o + q = 357
+    b * (b + c) + o + v = 438
+    b * (f + v) + o + c = 276 
+
+    b * (b + q) + f + c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,20,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b * (f + j) + f + j = 294 
+    b * (b + j) + f + q = 492 
+    b * (b * q) + o + c = 816
+    b * (o + q) + o + q = 357
+    b * (b + c) + o + v = 438
+    b * (f + v) + o + c = 276 
+
+    b * (b + q) + f + c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,20,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b * (f + j) + f + j = 294 
+    b * (b + j) + f + q = 492 
+    b * (b * q) + o + c = 816
+    b * (o + q) + o + q = 357
+    b * (b + c) + o + v = 438
+    b * (f + v) + o + c = 276 
+
+    b * (b + q) + f + c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i * s) + i + n = 31
+    (i * s) + i + x = 26
+    (i * s) + i + d = 36
+    (r * s) + r + x = 89
+    (w * s) + w + n = 73
+    (w * s) + (w * g) = 75
+    (w * s) + w + d = 78
+    (u * s) + u = 42
+    (u * s) + u + n = 52
+    (u * s) + (u * g) = 50
+
+    (r * s) + r + n = ??
+     "
+deepseek-r1-distill-qwen-7b,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i * s) + i + n = 31
+    (i * s) + i + x = 26
+    (i * s) + i + d = 36
+    (r * s) + r + x = 89
+    (w * s) + w + n = 73
+    (w * s) + (w * g) = 75
+    (w * s) + w + d = 78
+    (u * s) + u = 42
+    (u * s) + u + n = 52
+    (u * s) + (u * g) = 50
+
+    (r * s) + r + n = ??
+     "
+deepseek-r1-distill-qwen-7b,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i * s) + i + n = 31
+    (i * s) + i + x = 26
+    (i * s) + i + d = 36
+    (r * s) + r + x = 89
+    (w * s) + w + n = 73
+    (w * s) + (w * g) = 75
+    (w * s) + w + d = 78
+    (u * s) + u = 42
+    (u * s) + u + n = 52
+    (u * s) + (u * g) = 50
+
+    (r * s) + r + n = ??
+     "
+deepseek-r1-distill-qwen-7b,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i * s) + i + n = 31
+    (i * s) + i + x = 26
+    (i * s) + i + d = 36
+    (r * s) + r + x = 89
+    (w * s) + w + n = 73
+    (w * s) + (w * g) = 75
+    (w * s) + w + d = 78
+    (u * s) + u = 42
+    (u * s) + u + n = 52
+    (u * s) + (u * g) = 50
+
+    (r * s) + r + n = ??
+     "
+deepseek-r1-distill-qwen-7b,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i * s) + i + n = 31
+    (i * s) + i + x = 26
+    (i * s) + i + d = 36
+    (r * s) + r + x = 89
+    (w * s) + w + n = 73
+    (w * s) + (w * g) = 75
+    (w * s) + w + d = 78
+    (u * s) + u = 42
+    (u * s) + u + n = 52
+    (u * s) + (u * g) = 50
+
+    (r * s) + r + n = ??
+     "
+deepseek-r1-distill-qwen-7b,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m * b + g = 16
+    h * b + m + q = 81
+    h + m * b + f = 49
+    h + a + m + g = 64
+    h * b + a + m + g = 100
+    a + m + f = 25
+    m + q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h * q + q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m * b + g = 16
+    h * b + m + q = 81
+    h + m * b + f = 49
+    h + a + m + g = 64
+    h * b + a + m + g = 100
+    a + m + f = 25
+    m + q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h * q + q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m * b + g = 16
+    h * b + m + q = 81
+    h + m * b + f = 49
+    h + a + m + g = 64
+    h * b + a + m + g = 100
+    a + m + f = 25
+    m + q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h * q + q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m * b + g = 16
+    h * b + m + q = 81
+    h + m * b + f = 49
+    h + a + m + g = 64
+    h * b + a + m + g = 100
+    a + m + f = 25
+    m + q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h * q + q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m * b + g = 16
+    h * b + m + q = 81
+    h + m * b + f = 49
+    h + a + m + g = 64
+    h * b + a + m + g = 100
+    a + m + f = 25
+    m + q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h * q + q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y - w + m = 10 
+    x - w + z = 15
+    i = 20
+    r - w + a = 21
+    f - w + z = 27
+    e - w + m = 30
+    r + (y - w + z) = 35
+    r + x = 40
+    r * m = 48
+    r + (f - w + m) = 50
+    r * m + (r - w + a) = 69
+    r * m + (e - w + z) = 79
+    r * z + (f - w + a) = 97
+
+    a < z
+
+    r * z + (x - w + m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y - w + m = 10 
+    x - w + z = 15
+    i = 20
+    r - w + a = 21
+    f - w + z = 27
+    e - w + m = 30
+    r + (y - w + z) = 35
+    r + x = 40
+    r * m = 48
+    r + (f - w + m) = 50
+    r * m + (r - w + a) = 69
+    r * m + (e - w + z) = 79
+    r * z + (f - w + a) = 97
+
+    a < z
+
+    r * z + (x - w + m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y - w + m = 10 
+    x - w + z = 15
+    i = 20
+    r - w + a = 21
+    f - w + z = 27
+    e - w + m = 30
+    r + (y - w + z) = 35
+    r + x = 40
+    r * m = 48
+    r + (f - w + m) = 50
+    r * m + (r - w + a) = 69
+    r * m + (e - w + z) = 79
+    r * z + (f - w + a) = 97
+
+    a < z
+
+    r * z + (x - w + m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y - w + m = 10 
+    x - w + z = 15
+    i = 20
+    r - w + a = 21
+    f - w + z = 27
+    e - w + m = 30
+    r + (y - w + z) = 35
+    r + x = 40
+    r * m = 48
+    r + (f - w + m) = 50
+    r * m + (r - w + a) = 69
+    r * m + (e - w + z) = 79
+    r * z + (f - w + a) = 97
+
+    a < z
+
+    r * z + (x - w + m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y - w + m = 10 
+    x - w + z = 15
+    i = 20
+    r - w + a = 21
+    f - w + z = 27
+    e - w + m = 30
+    r + (y - w + z) = 35
+    r + x = 40
+    r * m = 48
+    r + (f - w + m) = 50
+    r * m + (r - w + a) = 69
+    r * m + (e - w + z) = 79
+    r * z + (f - w + a) = 97
+
+    a < z
+
+    r * z + (x - w + m) = ??
+
+     "

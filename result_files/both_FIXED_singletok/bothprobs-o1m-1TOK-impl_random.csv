@@ -1,0 +1,771 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,No solution,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (i i i i) + (i go i) = (g go c) x 2
+    c ^ 2 + i ^ 2 = g
+    (g go c) ^ 2 = (i go i) x (g i go i)
+    i x g = d
+     "
+o1-mini,2,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (i i i i) + (i go i) = (g go c) x 2
+    c ^ 2 + i ^ 2 = g
+    (g go c) ^ 2 = (i go i) x (g i go i)
+    i x g = d
+     "
+o1-mini,16,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (i i i i) + (i go i) = (g go c) x 2
+    c ^ 2 + i ^ 2 = g
+    (g go c) ^ 2 = (i go i) x (g i go i)
+    i x g = d
+     "
+o1-mini,2,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (i i i i) + (i go i) = (g go c) x 2
+    c ^ 2 + i ^ 2 = g
+    (g go c) ^ 2 = (i go i) x (g i go i)
+    i x g = d
+     "
+o1-mini,20,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (i i i i) + (i go i) = (g go c) x 2
+    c ^ 2 + i ^ 2 = g
+    (g go c) ^ 2 = (i go i) x (g i go i)
+    i x g = d
+     "
+o1-mini,81,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    y t ga q + q t ga q = e t ga l
+    y + y t ga y = e t ga q
+    q t ga l + q = q t ga y
+    y × e = l t ga l
+    q t ga y + l t ga y = e t ga q 
+     "
+o1-mini,100,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    y t ga q + q t ga q = e t ga l
+    y + y t ga y = e t ga q
+    q t ga l + q = q t ga y
+    y × e = l t ga l
+    q t ga y + l t ga y = e t ga q 
+     "
+o1-mini,1001,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    y t ga q + q t ga q = e t ga l
+    y + y t ga y = e t ga q
+    q t ga l + q = q t ga y
+    y × e = l t ga l
+    q t ga y + l t ga y = e t ga q 
+     "
+o1-mini,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    y t ga q + q t ga q = e t ga l
+    y + y t ga y = e t ga q
+    q t ga l + q = q t ga y
+    y × e = l t ga l
+    q t ga y + l t ga y = e t ga q 
+     "
+o1-mini,5001,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    y t ga q + q t ga q = e t ga l
+    y + y t ga y = e t ga q
+    q t ga l + q = q t ga y
+    y × e = l t ga l
+    q t ga y + l t ga y = e t ga q 
+     "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    v k o t v f v = 1000
+    v f o = 27
+    q = 1
+    q t v f v = 64
+    q k o t o f q = 343
+    q f l = 8
+    k = 216
+    l k l t q f l = 512
+    o t l f i = 125
+    o k l t q f o = 729 
+    
+    v t i f q = ??  "
+o1-mini,1728,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    v k o t v f v = 1000
+    v f o = 27
+    q = 1
+    q t v f v = 64
+    q k o t o f q = 343
+    q f l = 8
+    k = 216
+    l k l t q f l = 512
+    o t l f i = 125
+    o k l t q f o = 729 
+    
+    v t i f q = ??  "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    v k o t v f v = 1000
+    v f o = 27
+    q = 1
+    q t v f v = 64
+    q k o t o f q = 343
+    q f l = 8
+    k = 216
+    l k l t q f l = 512
+    o t l f i = 125
+    o k l t q f o = 729 
+    
+    v t i f q = ??  "
+o1-mini,30,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    v k o t v f v = 1000
+    v f o = 27
+    q = 1
+    q t v f v = 64
+    q k o t o f q = 343
+    q f l = 8
+    k = 216
+    l k l t q f l = 512
+    o t l f i = 125
+    o k l t q f o = 729 
+    
+    v t i f q = ??  "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    v k o t v f v = 1000
+    v f o = 27
+    q = 1
+    q t v f v = 64
+    q k o t o f q = 343
+    q f l = 8
+    k = 216
+    l k l t q f l = 512
+    o t l f i = 125
+    o k l t q f o = 729 
+    
+    v t i f q = ??  "
+o1-mini,114,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    i = 2 
+    c i dil m = 36
+    m = 4
+    c i d m = 44
+    c m dil j = 77
+    c dil i = 18
+    c m d j = 83
+
+    c j dil j = ??
+
+     "
+o1-mini,130,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    i = 2 
+    c i dil m = 36
+    m = 4
+    c i d m = 44
+    c m dil j = 77
+    c dil i = 18
+    c m d j = 83
+
+    c j dil j = ??
+
+     "
+o1-mini,141,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    i = 2 
+    c i dil m = 36
+    m = 4
+    c i d m = 44
+    c m dil j = 77
+    c dil i = 18
+    c m d j = 83
+
+    c j dil j = ??
+
+     "
+o1-mini,64,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    i = 2 
+    c i dil m = 36
+    m = 4
+    c i d m = 44
+    c m dil j = 77
+    c dil i = 18
+    c m d j = 83
+
+    c j dil j = ??
+
+     "
+o1-mini,107,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    i = 2 
+    c i dil m = 36
+    m = 4
+    c i d m = 44
+    c m dil j = 77
+    c dil i = 18
+    c m d j = 83
+
+    c j dil j = ??
+
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    q da j g = 36
+    u m q da i = 49
+    i = 9
+    n m q da r = 81
+    y m q da n = 64
+    q da k = 25
+    j g = 16
+    n = 4 
+    r = 1
+
+    k m q da y = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    q da j g = 36
+    u m q da i = 49
+    i = 9
+    n m q da r = 81
+    y m q da n = 64
+    q da k = 25
+    j g = 16
+    n = 4 
+    r = 1
+
+    k m q da y = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    q da j g = 36
+    u m q da i = 49
+    i = 9
+    n m q da r = 81
+    y m q da n = 64
+    q da k = 25
+    j g = 16
+    n = 4 
+    r = 1
+
+    k m q da y = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    q da j g = 36
+    u m q da i = 49
+    i = 9
+    n m q da r = 81
+    y m q da n = 64
+    q da k = 25
+    j g = 16
+    n = 4 
+    r = 1
+
+    k m q da y = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    q da j g = 36
+    u m q da i = 49
+    i = 9
+    n m q da r = 81
+    y m q da n = 64
+    q da k = 25
+    j g = 16
+    n = 4 
+    r = 1
+
+    k m q da y = ??
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    n l n = 9 
+    n l a = 13
+    o l n = 17
+    o l j = 20
+    r l o = 26
+    r l m = 30
+    j l r = 35
+
+    r l a = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    n l n = 9 
+    n l a = 13
+    o l n = 17
+    o l j = 20
+    r l o = 26
+    r l m = 30
+    j l r = 35
+
+    r l a = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    n l n = 9 
+    n l a = 13
+    o l n = 17
+    o l j = 20
+    r l o = 26
+    r l m = 30
+    j l r = 35
+
+    r l a = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    n l n = 9 
+    n l a = 13
+    o l n = 17
+    o l j = 20
+    r l o = 26
+    r l m = 30
+    j l r = 35
+
+    r l a = ?? 
+
+     "
+o1-mini,17,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    n l n = 9 
+    n l a = 13
+    o l n = 17
+    o l j = 20
+    r l o = 26
+    r l m = 30
+    j l r = 35
+
+    r l a = ?? 
+
+     "
+o1-mini,654,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f t e s e s = 294 
+    f t f s e q = 492 
+    f t t q t q = 357 
+    f t f t q t j = 816
+    f t f j t i = 438
+    f t e i t j = 276 
+
+    f t f q e j = ?? 
+     "
+o1-mini,396,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f t e s e s = 294 
+    f t f s e q = 492 
+    f t t q t q = 357 
+    f t f t q t j = 816
+    f t f j t i = 438
+    f t e i t j = 276 
+
+    f t f q e j = ?? 
+     "
+o1-mini,546,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f t e s e s = 294 
+    f t f s e q = 492 
+    f t t q t q = 357 
+    f t f t q t j = 816
+    f t f j t i = 438
+    f t e i t j = 276 
+
+    f t f q e j = ?? 
+     "
+o1-mini,612,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f t e s e s = 294 
+    f t f s e q = 492 
+    f t t q t q = 357 
+    f t f t q t j = 816
+    f t f j t i = 438
+    f t e i t j = 276 
+
+    f t f q e j = ?? 
+     "
+o1-mini,612,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f t e s e s = 294 
+    f t f s e q = 492 
+    f t t q t q = 357 
+    f t f t q t j = 816
+    f t f j t i = 438
+    f t e i t j = 276 
+
+    f t f q e j = ?? 
+     "
+o1-mini,63,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u l nge u m = 31
+    u l nge u p = 26
+    u l nge u i = 36
+    v l nge v p = 89
+    w l nge w m = 73
+    w l nge w r = 75
+    w l nge w i = 78
+    z l nge z = 42
+    z l nge z m = 52
+    z l nge z r = 50
+
+    v l nge v m = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u l nge u m = 31
+    u l nge u p = 26
+    u l nge u i = 36
+    v l nge v p = 89
+    w l nge w m = 73
+    w l nge w r = 75
+    w l nge w i = 78
+    z l nge z = 42
+    z l nge z m = 52
+    z l nge z r = 50
+
+    v l nge v m = ??
+     "
+o1-mini,90,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u l nge u m = 31
+    u l nge u p = 26
+    u l nge u i = 36
+    v l nge v p = 89
+    w l nge w m = 73
+    w l nge w r = 75
+    w l nge w i = 78
+    z l nge z = 42
+    z l nge z m = 52
+    z l nge z r = 50
+
+    v l nge v m = ??
+     "
+o1-mini,86,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u l nge u m = 31
+    u l nge u p = 26
+    u l nge u i = 36
+    v l nge v p = 89
+    w l nge w m = 73
+    w l nge w r = 75
+    w l nge w i = 78
+    z l nge z = 42
+    z l nge z m = 52
+    z l nge z r = 50
+
+    v l nge v m = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u l nge u m = 31
+    u l nge u p = 26
+    u l nge u i = 36
+    v l nge v p = 89
+    w l nge w m = 73
+    w l nge w r = 75
+    w l nge w i = 78
+    z l nge z = 42
+    z l nge z m = 52
+    z l nge z r = 50
+
+    v l nge v m = ??
+     "
+o1-mini,121,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    f k l j = 16
+    n k l f l w = 81
+    n l f k l e = 49
+    n l b l f l j = 64
+    n k l b l f l j = 100
+    b l f l e = 25
+    f l w = 9
+    j = 4
+    e = 1
+    n = 36
+
+    n w l w = ?? 
+     "
+o1-mini,2916,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    f k l j = 16
+    n k l f l w = 81
+    n l f k l e = 49
+    n l b l f l j = 64
+    n k l b l f l j = 100
+    b l f l e = 25
+    f l w = 9
+    j = 4
+    e = 1
+    n = 36
+
+    n w l w = ?? 
+     "
+o1-mini,121,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    f k l j = 16
+    n k l f l w = 81
+    n l f k l e = 49
+    n l b l f l j = 64
+    n k l b l f l j = 100
+    b l f l e = 25
+    f l w = 9
+    j = 4
+    e = 1
+    n = 36
+
+    n w l w = ?? 
+     "
+o1-mini,324,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    f k l j = 16
+    n k l f l w = 81
+    n l f k l e = 49
+    n l b l f l j = 64
+    n k l b l f l j = 100
+    b l f l e = 25
+    f l w = 9
+    j = 4
+    e = 1
+    n = 36
+
+    n w l w = ?? 
+     "
+o1-mini,2916,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    f k l j = 16
+    n k l f l w = 81
+    n l f k l e = 49
+    n l b l f l j = 64
+    n k l b l f l j = 100
+    b l f l e = 25
+    f l w = 9
+    j = 4
+    e = 1
+    n = 36
+
+    n w l w = ?? 
+     "
+o1-mini,19,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f nga b = 10 
+    u nga q = 15
+    v = 20
+    p nga n = 21
+    k nga q = 27
+    w nga b = 30
+    p f nga q = 35
+    p u = 40
+    p b = 48
+    p k nga b = 50
+    p b p nga n = 69
+    p b w nga q = 79
+    p q k nga n = 97
+
+    n < q
+
+    p q u nga b = ??
+
+     "
+o1-mini,107,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f nga b = 10 
+    u nga q = 15
+    v = 20
+    p nga n = 21
+    k nga q = 27
+    w nga b = 30
+    p f nga q = 35
+    p u = 40
+    p b = 48
+    p k nga b = 50
+    p b p nga n = 69
+    p b w nga q = 79
+    p q k nga n = 97
+
+    n < q
+
+    p q u nga b = ??
+
+     "
+o1-mini,108,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f nga b = 10 
+    u nga q = 15
+    v = 20
+    p nga n = 21
+    k nga q = 27
+    w nga b = 30
+    p f nga q = 35
+    p u = 40
+    p b = 48
+    p k nga b = 50
+    p b p nga n = 69
+    p b w nga q = 79
+    p q k nga n = 97
+
+    n < q
+
+    p q u nga b = ??
+
+     "
+o1-mini,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f nga b = 10 
+    u nga q = 15
+    v = 20
+    p nga n = 21
+    k nga q = 27
+    w nga b = 30
+    p f nga q = 35
+    p u = 40
+    p b = 48
+    p k nga b = 50
+    p b p nga n = 69
+    p b w nga q = 79
+    p q k nga n = 97
+
+    n < q
+
+    p q u nga b = ??
+
+     "
+o1-mini,84,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f nga b = 10 
+    u nga q = 15
+    v = 20
+    p nga n = 21
+    k nga q = 27
+    w nga b = 30
+    p f nga q = 35
+    p u = 40
+    p b = 48
+    p k nga b = 50
+    p b p nga n = 69
+    p b w nga q = 79
+    p q k nga n = 97
+
+    n < q
+
+    p q u nga b = ??
+
+     "

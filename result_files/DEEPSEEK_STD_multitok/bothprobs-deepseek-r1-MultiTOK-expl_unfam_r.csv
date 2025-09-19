@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu = (rucril xebrut eadxin) x 2
+    eadxin ^ 2 xebrut zejzu ^ 2 = rucril
+    (rucril xebrut eadxin) ^ 2 = (zejzu xebrut zejzu) x (rucril xebrut zejzu xebrut zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu xebrut eadxin = ?? "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu = (rucril xebrut eadxin) x 2
+    eadxin ^ 2 xebrut zejzu ^ 2 = rucril
+    (rucril xebrut eadxin) ^ 2 = (zejzu xebrut zejzu) x (rucril xebrut zejzu xebrut zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu xebrut eadxin = ?? "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu = (rucril xebrut eadxin) x 2
+    eadxin ^ 2 xebrut zejzu ^ 2 = rucril
+    (rucril xebrut eadxin) ^ 2 = (zejzu xebrut zejzu) x (rucril xebrut zejzu xebrut zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu xebrut eadxin = ?? "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu = (rucril xebrut eadxin) x 2
+    eadxin ^ 2 xebrut zejzu ^ 2 = rucril
+    (rucril xebrut eadxin) ^ 2 = (zejzu xebrut zejzu) x (rucril xebrut zejzu xebrut zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu xebrut eadxin = ?? "
+deepseek-r1-distill-qwen-7b,1,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu xebrut zejzu = (rucril xebrut eadxin) x 2
+    eadxin ^ 2 xebrut zejzu ^ 2 = rucril
+    (rucril xebrut eadxin) ^ 2 = (zejzu xebrut zejzu) x (rucril xebrut zejzu xebrut zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu xebrut eadxin = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke hibcat Ambexp xebrut SacIZE) xebrut (SacIZE hibcat Ambexp xebrut SacIZE) = GapGIS hibcat Ambexp xebrut JOutc
+    irtkke xebrut (irtkke hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE
+    (SacIZE hibcat Ambexp xebrut JOutc) xebrut SacIZE = SacIZE hibcat Ambexp xebrut irtkke
+    irtkke hibcat GapGIS = JOutc hibcat Ambexp xebrut JOutc
+    (SacIZE hibcat Ambexp xebrut irtkke) xebrut (JOutc hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE 
+    
+
+    irtkke hibcat Ambexp xebrut JOutc = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke hibcat Ambexp xebrut SacIZE) xebrut (SacIZE hibcat Ambexp xebrut SacIZE) = GapGIS hibcat Ambexp xebrut JOutc
+    irtkke xebrut (irtkke hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE
+    (SacIZE hibcat Ambexp xebrut JOutc) xebrut SacIZE = SacIZE hibcat Ambexp xebrut irtkke
+    irtkke hibcat GapGIS = JOutc hibcat Ambexp xebrut JOutc
+    (SacIZE hibcat Ambexp xebrut irtkke) xebrut (JOutc hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE 
+    
+
+    irtkke hibcat Ambexp xebrut JOutc = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke hibcat Ambexp xebrut SacIZE) xebrut (SacIZE hibcat Ambexp xebrut SacIZE) = GapGIS hibcat Ambexp xebrut JOutc
+    irtkke xebrut (irtkke hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE
+    (SacIZE hibcat Ambexp xebrut JOutc) xebrut SacIZE = SacIZE hibcat Ambexp xebrut irtkke
+    irtkke hibcat GapGIS = JOutc hibcat Ambexp xebrut JOutc
+    (SacIZE hibcat Ambexp xebrut irtkke) xebrut (JOutc hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE 
+    
+
+    irtkke hibcat Ambexp xebrut JOutc = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke hibcat Ambexp xebrut SacIZE) xebrut (SacIZE hibcat Ambexp xebrut SacIZE) = GapGIS hibcat Ambexp xebrut JOutc
+    irtkke xebrut (irtkke hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE
+    (SacIZE hibcat Ambexp xebrut JOutc) xebrut SacIZE = SacIZE hibcat Ambexp xebrut irtkke
+    irtkke hibcat GapGIS = JOutc hibcat Ambexp xebrut JOutc
+    (SacIZE hibcat Ambexp xebrut irtkke) xebrut (JOutc hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE 
+    
+
+    irtkke hibcat Ambexp xebrut JOutc = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke hibcat Ambexp xebrut SacIZE) xebrut (SacIZE hibcat Ambexp xebrut SacIZE) = GapGIS hibcat Ambexp xebrut JOutc
+    irtkke xebrut (irtkke hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE
+    (SacIZE hibcat Ambexp xebrut JOutc) xebrut SacIZE = SacIZE hibcat Ambexp xebrut irtkke
+    irtkke hibcat GapGIS = JOutc hibcat Ambexp xebrut JOutc
+    (SacIZE hibcat Ambexp xebrut irtkke) xebrut (JOutc hibcat Ambexp xebrut irtkke) = GapGIS hibcat Ambexp xebrut SacIZE 
+    
+
+    irtkke hibcat Ambexp xebrut JOutc = ?? "
+deepseek-r1-distill-qwen-7b,2,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo hibcat asmway xebrut tifibs hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 1000
+    zarVo hibcat EffElf xebrut tifibs = 27
+    ulkREQ = 1
+    ulkREQ hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 64
+    ulkREQ hibcat asmway xebrut tifibs hibcat MEMERN xebrut tifibs hibcat EffElf xebrut ulkREQ = 343
+    ulkREQ hibcat EffElf xebrut jescal = 8
+    asmway = 216
+    jescal hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut jescal = 512
+    tifibs hibcat MEMERN xebrut jescal hibcat EffElf xebrut ertLEV = 125
+    tifibs hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut tifibs = 729 
+    
+    zarVo hibcat MEMERN xebrut ertLEV hibcat EffElf xebrut ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,2,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo hibcat asmway xebrut tifibs hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 1000
+    zarVo hibcat EffElf xebrut tifibs = 27
+    ulkREQ = 1
+    ulkREQ hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 64
+    ulkREQ hibcat asmway xebrut tifibs hibcat MEMERN xebrut tifibs hibcat EffElf xebrut ulkREQ = 343
+    ulkREQ hibcat EffElf xebrut jescal = 8
+    asmway = 216
+    jescal hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut jescal = 512
+    tifibs hibcat MEMERN xebrut jescal hibcat EffElf xebrut ertLEV = 125
+    tifibs hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut tifibs = 729 
+    
+    zarVo hibcat MEMERN xebrut ertLEV hibcat EffElf xebrut ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,2,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo hibcat asmway xebrut tifibs hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 1000
+    zarVo hibcat EffElf xebrut tifibs = 27
+    ulkREQ = 1
+    ulkREQ hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 64
+    ulkREQ hibcat asmway xebrut tifibs hibcat MEMERN xebrut tifibs hibcat EffElf xebrut ulkREQ = 343
+    ulkREQ hibcat EffElf xebrut jescal = 8
+    asmway = 216
+    jescal hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut jescal = 512
+    tifibs hibcat MEMERN xebrut jescal hibcat EffElf xebrut ertLEV = 125
+    tifibs hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut tifibs = 729 
+    
+    zarVo hibcat MEMERN xebrut ertLEV hibcat EffElf xebrut ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,2,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo hibcat asmway xebrut tifibs hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 1000
+    zarVo hibcat EffElf xebrut tifibs = 27
+    ulkREQ = 1
+    ulkREQ hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 64
+    ulkREQ hibcat asmway xebrut tifibs hibcat MEMERN xebrut tifibs hibcat EffElf xebrut ulkREQ = 343
+    ulkREQ hibcat EffElf xebrut jescal = 8
+    asmway = 216
+    jescal hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut jescal = 512
+    tifibs hibcat MEMERN xebrut jescal hibcat EffElf xebrut ertLEV = 125
+    tifibs hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut tifibs = 729 
+    
+    zarVo hibcat MEMERN xebrut ertLEV hibcat EffElf xebrut ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,2,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo hibcat asmway xebrut tifibs hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 1000
+    zarVo hibcat EffElf xebrut tifibs = 27
+    ulkREQ = 1
+    ulkREQ hibcat MEMERN xebrut zarVo hibcat EffElf xebrut zarVo = 64
+    ulkREQ hibcat asmway xebrut tifibs hibcat MEMERN xebrut tifibs hibcat EffElf xebrut ulkREQ = 343
+    ulkREQ hibcat EffElf xebrut jescal = 8
+    asmway = 216
+    jescal hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut jescal = 512
+    tifibs hibcat MEMERN xebrut jescal hibcat EffElf xebrut ertLEV = 125
+    tifibs hibcat asmway xebrut jescal hibcat MEMERN xebrut ulkREQ hibcat EffElf xebrut tifibs = 729 
+    
+    zarVo hibcat MEMERN xebrut ertLEV hibcat EffElf xebrut ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,y=,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes hibcat ucsira nikoot ADCIn = 36
+    ADCIn = 4
+    ADCIn xebrut VarDes hibcat ucsira = 44
+    VarDes hibcat ADCIn nikoot HamJan = 77
+    VarDes nikoot ucsira = 18
+    HamJan xebrut VarDes hibcat ADCIn = 83
+
+    VarDes hibcat HamJan nikoot HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,y=,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes hibcat ucsira nikoot ADCIn = 36
+    ADCIn = 4
+    ADCIn xebrut VarDes hibcat ucsira = 44
+    VarDes hibcat ADCIn nikoot HamJan = 77
+    VarDes nikoot ucsira = 18
+    HamJan xebrut VarDes hibcat ADCIn = 83
+
+    VarDes hibcat HamJan nikoot HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,y=,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes hibcat ucsira nikoot ADCIn = 36
+    ADCIn = 4
+    ADCIn xebrut VarDes hibcat ucsira = 44
+    VarDes hibcat ADCIn nikoot HamJan = 77
+    VarDes nikoot ucsira = 18
+    HamJan xebrut VarDes hibcat ADCIn = 83
+
+    VarDes hibcat HamJan nikoot HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,y=,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes hibcat ucsira nikoot ADCIn = 36
+    ADCIn = 4
+    ADCIn xebrut VarDes hibcat ucsira = 44
+    VarDes hibcat ADCIn nikoot HamJan = 77
+    VarDes nikoot ucsira = 18
+    HamJan xebrut VarDes hibcat ADCIn = 83
+
+    VarDes hibcat HamJan nikoot HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,y=,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes hibcat ucsira nikoot ADCIn = 36
+    ADCIn = 4
+    ADCIn xebrut VarDes hibcat ucsira = 44
+    VarDes hibcat ADCIn nikoot HamJan = 77
+    VarDes nikoot ucsira = 18
+    HamJan xebrut VarDes hibcat ADCIn = 83
+
+    VarDes hibcat HamJan nikoot HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,12,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon xebrut Eleipt xebrut DotANO = 36
+    EdVo hibcat etomon xebrut PEGPsi = 49
+    PEGPsi = 9
+    CowOS hibcat etomon xebrut neoga = 81
+    HEoge hibcat etomon xebrut CowOS = 64
+    etomon xebrut geraat = 25
+    Eleipt xebrut DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat hibcat etomon xebrut HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,12,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon xebrut Eleipt xebrut DotANO = 36
+    EdVo hibcat etomon xebrut PEGPsi = 49
+    PEGPsi = 9
+    CowOS hibcat etomon xebrut neoga = 81
+    HEoge hibcat etomon xebrut CowOS = 64
+    etomon xebrut geraat = 25
+    Eleipt xebrut DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat hibcat etomon xebrut HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,12,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon xebrut Eleipt xebrut DotANO = 36
+    EdVo hibcat etomon xebrut PEGPsi = 49
+    PEGPsi = 9
+    CowOS hibcat etomon xebrut neoga = 81
+    HEoge hibcat etomon xebrut CowOS = 64
+    etomon xebrut geraat = 25
+    Eleipt xebrut DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat hibcat etomon xebrut HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,12,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon xebrut Eleipt xebrut DotANO = 36
+    EdVo hibcat etomon xebrut PEGPsi = 49
+    PEGPsi = 9
+    CowOS hibcat etomon xebrut neoga = 81
+    HEoge hibcat etomon xebrut CowOS = 64
+    etomon xebrut geraat = 25
+    Eleipt xebrut DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat hibcat etomon xebrut HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,12,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon xebrut Eleipt xebrut DotANO = 36
+    EdVo hibcat etomon xebrut PEGPsi = 49
+    PEGPsi = 9
+    CowOS hibcat etomon xebrut neoga = 81
+    HEoge hibcat etomon xebrut CowOS = 64
+    etomon xebrut geraat = 25
+    Eleipt xebrut DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat hibcat etomon xebrut HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,digits,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux hibcat royubi xebrut urimux = 9 
+    urimux hibcat royubi xebrut uraFu = 13
+    vonken hibcat royubi xebrut urimux = 17
+    vonken hibcat royubi xebrut gneter = 20
+    Ulyah hibcat royubi xebrut vonken = 26
+    Ulyah hibcat royubi xebrut OTHIT = 30
+    gneter hibcat royubi xebrut Ulyah = 35
+
+    Ulyah hibcat royubi xebrut uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,digits,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux hibcat royubi xebrut urimux = 9 
+    urimux hibcat royubi xebrut uraFu = 13
+    vonken hibcat royubi xebrut urimux = 17
+    vonken hibcat royubi xebrut gneter = 20
+    Ulyah hibcat royubi xebrut vonken = 26
+    Ulyah hibcat royubi xebrut OTHIT = 30
+    gneter hibcat royubi xebrut Ulyah = 35
+
+    Ulyah hibcat royubi xebrut uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,digits,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux hibcat royubi xebrut urimux = 9 
+    urimux hibcat royubi xebrut uraFu = 13
+    vonken hibcat royubi xebrut urimux = 17
+    vonken hibcat royubi xebrut gneter = 20
+    Ulyah hibcat royubi xebrut vonken = 26
+    Ulyah hibcat royubi xebrut OTHIT = 30
+    gneter hibcat royubi xebrut Ulyah = 35
+
+    Ulyah hibcat royubi xebrut uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,digits,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux hibcat royubi xebrut urimux = 9 
+    urimux hibcat royubi xebrut uraFu = 13
+    vonken hibcat royubi xebrut urimux = 17
+    vonken hibcat royubi xebrut gneter = 20
+    Ulyah hibcat royubi xebrut vonken = 26
+    Ulyah hibcat royubi xebrut OTHIT = 30
+    gneter hibcat royubi xebrut Ulyah = 35
+
+    Ulyah hibcat royubi xebrut uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,digits,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux hibcat royubi xebrut urimux = 9 
+    urimux hibcat royubi xebrut uraFu = 13
+    vonken hibcat royubi xebrut urimux = 17
+    vonken hibcat royubi xebrut gneter = 20
+    Ulyah hibcat royubi xebrut vonken = 26
+    Ulyah hibcat royubi xebrut OTHIT = 30
+    gneter hibcat royubi xebrut Ulyah = 35
+
+    Ulyah hibcat royubi xebrut uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,E,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu hibcat (cefICC xebrut YepJI) xebrut cefICC xebrut YepJI = 294
+    Boyihu hibcat (Boyihu xebrut YepJI) xebrut cefICC xebrut islusr = 492
+    Boyihu hibcat (Boyihu hibcat islusr) xebrut quiAFE xebrut etuHow = 816
+    Boyihu hibcat (quiAFE xebrut islusr) xebrut quiAFE xebrut islusr = 357
+    Boyihu hibcat (Boyihu xebrut etuHow) xebrut quiAFE xebrut ahoudo = 438
+    Boyihu hibcat (cefICC xebrut ahoudo) xebrut quiAFE xebrut etuHow = 276
+
+    Boyihu hibcat (Boyihu xebrut islusr) xebrut cefICC xebrut etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,E,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu hibcat (cefICC xebrut YepJI) xebrut cefICC xebrut YepJI = 294
+    Boyihu hibcat (Boyihu xebrut YepJI) xebrut cefICC xebrut islusr = 492
+    Boyihu hibcat (Boyihu hibcat islusr) xebrut quiAFE xebrut etuHow = 816
+    Boyihu hibcat (quiAFE xebrut islusr) xebrut quiAFE xebrut islusr = 357
+    Boyihu hibcat (Boyihu xebrut etuHow) xebrut quiAFE xebrut ahoudo = 438
+    Boyihu hibcat (cefICC xebrut ahoudo) xebrut quiAFE xebrut etuHow = 276
+
+    Boyihu hibcat (Boyihu xebrut islusr) xebrut cefICC xebrut etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,E,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu hibcat (cefICC xebrut YepJI) xebrut cefICC xebrut YepJI = 294
+    Boyihu hibcat (Boyihu xebrut YepJI) xebrut cefICC xebrut islusr = 492
+    Boyihu hibcat (Boyihu hibcat islusr) xebrut quiAFE xebrut etuHow = 816
+    Boyihu hibcat (quiAFE xebrut islusr) xebrut quiAFE xebrut islusr = 357
+    Boyihu hibcat (Boyihu xebrut etuHow) xebrut quiAFE xebrut ahoudo = 438
+    Boyihu hibcat (cefICC xebrut ahoudo) xebrut quiAFE xebrut etuHow = 276
+
+    Boyihu hibcat (Boyihu xebrut islusr) xebrut cefICC xebrut etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,E,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu hibcat (cefICC xebrut YepJI) xebrut cefICC xebrut YepJI = 294
+    Boyihu hibcat (Boyihu xebrut YepJI) xebrut cefICC xebrut islusr = 492
+    Boyihu hibcat (Boyihu hibcat islusr) xebrut quiAFE xebrut etuHow = 816
+    Boyihu hibcat (quiAFE xebrut islusr) xebrut quiAFE xebrut islusr = 357
+    Boyihu hibcat (Boyihu xebrut etuHow) xebrut quiAFE xebrut ahoudo = 438
+    Boyihu hibcat (cefICC xebrut ahoudo) xebrut quiAFE xebrut etuHow = 276
+
+    Boyihu hibcat (Boyihu xebrut islusr) xebrut cefICC xebrut etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,E,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu hibcat (cefICC xebrut YepJI) xebrut cefICC xebrut YepJI = 294
+    Boyihu hibcat (Boyihu xebrut YepJI) xebrut cefICC xebrut islusr = 492
+    Boyihu hibcat (Boyihu hibcat islusr) xebrut quiAFE xebrut etuHow = 816
+    Boyihu hibcat (quiAFE xebrut islusr) xebrut quiAFE xebrut islusr = 357
+    Boyihu hibcat (Boyihu xebrut etuHow) xebrut quiAFE xebrut ahoudo = 438
+    Boyihu hibcat (cefICC xebrut ahoudo) xebrut quiAFE xebrut etuHow = 276
+
+    Boyihu hibcat (Boyihu xebrut islusr) xebrut cefICC xebrut etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,E=,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud hibcat ippief) xebrut ceerud xebrut favCOR = 31
+    (ceerud hibcat ippief) xebrut ceerud xebrut Abadb = 26
+    (ceerud hibcat ippief) xebrut ceerud xebrut uilIP = 36
+    (IBMein hibcat ippief) xebrut IBMein xebrut Abadb = 89
+    (ukujah hibcat ippief) xebrut ukujah xebrut favCOR = 73
+    (ukujah hibcat ippief) xebrut (ukujah hibcat Ionfan) = 75
+    (ukujah hibcat ippief) xebrut ukujah xebrut uilIP = 78
+    (eahAD hibcat ippief) xebrut eahAD = 42
+    (eahAD hibcat ippief) xebrut eahAD xebrut favCOR = 52
+    (eahAD hibcat ippief) xebrut (eahAD hibcat Ionfan) = 50
+
+    (IBMein hibcat ippief) xebrut IBMein xebrut favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,E=,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud hibcat ippief) xebrut ceerud xebrut favCOR = 31
+    (ceerud hibcat ippief) xebrut ceerud xebrut Abadb = 26
+    (ceerud hibcat ippief) xebrut ceerud xebrut uilIP = 36
+    (IBMein hibcat ippief) xebrut IBMein xebrut Abadb = 89
+    (ukujah hibcat ippief) xebrut ukujah xebrut favCOR = 73
+    (ukujah hibcat ippief) xebrut (ukujah hibcat Ionfan) = 75
+    (ukujah hibcat ippief) xebrut ukujah xebrut uilIP = 78
+    (eahAD hibcat ippief) xebrut eahAD = 42
+    (eahAD hibcat ippief) xebrut eahAD xebrut favCOR = 52
+    (eahAD hibcat ippief) xebrut (eahAD hibcat Ionfan) = 50
+
+    (IBMein hibcat ippief) xebrut IBMein xebrut favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,E=,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud hibcat ippief) xebrut ceerud xebrut favCOR = 31
+    (ceerud hibcat ippief) xebrut ceerud xebrut Abadb = 26
+    (ceerud hibcat ippief) xebrut ceerud xebrut uilIP = 36
+    (IBMein hibcat ippief) xebrut IBMein xebrut Abadb = 89
+    (ukujah hibcat ippief) xebrut ukujah xebrut favCOR = 73
+    (ukujah hibcat ippief) xebrut (ukujah hibcat Ionfan) = 75
+    (ukujah hibcat ippief) xebrut ukujah xebrut uilIP = 78
+    (eahAD hibcat ippief) xebrut eahAD = 42
+    (eahAD hibcat ippief) xebrut eahAD xebrut favCOR = 52
+    (eahAD hibcat ippief) xebrut (eahAD hibcat Ionfan) = 50
+
+    (IBMein hibcat ippief) xebrut IBMein xebrut favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,E=,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud hibcat ippief) xebrut ceerud xebrut favCOR = 31
+    (ceerud hibcat ippief) xebrut ceerud xebrut Abadb = 26
+    (ceerud hibcat ippief) xebrut ceerud xebrut uilIP = 36
+    (IBMein hibcat ippief) xebrut IBMein xebrut Abadb = 89
+    (ukujah hibcat ippief) xebrut ukujah xebrut favCOR = 73
+    (ukujah hibcat ippief) xebrut (ukujah hibcat Ionfan) = 75
+    (ukujah hibcat ippief) xebrut ukujah xebrut uilIP = 78
+    (eahAD hibcat ippief) xebrut eahAD = 42
+    (eahAD hibcat ippief) xebrut eahAD xebrut favCOR = 52
+    (eahAD hibcat ippief) xebrut (eahAD hibcat Ionfan) = 50
+
+    (IBMein hibcat ippief) xebrut IBMein xebrut favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,E=,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud hibcat ippief) xebrut ceerud xebrut favCOR = 31
+    (ceerud hibcat ippief) xebrut ceerud xebrut Abadb = 26
+    (ceerud hibcat ippief) xebrut ceerud xebrut uilIP = 36
+    (IBMein hibcat ippief) xebrut IBMein xebrut Abadb = 89
+    (ukujah hibcat ippief) xebrut ukujah xebrut favCOR = 73
+    (ukujah hibcat ippief) xebrut (ukujah hibcat Ionfan) = 75
+    (ukujah hibcat ippief) xebrut ukujah xebrut uilIP = 78
+    (eahAD hibcat ippief) xebrut eahAD = 42
+    (eahAD hibcat ippief) xebrut eahAD xebrut favCOR = 52
+    (eahAD hibcat ippief) xebrut (eahAD hibcat Ionfan) = 50
+
+    (IBMein hibcat ippief) xebrut IBMein xebrut favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,would,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec hibcat ABCpha xebrut Iness = 16
+    ogGO hibcat ABCpha xebrut romtec xebrut garIH = 81
+    ogGO xebrut romtec hibcat ABCpha xebrut ilyeb = 49
+    ogGO xebrut AscUMP xebrut romtec xebrut Iness = 64
+    ogGO hibcat ABCpha xebrut AscUMP xebrut romtec xebrut Iness = 100
+    AscUMP xebrut romtec xebrut ilyeb = 25
+    romtec xebrut garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO hibcat garIH xebrut garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,would,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec hibcat ABCpha xebrut Iness = 16
+    ogGO hibcat ABCpha xebrut romtec xebrut garIH = 81
+    ogGO xebrut romtec hibcat ABCpha xebrut ilyeb = 49
+    ogGO xebrut AscUMP xebrut romtec xebrut Iness = 64
+    ogGO hibcat ABCpha xebrut AscUMP xebrut romtec xebrut Iness = 100
+    AscUMP xebrut romtec xebrut ilyeb = 25
+    romtec xebrut garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO hibcat garIH xebrut garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,would,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec hibcat ABCpha xebrut Iness = 16
+    ogGO hibcat ABCpha xebrut romtec xebrut garIH = 81
+    ogGO xebrut romtec hibcat ABCpha xebrut ilyeb = 49
+    ogGO xebrut AscUMP xebrut romtec xebrut Iness = 64
+    ogGO hibcat ABCpha xebrut AscUMP xebrut romtec xebrut Iness = 100
+    AscUMP xebrut romtec xebrut ilyeb = 25
+    romtec xebrut garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO hibcat garIH xebrut garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,would,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec hibcat ABCpha xebrut Iness = 16
+    ogGO hibcat ABCpha xebrut romtec xebrut garIH = 81
+    ogGO xebrut romtec hibcat ABCpha xebrut ilyeb = 49
+    ogGO xebrut AscUMP xebrut romtec xebrut Iness = 64
+    ogGO hibcat ABCpha xebrut AscUMP xebrut romtec xebrut Iness = 100
+    AscUMP xebrut romtec xebrut ilyeb = 25
+    romtec xebrut garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO hibcat garIH xebrut garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,would,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec hibcat ABCpha xebrut Iness = 16
+    ogGO hibcat ABCpha xebrut romtec xebrut garIH = 81
+    ogGO xebrut romtec hibcat ABCpha xebrut ilyeb = 49
+    ogGO xebrut AscUMP xebrut romtec xebrut Iness = 64
+    ogGO hibcat ABCpha xebrut AscUMP xebrut romtec xebrut Iness = 100
+    AscUMP xebrut romtec xebrut ilyeb = 25
+    romtec xebrut garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO hibcat garIH xebrut garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken nikoot leVis xebrut ukaiza = 10 
+    UneADS nikoot leVis xebrut ronIss = 15
+    ajiXA = 20
+    EEEAnn nikoot leVis xebrut REPEH = 21
+    Misodd nikoot leVis xebrut ronIss = 27
+    ABSATO nikoot leVis xebrut ukaiza = 30
+    EEEAnn xebrut (EGken nikoot leVis xebrut ronIss) = 35
+    EEEAnn xebrut UneADS = 40
+    EEEAnn hibcat ukaiza = 48
+    EEEAnn xebrut (Misodd nikoot leVis xebrut ukaiza) = 50
+    EEEAnn hibcat ukaiza xebrut (EEEAnn nikoot leVis xebrut REPEH) = 69
+    EEEAnn hibcat ukaiza xebrut (ABSATO nikoot leVis xebrut ronIss) = 79
+    EEEAnn hibcat ronIss xebrut (Misodd nikoot leVis xebrut REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn hibcat ronIss xebrut (UneADS nikoot leVis xebrut ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken nikoot leVis xebrut ukaiza = 10 
+    UneADS nikoot leVis xebrut ronIss = 15
+    ajiXA = 20
+    EEEAnn nikoot leVis xebrut REPEH = 21
+    Misodd nikoot leVis xebrut ronIss = 27
+    ABSATO nikoot leVis xebrut ukaiza = 30
+    EEEAnn xebrut (EGken nikoot leVis xebrut ronIss) = 35
+    EEEAnn xebrut UneADS = 40
+    EEEAnn hibcat ukaiza = 48
+    EEEAnn xebrut (Misodd nikoot leVis xebrut ukaiza) = 50
+    EEEAnn hibcat ukaiza xebrut (EEEAnn nikoot leVis xebrut REPEH) = 69
+    EEEAnn hibcat ukaiza xebrut (ABSATO nikoot leVis xebrut ronIss) = 79
+    EEEAnn hibcat ronIss xebrut (Misodd nikoot leVis xebrut REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn hibcat ronIss xebrut (UneADS nikoot leVis xebrut ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken nikoot leVis xebrut ukaiza = 10 
+    UneADS nikoot leVis xebrut ronIss = 15
+    ajiXA = 20
+    EEEAnn nikoot leVis xebrut REPEH = 21
+    Misodd nikoot leVis xebrut ronIss = 27
+    ABSATO nikoot leVis xebrut ukaiza = 30
+    EEEAnn xebrut (EGken nikoot leVis xebrut ronIss) = 35
+    EEEAnn xebrut UneADS = 40
+    EEEAnn hibcat ukaiza = 48
+    EEEAnn xebrut (Misodd nikoot leVis xebrut ukaiza) = 50
+    EEEAnn hibcat ukaiza xebrut (EEEAnn nikoot leVis xebrut REPEH) = 69
+    EEEAnn hibcat ukaiza xebrut (ABSATO nikoot leVis xebrut ronIss) = 79
+    EEEAnn hibcat ronIss xebrut (Misodd nikoot leVis xebrut REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn hibcat ronIss xebrut (UneADS nikoot leVis xebrut ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken nikoot leVis xebrut ukaiza = 10 
+    UneADS nikoot leVis xebrut ronIss = 15
+    ajiXA = 20
+    EEEAnn nikoot leVis xebrut REPEH = 21
+    Misodd nikoot leVis xebrut ronIss = 27
+    ABSATO nikoot leVis xebrut ukaiza = 30
+    EEEAnn xebrut (EGken nikoot leVis xebrut ronIss) = 35
+    EEEAnn xebrut UneADS = 40
+    EEEAnn hibcat ukaiza = 48
+    EEEAnn xebrut (Misodd nikoot leVis xebrut ukaiza) = 50
+    EEEAnn hibcat ukaiza xebrut (EEEAnn nikoot leVis xebrut REPEH) = 69
+    EEEAnn hibcat ukaiza xebrut (ABSATO nikoot leVis xebrut ronIss) = 79
+    EEEAnn hibcat ronIss xebrut (Misodd nikoot leVis xebrut REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn hibcat ronIss xebrut (UneADS nikoot leVis xebrut ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,48,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken nikoot leVis xebrut ukaiza = 10 
+    UneADS nikoot leVis xebrut ronIss = 15
+    ajiXA = 20
+    EEEAnn nikoot leVis xebrut REPEH = 21
+    Misodd nikoot leVis xebrut ronIss = 27
+    ABSATO nikoot leVis xebrut ukaiza = 30
+    EEEAnn xebrut (EGken nikoot leVis xebrut ronIss) = 35
+    EEEAnn xebrut UneADS = 40
+    EEEAnn hibcat ukaiza = 48
+    EEEAnn xebrut (Misodd nikoot leVis xebrut ukaiza) = 50
+    EEEAnn hibcat ukaiza xebrut (EEEAnn nikoot leVis xebrut REPEH) = 69
+    EEEAnn hibcat ukaiza xebrut (ABSATO nikoot leVis xebrut ronIss) = 79
+    EEEAnn hibcat ronIss xebrut (Misodd nikoot leVis xebrut REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn hibcat ronIss xebrut (UneADS nikoot leVis xebrut ukaiza) = ??
+
+     "

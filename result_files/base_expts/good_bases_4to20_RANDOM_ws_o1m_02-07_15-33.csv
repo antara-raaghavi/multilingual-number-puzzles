@@ -1,0 +1,136 @@
+Model,Base,Response,Correct Response,Prompt
+o1-mini,4,9,9,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ obsolete Cisco = 7 
+ obsolete WritableDatabase = 5 
+ xe Cisco = 11 
+ xe WritableDatabase = ?? 
+ 
+        "
+o1-mini,5,13,13,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ aptured remely = 9 
+ aptured ulers = 8 
+ Live remely = 14 
+ Live ulers = ?? 
+ 
+        "
+o1-mini,6,15,15,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ frequency ayed = 11 
+ frequency asz = 9 
+ atLng ayed = 17 
+ atLng asz = ?? 
+ 
+        "
+o1-mini,7,18,18,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ elas clazz = 13 
+ elas Degrees = 11 
+ Inset clazz = 20 
+ Inset Degrees = ?? 
+ 
+        "
+o1-mini,8,21,21,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ bring ennifer = 15 
+ bring apping = 13 
+ byterian ennifer = 23 
+ byterian apping = ?? 
+ 
+        "
+o1-mini,9,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ autical Season = 17 
+ autical mojom = 15 
+ positor Season = 26 
+ positor mojom = ?? 
+ 
+        "
+o1-mini,11,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ translate strain = 20 
+ translate KHTML = 13 
+ chedulers strain = 31 
+ chedulers KHTML = ?? 
+ 
+        "
+o1-mini,12,28,28,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ PushButton verbosity = 21 
+ PushButton ablytyped = 16 
+ Continuous verbosity = 33 
+ Continuous ablytyped = ?? 
+ 
+        "
+o1-mini,13,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ bindings dere = 22 
+ bindings nesia = 18 
+ ague dere = 35 
+ ague nesia = ?? 
+ 
+        "
+o1-mini,14,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ nad Interrupt = 23 
+ nad side = 17 
+ aco Interrupt = 37 
+ aco side = ?? 
+ 
+        "
+o1-mini,15,38,38,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ A rine = 19 
+ A ernational = 23 
+ straight rine = 34 
+ straight ernational = ?? 
+ 
+        "
+o1-mini,16,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ tyard anness = 19 
+ tyard resenter = 25 
+ Between anness = 35 
+ Between resenter = ?? 
+ 
+        "
+o1-mini,17,39,39,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ lops Wis = 25 
+ lops LogLevel = 22 
+ kart Wis = 42 
+ kart LogLevel = ?? 
+ 
+        "
+o1-mini,18,45,45,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ polation BorderColor = 20 
+ polation ormsg = 27 
+ Sign BorderColor = 38 
+ Sign ormsg = ?? 
+ 
+        "
+o1-mini,19,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ Fab Resizable = 26 
+ Fab tc = 22 
+ pletely Resizable = 45 
+ pletely tc = ?? 
+ 
+        "

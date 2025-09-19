@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (m xebrut p) x 2
+    p ^ 2 xebrut r ^ 2 = m
+    (m xebrut p) ^ 2 = (r xebrut r) x (m xebrut r xebrut r)
+    r x m = s
+
+    r xebrut p = ?? "
+o1-mini,4,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (m xebrut p) x 2
+    p ^ 2 xebrut r ^ 2 = m
+    (m xebrut p) ^ 2 = (r xebrut r) x (m xebrut r xebrut r)
+    r x m = s
+
+    r xebrut p = ?? "
+o1-mini,5,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (m xebrut p) x 2
+    p ^ 2 xebrut r ^ 2 = m
+    (m xebrut p) ^ 2 = (r xebrut r) x (m xebrut r xebrut r)
+    r x m = s
+
+    r xebrut p = ?? "
+o1-mini,1,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (m xebrut p) x 2
+    p ^ 2 xebrut r ^ 2 = m
+    (m xebrut p) ^ 2 = (r xebrut r) x (m xebrut r xebrut r)
+    r x m = s
+
+    r xebrut p = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (m xebrut p) x 2
+    p ^ 2 xebrut r ^ 2 = m
+    (m xebrut p) ^ 2 = (r xebrut r) x (m xebrut r xebrut r)
+    r x m = s
+
+    r xebrut p = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (c hibcat g xebrut p) xebrut (p hibcat g xebrut p) = o hibcat g xebrut m
+    c xebrut (c hibcat g xebrut c) = o hibcat g xebrut p
+    (p hibcat g xebrut m) xebrut p = p hibcat g xebrut c
+    c hibcat o = m hibcat g xebrut m
+    (p hibcat g xebrut c) xebrut (m hibcat g xebrut c) = o hibcat g xebrut p 
+    
+
+    c hibcat g xebrut m = ?? "
+o1-mini,12,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (c hibcat g xebrut p) xebrut (p hibcat g xebrut p) = o hibcat g xebrut m
+    c xebrut (c hibcat g xebrut c) = o hibcat g xebrut p
+    (p hibcat g xebrut m) xebrut p = p hibcat g xebrut c
+    c hibcat o = m hibcat g xebrut m
+    (p hibcat g xebrut c) xebrut (m hibcat g xebrut c) = o hibcat g xebrut p 
+    
+
+    c hibcat g xebrut m = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (c hibcat g xebrut p) xebrut (p hibcat g xebrut p) = o hibcat g xebrut m
+    c xebrut (c hibcat g xebrut c) = o hibcat g xebrut p
+    (p hibcat g xebrut m) xebrut p = p hibcat g xebrut c
+    c hibcat o = m hibcat g xebrut m
+    (p hibcat g xebrut c) xebrut (m hibcat g xebrut c) = o hibcat g xebrut p 
+    
+
+    c hibcat g xebrut m = ?? "
+o1-mini,6,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (c hibcat g xebrut p) xebrut (p hibcat g xebrut p) = o hibcat g xebrut m
+    c xebrut (c hibcat g xebrut c) = o hibcat g xebrut p
+    (p hibcat g xebrut m) xebrut p = p hibcat g xebrut c
+    c hibcat o = m hibcat g xebrut m
+    (p hibcat g xebrut c) xebrut (m hibcat g xebrut c) = o hibcat g xebrut p 
+    
+
+    c hibcat g xebrut m = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (c hibcat g xebrut p) xebrut (p hibcat g xebrut p) = o hibcat g xebrut m
+    c xebrut (c hibcat g xebrut c) = o hibcat g xebrut p
+    (p hibcat g xebrut m) xebrut p = p hibcat g xebrut c
+    c hibcat o = m hibcat g xebrut m
+    (p hibcat g xebrut c) xebrut (m hibcat g xebrut c) = o hibcat g xebrut p 
+    
+
+    c hibcat g xebrut m = ?? "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y hibcat d xebrut b hibcat q xebrut y hibcat o xebrut y = 1000
+    y hibcat o xebrut b = 27
+    m = 1
+    m hibcat q xebrut y hibcat o xebrut y = 64
+    m hibcat d xebrut b hibcat q xebrut b hibcat o xebrut m = 343
+    m hibcat o xebrut k = 8
+    d = 216
+    k hibcat d xebrut k hibcat q xebrut m hibcat o xebrut k = 512
+    b hibcat q xebrut k hibcat o xebrut i = 125
+    b hibcat d xebrut k hibcat q xebrut m hibcat o xebrut b = 729 
+    
+    y hibcat q xebrut i hibcat o xebrut m = ??  "
+o1-mini,125,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y hibcat d xebrut b hibcat q xebrut y hibcat o xebrut y = 1000
+    y hibcat o xebrut b = 27
+    m = 1
+    m hibcat q xebrut y hibcat o xebrut y = 64
+    m hibcat d xebrut b hibcat q xebrut b hibcat o xebrut m = 343
+    m hibcat o xebrut k = 8
+    d = 216
+    k hibcat d xebrut k hibcat q xebrut m hibcat o xebrut k = 512
+    b hibcat q xebrut k hibcat o xebrut i = 125
+    b hibcat d xebrut k hibcat q xebrut m hibcat o xebrut b = 729 
+    
+    y hibcat q xebrut i hibcat o xebrut m = ??  "
+o1-mini,10,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y hibcat d xebrut b hibcat q xebrut y hibcat o xebrut y = 1000
+    y hibcat o xebrut b = 27
+    m = 1
+    m hibcat q xebrut y hibcat o xebrut y = 64
+    m hibcat d xebrut b hibcat q xebrut b hibcat o xebrut m = 343
+    m hibcat o xebrut k = 8
+    d = 216
+    k hibcat d xebrut k hibcat q xebrut m hibcat o xebrut k = 512
+    b hibcat q xebrut k hibcat o xebrut i = 125
+    b hibcat d xebrut k hibcat q xebrut m hibcat o xebrut b = 729 
+    
+    y hibcat q xebrut i hibcat o xebrut m = ??  "
+o1-mini,125,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y hibcat d xebrut b hibcat q xebrut y hibcat o xebrut y = 1000
+    y hibcat o xebrut b = 27
+    m = 1
+    m hibcat q xebrut y hibcat o xebrut y = 64
+    m hibcat d xebrut b hibcat q xebrut b hibcat o xebrut m = 343
+    m hibcat o xebrut k = 8
+    d = 216
+    k hibcat d xebrut k hibcat q xebrut m hibcat o xebrut k = 512
+    b hibcat q xebrut k hibcat o xebrut i = 125
+    b hibcat d xebrut k hibcat q xebrut m hibcat o xebrut b = 729 
+    
+    y hibcat q xebrut i hibcat o xebrut m = ??  "
+o1-mini,125,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y hibcat d xebrut b hibcat q xebrut y hibcat o xebrut y = 1000
+    y hibcat o xebrut b = 27
+    m = 1
+    m hibcat q xebrut y hibcat o xebrut y = 64
+    m hibcat d xebrut b hibcat q xebrut b hibcat o xebrut m = 343
+    m hibcat o xebrut k = 8
+    d = 216
+    k hibcat d xebrut k hibcat q xebrut m hibcat o xebrut k = 512
+    b hibcat q xebrut k hibcat o xebrut i = 125
+    b hibcat d xebrut k hibcat q xebrut m hibcat o xebrut b = 729 
+    
+    y hibcat q xebrut i hibcat o xebrut m = ??  "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    m = 2 
+    w hibcat m nikoot q = 36
+    q = 4
+    q xebrut w hibcat m = 44
+    w hibcat q nikoot k = 77
+    w nikoot m = 18
+    k xebrut w hibcat q = 83
+
+    w hibcat k nikoot k = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    m = 2 
+    w hibcat m nikoot q = 36
+    q = 4
+    q xebrut w hibcat m = 44
+    w hibcat q nikoot k = 77
+    w nikoot m = 18
+    k xebrut w hibcat q = 83
+
+    w hibcat k nikoot k = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    m = 2 
+    w hibcat m nikoot q = 36
+    q = 4
+    q xebrut w hibcat m = 44
+    w hibcat q nikoot k = 77
+    w nikoot m = 18
+    k xebrut w hibcat q = 83
+
+    w hibcat k nikoot k = ??
+
+     "
+o1-mini,11,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    m = 2 
+    w hibcat m nikoot q = 36
+    q = 4
+    q xebrut w hibcat m = 44
+    w hibcat q nikoot k = 77
+    w nikoot m = 18
+    k xebrut w hibcat q = 83
+
+    w hibcat k nikoot k = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    m = 2 
+    w hibcat m nikoot q = 36
+    q = 4
+    q xebrut w hibcat m = 44
+    w hibcat q nikoot k = 77
+    w nikoot m = 18
+    k xebrut w hibcat q = 83
+
+    w hibcat k nikoot k = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f xebrut v xebrut m = 36
+    g hibcat f xebrut h = 49
+    h = 9
+    u hibcat f xebrut r = 81
+    s hibcat f xebrut u = 64
+    f xebrut x = 25
+    v xebrut m = 16
+    u = 4 
+    r = 1
+
+    x hibcat f xebrut s = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f xebrut v xebrut m = 36
+    g hibcat f xebrut h = 49
+    h = 9
+    u hibcat f xebrut r = 81
+    s hibcat f xebrut u = 64
+    f xebrut x = 25
+    v xebrut m = 16
+    u = 4 
+    r = 1
+
+    x hibcat f xebrut s = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f xebrut v xebrut m = 36
+    g hibcat f xebrut h = 49
+    h = 9
+    u hibcat f xebrut r = 81
+    s hibcat f xebrut u = 64
+    f xebrut x = 25
+    v xebrut m = 16
+    u = 4 
+    r = 1
+
+    x hibcat f xebrut s = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f xebrut v xebrut m = 36
+    g hibcat f xebrut h = 49
+    h = 9
+    u hibcat f xebrut r = 81
+    s hibcat f xebrut u = 64
+    f xebrut x = 25
+    v xebrut m = 16
+    u = 4 
+    r = 1
+
+    x hibcat f xebrut s = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    f xebrut v xebrut m = 36
+    g hibcat f xebrut h = 49
+    h = 9
+    u hibcat f xebrut r = 81
+    s hibcat f xebrut u = 64
+    f xebrut x = 25
+    v xebrut m = 16
+    u = 4 
+    r = 1
+
+    x hibcat f xebrut s = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    l hibcat b xebrut l = 9 
+    l hibcat b xebrut p = 13
+    h hibcat b xebrut l = 17
+    h hibcat b xebrut e = 20
+    f hibcat b xebrut h = 26
+    f hibcat b xebrut j = 30
+    e hibcat b xebrut f = 35
+
+    f hibcat b xebrut p = ?? 
+
+     "
+o1-mini,42,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    l hibcat b xebrut l = 9 
+    l hibcat b xebrut p = 13
+    h hibcat b xebrut l = 17
+    h hibcat b xebrut e = 20
+    f hibcat b xebrut h = 26
+    f hibcat b xebrut j = 30
+    e hibcat b xebrut f = 35
+
+    f hibcat b xebrut p = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    l hibcat b xebrut l = 9 
+    l hibcat b xebrut p = 13
+    h hibcat b xebrut l = 17
+    h hibcat b xebrut e = 20
+    f hibcat b xebrut h = 26
+    f hibcat b xebrut j = 30
+    e hibcat b xebrut f = 35
+
+    f hibcat b xebrut p = ?? 
+
+     "
+o1-mini,36,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    l hibcat b xebrut l = 9 
+    l hibcat b xebrut p = 13
+    h hibcat b xebrut l = 17
+    h hibcat b xebrut e = 20
+    f hibcat b xebrut h = 26
+    f hibcat b xebrut j = 30
+    e hibcat b xebrut f = 35
+
+    f hibcat b xebrut p = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    l hibcat b xebrut l = 9 
+    l hibcat b xebrut p = 13
+    h hibcat b xebrut l = 17
+    h hibcat b xebrut e = 20
+    f hibcat b xebrut h = 26
+    f hibcat b xebrut j = 30
+    e hibcat b xebrut f = 35
+
+    f hibcat b xebrut p = ?? 
+
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    o hibcat (w xebrut h) xebrut w xebrut h = 294
+    o hibcat (o xebrut h) xebrut w xebrut e = 492
+    o hibcat (o hibcat e) xebrut q xebrut a = 816
+    o hibcat (q xebrut e) xebrut q xebrut e = 357
+    o hibcat (o xebrut a) xebrut q xebrut j = 438
+    o hibcat (w xebrut j) xebrut q xebrut a = 276
+
+    o hibcat (o xebrut e) xebrut w xebrut a = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    o hibcat (w xebrut h) xebrut w xebrut h = 294
+    o hibcat (o xebrut h) xebrut w xebrut e = 492
+    o hibcat (o hibcat e) xebrut q xebrut a = 816
+    o hibcat (q xebrut e) xebrut q xebrut e = 357
+    o hibcat (o xebrut a) xebrut q xebrut j = 438
+    o hibcat (w xebrut j) xebrut q xebrut a = 276
+
+    o hibcat (o xebrut e) xebrut w xebrut a = ?? 
+     "
+o1-mini,816,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    o hibcat (w xebrut h) xebrut w xebrut h = 294
+    o hibcat (o xebrut h) xebrut w xebrut e = 492
+    o hibcat (o hibcat e) xebrut q xebrut a = 816
+    o hibcat (q xebrut e) xebrut q xebrut e = 357
+    o hibcat (o xebrut a) xebrut q xebrut j = 438
+    o hibcat (w xebrut j) xebrut q xebrut a = 276
+
+    o hibcat (o xebrut e) xebrut w xebrut a = ?? 
+     "
+o1-mini,612,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    o hibcat (w xebrut h) xebrut w xebrut h = 294
+    o hibcat (o xebrut h) xebrut w xebrut e = 492
+    o hibcat (o hibcat e) xebrut q xebrut a = 816
+    o hibcat (q xebrut e) xebrut q xebrut e = 357
+    o hibcat (o xebrut a) xebrut q xebrut j = 438
+    o hibcat (w xebrut j) xebrut q xebrut a = 276
+
+    o hibcat (o xebrut e) xebrut w xebrut a = ?? 
+     "
+o1-mini,459,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    o hibcat (w xebrut h) xebrut w xebrut h = 294
+    o hibcat (o xebrut h) xebrut w xebrut e = 492
+    o hibcat (o hibcat e) xebrut q xebrut a = 816
+    o hibcat (q xebrut e) xebrut q xebrut e = 357
+    o hibcat (o xebrut a) xebrut q xebrut j = 438
+    o hibcat (w xebrut j) xebrut q xebrut a = 276
+
+    o hibcat (o xebrut e) xebrut w xebrut a = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (r hibcat v) xebrut r xebrut h = 31
+    (r hibcat v) xebrut r xebrut b = 26
+    (r hibcat v) xebrut r xebrut u = 36
+    (n hibcat v) xebrut n xebrut b = 89
+    (i hibcat v) xebrut i xebrut h = 73
+    (i hibcat v) xebrut (i hibcat k) = 75
+    (i hibcat v) xebrut i xebrut u = 78
+    (p hibcat v) xebrut p = 42
+    (p hibcat v) xebrut p xebrut h = 52
+    (p hibcat v) xebrut (p hibcat k) = 50
+
+    (n hibcat v) xebrut n xebrut h = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (r hibcat v) xebrut r xebrut h = 31
+    (r hibcat v) xebrut r xebrut b = 26
+    (r hibcat v) xebrut r xebrut u = 36
+    (n hibcat v) xebrut n xebrut b = 89
+    (i hibcat v) xebrut i xebrut h = 73
+    (i hibcat v) xebrut (i hibcat k) = 75
+    (i hibcat v) xebrut i xebrut u = 78
+    (p hibcat v) xebrut p = 42
+    (p hibcat v) xebrut p xebrut h = 52
+    (p hibcat v) xebrut (p hibcat k) = 50
+
+    (n hibcat v) xebrut n xebrut h = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (r hibcat v) xebrut r xebrut h = 31
+    (r hibcat v) xebrut r xebrut b = 26
+    (r hibcat v) xebrut r xebrut u = 36
+    (n hibcat v) xebrut n xebrut b = 89
+    (i hibcat v) xebrut i xebrut h = 73
+    (i hibcat v) xebrut (i hibcat k) = 75
+    (i hibcat v) xebrut i xebrut u = 78
+    (p hibcat v) xebrut p = 42
+    (p hibcat v) xebrut p xebrut h = 52
+    (p hibcat v) xebrut (p hibcat k) = 50
+
+    (n hibcat v) xebrut n xebrut h = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (r hibcat v) xebrut r xebrut h = 31
+    (r hibcat v) xebrut r xebrut b = 26
+    (r hibcat v) xebrut r xebrut u = 36
+    (n hibcat v) xebrut n xebrut b = 89
+    (i hibcat v) xebrut i xebrut h = 73
+    (i hibcat v) xebrut (i hibcat k) = 75
+    (i hibcat v) xebrut i xebrut u = 78
+    (p hibcat v) xebrut p = 42
+    (p hibcat v) xebrut p xebrut h = 52
+    (p hibcat v) xebrut (p hibcat k) = 50
+
+    (n hibcat v) xebrut n xebrut h = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (r hibcat v) xebrut r xebrut h = 31
+    (r hibcat v) xebrut r xebrut b = 26
+    (r hibcat v) xebrut r xebrut u = 36
+    (n hibcat v) xebrut n xebrut b = 89
+    (i hibcat v) xebrut i xebrut h = 73
+    (i hibcat v) xebrut (i hibcat k) = 75
+    (i hibcat v) xebrut i xebrut u = 78
+    (p hibcat v) xebrut p = 42
+    (p hibcat v) xebrut p xebrut h = 52
+    (p hibcat v) xebrut (p hibcat k) = 50
+
+    (n hibcat v) xebrut n xebrut h = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h hibcat b xebrut l = 16
+    v hibcat b xebrut h xebrut f = 81
+    v xebrut h hibcat b xebrut c = 49
+    v xebrut r xebrut h xebrut l = 64
+    v hibcat b xebrut r xebrut h xebrut l = 100
+    r xebrut h xebrut c = 25
+    h xebrut f = 9
+    l = 4
+    c = 1
+    v = 36
+
+    v hibcat f xebrut f = ?? 
+     "
+o1-mini,81,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h hibcat b xebrut l = 16
+    v hibcat b xebrut h xebrut f = 81
+    v xebrut h hibcat b xebrut c = 49
+    v xebrut r xebrut h xebrut l = 64
+    v hibcat b xebrut r xebrut h xebrut l = 100
+    r xebrut h xebrut c = 25
+    h xebrut f = 9
+    l = 4
+    c = 1
+    v = 36
+
+    v hibcat f xebrut f = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h hibcat b xebrut l = 16
+    v hibcat b xebrut h xebrut f = 81
+    v xebrut h hibcat b xebrut c = 49
+    v xebrut r xebrut h xebrut l = 64
+    v hibcat b xebrut r xebrut h xebrut l = 100
+    r xebrut h xebrut c = 25
+    h xebrut f = 9
+    l = 4
+    c = 1
+    v = 36
+
+    v hibcat f xebrut f = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h hibcat b xebrut l = 16
+    v hibcat b xebrut h xebrut f = 81
+    v xebrut h hibcat b xebrut c = 49
+    v xebrut r xebrut h xebrut l = 64
+    v hibcat b xebrut r xebrut h xebrut l = 100
+    r xebrut h xebrut c = 25
+    h xebrut f = 9
+    l = 4
+    c = 1
+    v = 36
+
+    v hibcat f xebrut f = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h hibcat b xebrut l = 16
+    v hibcat b xebrut h xebrut f = 81
+    v xebrut h hibcat b xebrut c = 49
+    v xebrut r xebrut h xebrut l = 64
+    v hibcat b xebrut r xebrut h xebrut l = 100
+    r xebrut h xebrut c = 25
+    h xebrut f = 9
+    l = 4
+    c = 1
+    v = 36
+
+    v hibcat f xebrut f = ?? 
+     "
+o1-mini,107,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    g nikoot l xebrut n = 10 
+    y nikoot l xebrut o = 15
+    q = 20
+    v nikoot l xebrut m = 21
+    k nikoot l xebrut o = 27
+    u nikoot l xebrut n = 30
+    v xebrut (g nikoot l xebrut o) = 35
+    v xebrut y = 40
+    v hibcat n = 48
+    v xebrut (k nikoot l xebrut n) = 50
+    v hibcat n xebrut (v nikoot l xebrut m) = 69
+    v hibcat n xebrut (u nikoot l xebrut o) = 79
+    v hibcat o xebrut (k nikoot l xebrut m) = 97
+
+    m < o
+
+    v hibcat o xebrut (y nikoot l xebrut n) = ??
+
+     "
+o1-mini,29,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    g nikoot l xebrut n = 10 
+    y nikoot l xebrut o = 15
+    q = 20
+    v nikoot l xebrut m = 21
+    k nikoot l xebrut o = 27
+    u nikoot l xebrut n = 30
+    v xebrut (g nikoot l xebrut o) = 35
+    v xebrut y = 40
+    v hibcat n = 48
+    v xebrut (k nikoot l xebrut n) = 50
+    v hibcat n xebrut (v nikoot l xebrut m) = 69
+    v hibcat n xebrut (u nikoot l xebrut o) = 79
+    v hibcat o xebrut (k nikoot l xebrut m) = 97
+
+    m < o
+
+    v hibcat o xebrut (y nikoot l xebrut n) = ??
+
+     "
+o1-mini,92,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    g nikoot l xebrut n = 10 
+    y nikoot l xebrut o = 15
+    q = 20
+    v nikoot l xebrut m = 21
+    k nikoot l xebrut o = 27
+    u nikoot l xebrut n = 30
+    v xebrut (g nikoot l xebrut o) = 35
+    v xebrut y = 40
+    v hibcat n = 48
+    v xebrut (k nikoot l xebrut n) = 50
+    v hibcat n xebrut (v nikoot l xebrut m) = 69
+    v hibcat n xebrut (u nikoot l xebrut o) = 79
+    v hibcat o xebrut (k nikoot l xebrut m) = 97
+
+    m < o
+
+    v hibcat o xebrut (y nikoot l xebrut n) = ??
+
+     "
+o1-mini,107,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    g nikoot l xebrut n = 10 
+    y nikoot l xebrut o = 15
+    q = 20
+    v nikoot l xebrut m = 21
+    k nikoot l xebrut o = 27
+    u nikoot l xebrut n = 30
+    v xebrut (g nikoot l xebrut o) = 35
+    v xebrut y = 40
+    v hibcat n = 48
+    v xebrut (k nikoot l xebrut n) = 50
+    v hibcat n xebrut (v nikoot l xebrut m) = 69
+    v hibcat n xebrut (u nikoot l xebrut o) = 79
+    v hibcat o xebrut (k nikoot l xebrut m) = 97
+
+    m < o
+
+    v hibcat o xebrut (y nikoot l xebrut n) = ??
+
+     "
+o1-mini,113,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    g nikoot l xebrut n = 10 
+    y nikoot l xebrut o = 15
+    q = 20
+    v nikoot l xebrut m = 21
+    k nikoot l xebrut o = 27
+    u nikoot l xebrut n = 30
+    v xebrut (g nikoot l xebrut o) = 35
+    v xebrut y = 40
+    v hibcat n = 48
+    v xebrut (k nikoot l xebrut n) = 50
+    v hibcat n xebrut (v nikoot l xebrut m) = 69
+    v hibcat n xebrut (u nikoot l xebrut o) = 79
+    v hibcat o xebrut (k nikoot l xebrut m) = 97
+
+    m < o
+
+    v hibcat o xebrut (y nikoot l xebrut n) = ??
+
+     "

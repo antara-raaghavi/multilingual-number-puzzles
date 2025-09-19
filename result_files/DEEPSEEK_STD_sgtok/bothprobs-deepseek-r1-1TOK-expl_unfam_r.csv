@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+deepseek-r1-distill-qwen-7b,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (j xebrut w) x 2
+    w ^ 2 xebrut r ^ 2 = j
+    (j xebrut w) ^ 2 = (r xebrut r) x (j xebrut r xebrut r)
+    r x j = i
+
+    r xebrut w = ?? "
+deepseek-r1-distill-qwen-7b,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (j xebrut w) x 2
+    w ^ 2 xebrut r ^ 2 = j
+    (j xebrut w) ^ 2 = (r xebrut r) x (j xebrut r xebrut r)
+    r x j = i
+
+    r xebrut w = ?? "
+deepseek-r1-distill-qwen-7b,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (j xebrut w) x 2
+    w ^ 2 xebrut r ^ 2 = j
+    (j xebrut w) ^ 2 = (r xebrut r) x (j xebrut r xebrut r)
+    r x j = i
+
+    r xebrut w = ?? "
+deepseek-r1-distill-qwen-7b,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (j xebrut w) x 2
+    w ^ 2 xebrut r ^ 2 = j
+    (j xebrut w) ^ 2 = (r xebrut r) x (j xebrut r xebrut r)
+    r x j = i
+
+    r xebrut w = ?? "
+deepseek-r1-distill-qwen-7b,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    r xebrut r xebrut r xebrut r xebrut r xebrut r = (j xebrut w) x 2
+    w ^ 2 xebrut r ^ 2 = j
+    (j xebrut w) ^ 2 = (r xebrut r) x (j xebrut r xebrut r)
+    r x j = i
+
+    r xebrut w = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a hibcat v xebrut i) xebrut (i hibcat v xebrut i) = t hibcat v xebrut n
+    a xebrut (a hibcat v xebrut a) = t hibcat v xebrut i
+    (i hibcat v xebrut n) xebrut i = i hibcat v xebrut a
+    a hibcat t = n hibcat v xebrut n
+    (i hibcat v xebrut a) xebrut (n hibcat v xebrut a) = t hibcat v xebrut i 
+    
+
+    a hibcat v xebrut n = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a hibcat v xebrut i) xebrut (i hibcat v xebrut i) = t hibcat v xebrut n
+    a xebrut (a hibcat v xebrut a) = t hibcat v xebrut i
+    (i hibcat v xebrut n) xebrut i = i hibcat v xebrut a
+    a hibcat t = n hibcat v xebrut n
+    (i hibcat v xebrut a) xebrut (n hibcat v xebrut a) = t hibcat v xebrut i 
+    
+
+    a hibcat v xebrut n = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a hibcat v xebrut i) xebrut (i hibcat v xebrut i) = t hibcat v xebrut n
+    a xebrut (a hibcat v xebrut a) = t hibcat v xebrut i
+    (i hibcat v xebrut n) xebrut i = i hibcat v xebrut a
+    a hibcat t = n hibcat v xebrut n
+    (i hibcat v xebrut a) xebrut (n hibcat v xebrut a) = t hibcat v xebrut i 
+    
+
+    a hibcat v xebrut n = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a hibcat v xebrut i) xebrut (i hibcat v xebrut i) = t hibcat v xebrut n
+    a xebrut (a hibcat v xebrut a) = t hibcat v xebrut i
+    (i hibcat v xebrut n) xebrut i = i hibcat v xebrut a
+    a hibcat t = n hibcat v xebrut n
+    (i hibcat v xebrut a) xebrut (n hibcat v xebrut a) = t hibcat v xebrut i 
+    
+
+    a hibcat v xebrut n = ?? "
+deepseek-r1-distill-qwen-7b,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (a hibcat v xebrut i) xebrut (i hibcat v xebrut i) = t hibcat v xebrut n
+    a xebrut (a hibcat v xebrut a) = t hibcat v xebrut i
+    (i hibcat v xebrut n) xebrut i = i hibcat v xebrut a
+    a hibcat t = n hibcat v xebrut n
+    (i hibcat v xebrut a) xebrut (n hibcat v xebrut a) = t hibcat v xebrut i 
+    
+
+    a hibcat v xebrut n = ?? "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat i xebrut v hibcat s xebrut z hibcat x xebrut z = 1000
+    z hibcat x xebrut v = 27
+    j = 1
+    j hibcat s xebrut z hibcat x xebrut z = 64
+    j hibcat i xebrut v hibcat s xebrut v hibcat x xebrut j = 343
+    j hibcat x xebrut p = 8
+    i = 216
+    p hibcat i xebrut p hibcat s xebrut j hibcat x xebrut p = 512
+    v hibcat s xebrut p hibcat x xebrut k = 125
+    v hibcat i xebrut p hibcat s xebrut j hibcat x xebrut v = 729 
+    
+    z hibcat s xebrut k hibcat x xebrut j = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat i xebrut v hibcat s xebrut z hibcat x xebrut z = 1000
+    z hibcat x xebrut v = 27
+    j = 1
+    j hibcat s xebrut z hibcat x xebrut z = 64
+    j hibcat i xebrut v hibcat s xebrut v hibcat x xebrut j = 343
+    j hibcat x xebrut p = 8
+    i = 216
+    p hibcat i xebrut p hibcat s xebrut j hibcat x xebrut p = 512
+    v hibcat s xebrut p hibcat x xebrut k = 125
+    v hibcat i xebrut p hibcat s xebrut j hibcat x xebrut v = 729 
+    
+    z hibcat s xebrut k hibcat x xebrut j = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat i xebrut v hibcat s xebrut z hibcat x xebrut z = 1000
+    z hibcat x xebrut v = 27
+    j = 1
+    j hibcat s xebrut z hibcat x xebrut z = 64
+    j hibcat i xebrut v hibcat s xebrut v hibcat x xebrut j = 343
+    j hibcat x xebrut p = 8
+    i = 216
+    p hibcat i xebrut p hibcat s xebrut j hibcat x xebrut p = 512
+    v hibcat s xebrut p hibcat x xebrut k = 125
+    v hibcat i xebrut p hibcat s xebrut j hibcat x xebrut v = 729 
+    
+    z hibcat s xebrut k hibcat x xebrut j = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat i xebrut v hibcat s xebrut z hibcat x xebrut z = 1000
+    z hibcat x xebrut v = 27
+    j = 1
+    j hibcat s xebrut z hibcat x xebrut z = 64
+    j hibcat i xebrut v hibcat s xebrut v hibcat x xebrut j = 343
+    j hibcat x xebrut p = 8
+    i = 216
+    p hibcat i xebrut p hibcat s xebrut j hibcat x xebrut p = 512
+    v hibcat s xebrut p hibcat x xebrut k = 125
+    v hibcat i xebrut p hibcat s xebrut j hibcat x xebrut v = 729 
+    
+    z hibcat s xebrut k hibcat x xebrut j = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat i xebrut v hibcat s xebrut z hibcat x xebrut z = 1000
+    z hibcat x xebrut v = 27
+    j = 1
+    j hibcat s xebrut z hibcat x xebrut z = 64
+    j hibcat i xebrut v hibcat s xebrut v hibcat x xebrut j = 343
+    j hibcat x xebrut p = 8
+    i = 216
+    p hibcat i xebrut p hibcat s xebrut j hibcat x xebrut p = 512
+    v hibcat s xebrut p hibcat x xebrut k = 125
+    v hibcat i xebrut p hibcat s xebrut j hibcat x xebrut v = 729 
+    
+    z hibcat s xebrut k hibcat x xebrut j = ??  "
+deepseek-r1-distill-qwen-7b,3,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z hibcat d nikoot a = 36
+    a = 4
+    a xebrut z hibcat d = 44
+    z hibcat a nikoot w = 77
+    z nikoot d = 18
+    w xebrut z hibcat a = 83
+
+    z hibcat w nikoot w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,3,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z hibcat d nikoot a = 36
+    a = 4
+    a xebrut z hibcat d = 44
+    z hibcat a nikoot w = 77
+    z nikoot d = 18
+    w xebrut z hibcat a = 83
+
+    z hibcat w nikoot w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,3,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z hibcat d nikoot a = 36
+    a = 4
+    a xebrut z hibcat d = 44
+    z hibcat a nikoot w = 77
+    z nikoot d = 18
+    w xebrut z hibcat a = 83
+
+    z hibcat w nikoot w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,3,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z hibcat d nikoot a = 36
+    a = 4
+    a xebrut z hibcat d = 44
+    z hibcat a nikoot w = 77
+    z nikoot d = 18
+    w xebrut z hibcat a = 83
+
+    z hibcat w nikoot w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,3,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    z hibcat d nikoot a = 36
+    a = 4
+    a xebrut z hibcat d = 44
+    z hibcat a nikoot w = 77
+    z nikoot d = 18
+    w xebrut z hibcat a = 83
+
+    z hibcat w nikoot w = ??
+
+     "
+deepseek-r1-distill-qwen-7b,separate,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r xebrut d xebrut w = 36
+    a hibcat r xebrut c = 49
+    c = 9
+    m hibcat r xebrut s = 81
+    h hibcat r xebrut m = 64
+    r xebrut q = 25
+    d xebrut w = 16
+    m = 4 
+    s = 1
+
+    q hibcat r xebrut h = ??
+     "
+deepseek-r1-distill-qwen-7b,separate,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r xebrut d xebrut w = 36
+    a hibcat r xebrut c = 49
+    c = 9
+    m hibcat r xebrut s = 81
+    h hibcat r xebrut m = 64
+    r xebrut q = 25
+    d xebrut w = 16
+    m = 4 
+    s = 1
+
+    q hibcat r xebrut h = ??
+     "
+deepseek-r1-distill-qwen-7b,separate,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r xebrut d xebrut w = 36
+    a hibcat r xebrut c = 49
+    c = 9
+    m hibcat r xebrut s = 81
+    h hibcat r xebrut m = 64
+    r xebrut q = 25
+    d xebrut w = 16
+    m = 4 
+    s = 1
+
+    q hibcat r xebrut h = ??
+     "
+deepseek-r1-distill-qwen-7b,separate,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r xebrut d xebrut w = 36
+    a hibcat r xebrut c = 49
+    c = 9
+    m hibcat r xebrut s = 81
+    h hibcat r xebrut m = 64
+    r xebrut q = 25
+    d xebrut w = 16
+    m = 4 
+    s = 1
+
+    q hibcat r xebrut h = ??
+     "
+deepseek-r1-distill-qwen-7b,separate,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    r xebrut d xebrut w = 36
+    a hibcat r xebrut c = 49
+    c = 9
+    m hibcat r xebrut s = 81
+    h hibcat r xebrut m = 64
+    r xebrut q = 25
+    d xebrut w = 16
+    m = 4 
+    s = 1
+
+    q hibcat r xebrut h = ??
+     "
+deepseek-r1-distill-qwen-7b,"values,",29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q hibcat r xebrut q = 9 
+    q hibcat r xebrut m = 13
+    v hibcat r xebrut q = 17
+    v hibcat r xebrut f = 20
+    o hibcat r xebrut v = 26
+    o hibcat r xebrut x = 30
+    f hibcat r xebrut o = 35
+
+    o hibcat r xebrut m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,"values,",29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q hibcat r xebrut q = 9 
+    q hibcat r xebrut m = 13
+    v hibcat r xebrut q = 17
+    v hibcat r xebrut f = 20
+    o hibcat r xebrut v = 26
+    o hibcat r xebrut x = 30
+    f hibcat r xebrut o = 35
+
+    o hibcat r xebrut m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,"values,",29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q hibcat r xebrut q = 9 
+    q hibcat r xebrut m = 13
+    v hibcat r xebrut q = 17
+    v hibcat r xebrut f = 20
+    o hibcat r xebrut v = 26
+    o hibcat r xebrut x = 30
+    f hibcat r xebrut o = 35
+
+    o hibcat r xebrut m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,"values,",29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q hibcat r xebrut q = 9 
+    q hibcat r xebrut m = 13
+    v hibcat r xebrut q = 17
+    v hibcat r xebrut f = 20
+    o hibcat r xebrut v = 26
+    o hibcat r xebrut x = 30
+    f hibcat r xebrut o = 35
+
+    o hibcat r xebrut m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,"values,",29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    q hibcat r xebrut q = 9 
+    q hibcat r xebrut m = 13
+    v hibcat r xebrut q = 17
+    v hibcat r xebrut f = 20
+    o hibcat r xebrut v = 26
+    o hibcat r xebrut x = 30
+    f hibcat r xebrut o = 35
+
+    o hibcat r xebrut m = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,10,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b hibcat (f xebrut j) xebrut f xebrut j = 294
+    b hibcat (b xebrut j) xebrut f xebrut q = 492
+    b hibcat (b hibcat q) xebrut o xebrut c = 816
+    b hibcat (o xebrut q) xebrut o xebrut q = 357
+    b hibcat (b xebrut c) xebrut o xebrut v = 438
+    b hibcat (f xebrut v) xebrut o xebrut c = 276
+
+    b hibcat (b xebrut q) xebrut f xebrut c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,10,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b hibcat (f xebrut j) xebrut f xebrut j = 294
+    b hibcat (b xebrut j) xebrut f xebrut q = 492
+    b hibcat (b hibcat q) xebrut o xebrut c = 816
+    b hibcat (o xebrut q) xebrut o xebrut q = 357
+    b hibcat (b xebrut c) xebrut o xebrut v = 438
+    b hibcat (f xebrut v) xebrut o xebrut c = 276
+
+    b hibcat (b xebrut q) xebrut f xebrut c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,10,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b hibcat (f xebrut j) xebrut f xebrut j = 294
+    b hibcat (b xebrut j) xebrut f xebrut q = 492
+    b hibcat (b hibcat q) xebrut o xebrut c = 816
+    b hibcat (o xebrut q) xebrut o xebrut q = 357
+    b hibcat (b xebrut c) xebrut o xebrut v = 438
+    b hibcat (f xebrut v) xebrut o xebrut c = 276
+
+    b hibcat (b xebrut q) xebrut f xebrut c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,10,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b hibcat (f xebrut j) xebrut f xebrut j = 294
+    b hibcat (b xebrut j) xebrut f xebrut q = 492
+    b hibcat (b hibcat q) xebrut o xebrut c = 816
+    b hibcat (o xebrut q) xebrut o xebrut q = 357
+    b hibcat (b xebrut c) xebrut o xebrut v = 438
+    b hibcat (f xebrut v) xebrut o xebrut c = 276
+
+    b hibcat (b xebrut q) xebrut f xebrut c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,10,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    b hibcat (f xebrut j) xebrut f xebrut j = 294
+    b hibcat (b xebrut j) xebrut f xebrut q = 492
+    b hibcat (b hibcat q) xebrut o xebrut c = 816
+    b hibcat (o xebrut q) xebrut o xebrut q = 357
+    b hibcat (b xebrut c) xebrut o xebrut v = 438
+    b hibcat (f xebrut v) xebrut o xebrut c = 276
+
+    b hibcat (b xebrut q) xebrut f xebrut c = ?? 
+     "
+deepseek-r1-distill-qwen-7b,+,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i hibcat s) xebrut i xebrut n = 31
+    (i hibcat s) xebrut i xebrut x = 26
+    (i hibcat s) xebrut i xebrut d = 36
+    (r hibcat s) xebrut r xebrut x = 89
+    (w hibcat s) xebrut w xebrut n = 73
+    (w hibcat s) xebrut (w hibcat g) = 75
+    (w hibcat s) xebrut w xebrut d = 78
+    (u hibcat s) xebrut u = 42
+    (u hibcat s) xebrut u xebrut n = 52
+    (u hibcat s) xebrut (u hibcat g) = 50
+
+    (r hibcat s) xebrut r xebrut n = ??
+     "
+deepseek-r1-distill-qwen-7b,+,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i hibcat s) xebrut i xebrut n = 31
+    (i hibcat s) xebrut i xebrut x = 26
+    (i hibcat s) xebrut i xebrut d = 36
+    (r hibcat s) xebrut r xebrut x = 89
+    (w hibcat s) xebrut w xebrut n = 73
+    (w hibcat s) xebrut (w hibcat g) = 75
+    (w hibcat s) xebrut w xebrut d = 78
+    (u hibcat s) xebrut u = 42
+    (u hibcat s) xebrut u xebrut n = 52
+    (u hibcat s) xebrut (u hibcat g) = 50
+
+    (r hibcat s) xebrut r xebrut n = ??
+     "
+deepseek-r1-distill-qwen-7b,+,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i hibcat s) xebrut i xebrut n = 31
+    (i hibcat s) xebrut i xebrut x = 26
+    (i hibcat s) xebrut i xebrut d = 36
+    (r hibcat s) xebrut r xebrut x = 89
+    (w hibcat s) xebrut w xebrut n = 73
+    (w hibcat s) xebrut (w hibcat g) = 75
+    (w hibcat s) xebrut w xebrut d = 78
+    (u hibcat s) xebrut u = 42
+    (u hibcat s) xebrut u xebrut n = 52
+    (u hibcat s) xebrut (u hibcat g) = 50
+
+    (r hibcat s) xebrut r xebrut n = ??
+     "
+deepseek-r1-distill-qwen-7b,+,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i hibcat s) xebrut i xebrut n = 31
+    (i hibcat s) xebrut i xebrut x = 26
+    (i hibcat s) xebrut i xebrut d = 36
+    (r hibcat s) xebrut r xebrut x = 89
+    (w hibcat s) xebrut w xebrut n = 73
+    (w hibcat s) xebrut (w hibcat g) = 75
+    (w hibcat s) xebrut w xebrut d = 78
+    (u hibcat s) xebrut u = 42
+    (u hibcat s) xebrut u xebrut n = 52
+    (u hibcat s) xebrut (u hibcat g) = 50
+
+    (r hibcat s) xebrut r xebrut n = ??
+     "
+deepseek-r1-distill-qwen-7b,+,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (i hibcat s) xebrut i xebrut n = 31
+    (i hibcat s) xebrut i xebrut x = 26
+    (i hibcat s) xebrut i xebrut d = 36
+    (r hibcat s) xebrut r xebrut x = 89
+    (w hibcat s) xebrut w xebrut n = 73
+    (w hibcat s) xebrut (w hibcat g) = 75
+    (w hibcat s) xebrut w xebrut d = 78
+    (u hibcat s) xebrut u = 42
+    (u hibcat s) xebrut u xebrut n = 52
+    (u hibcat s) xebrut (u hibcat g) = 50
+
+    (r hibcat s) xebrut r xebrut n = ??
+     "
+deepseek-r1-distill-qwen-7b,"digit,",111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m hibcat b xebrut g = 16
+    h hibcat b xebrut m xebrut q = 81
+    h xebrut m hibcat b xebrut f = 49
+    h xebrut a xebrut m xebrut g = 64
+    h hibcat b xebrut a xebrut m xebrut g = 100
+    a xebrut m xebrut f = 25
+    m xebrut q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h hibcat q xebrut q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,"digit,",111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m hibcat b xebrut g = 16
+    h hibcat b xebrut m xebrut q = 81
+    h xebrut m hibcat b xebrut f = 49
+    h xebrut a xebrut m xebrut g = 64
+    h hibcat b xebrut a xebrut m xebrut g = 100
+    a xebrut m xebrut f = 25
+    m xebrut q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h hibcat q xebrut q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,"digit,",111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m hibcat b xebrut g = 16
+    h hibcat b xebrut m xebrut q = 81
+    h xebrut m hibcat b xebrut f = 49
+    h xebrut a xebrut m xebrut g = 64
+    h hibcat b xebrut a xebrut m xebrut g = 100
+    a xebrut m xebrut f = 25
+    m xebrut q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h hibcat q xebrut q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,"digit,",111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m hibcat b xebrut g = 16
+    h hibcat b xebrut m xebrut q = 81
+    h xebrut m hibcat b xebrut f = 49
+    h xebrut a xebrut m xebrut g = 64
+    h hibcat b xebrut a xebrut m xebrut g = 100
+    a xebrut m xebrut f = 25
+    m xebrut q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h hibcat q xebrut q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,"digit,",111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    m hibcat b xebrut g = 16
+    h hibcat b xebrut m xebrut q = 81
+    h xebrut m hibcat b xebrut f = 49
+    h xebrut a xebrut m xebrut g = 64
+    h hibcat b xebrut a xebrut m xebrut g = 100
+    a xebrut m xebrut f = 25
+    m xebrut q = 9
+    g = 4
+    f = 1
+    h = 36
+
+    h hibcat q xebrut q = ?? 
+     "
+deepseek-r1-distill-qwen-7b,constraints.,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y nikoot w xebrut m = 10 
+    x nikoot w xebrut z = 15
+    i = 20
+    r nikoot w xebrut a = 21
+    f nikoot w xebrut z = 27
+    e nikoot w xebrut m = 30
+    r xebrut (y nikoot w xebrut z) = 35
+    r xebrut x = 40
+    r hibcat m = 48
+    r xebrut (f nikoot w xebrut m) = 50
+    r hibcat m xebrut (r nikoot w xebrut a) = 69
+    r hibcat m xebrut (e nikoot w xebrut z) = 79
+    r hibcat z xebrut (f nikoot w xebrut a) = 97
+
+    a < z
+
+    r hibcat z xebrut (x nikoot w xebrut m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,constraints.,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y nikoot w xebrut m = 10 
+    x nikoot w xebrut z = 15
+    i = 20
+    r nikoot w xebrut a = 21
+    f nikoot w xebrut z = 27
+    e nikoot w xebrut m = 30
+    r xebrut (y nikoot w xebrut z) = 35
+    r xebrut x = 40
+    r hibcat m = 48
+    r xebrut (f nikoot w xebrut m) = 50
+    r hibcat m xebrut (r nikoot w xebrut a) = 69
+    r hibcat m xebrut (e nikoot w xebrut z) = 79
+    r hibcat z xebrut (f nikoot w xebrut a) = 97
+
+    a < z
+
+    r hibcat z xebrut (x nikoot w xebrut m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,constraints.,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y nikoot w xebrut m = 10 
+    x nikoot w xebrut z = 15
+    i = 20
+    r nikoot w xebrut a = 21
+    f nikoot w xebrut z = 27
+    e nikoot w xebrut m = 30
+    r xebrut (y nikoot w xebrut z) = 35
+    r xebrut x = 40
+    r hibcat m = 48
+    r xebrut (f nikoot w xebrut m) = 50
+    r hibcat m xebrut (r nikoot w xebrut a) = 69
+    r hibcat m xebrut (e nikoot w xebrut z) = 79
+    r hibcat z xebrut (f nikoot w xebrut a) = 97
+
+    a < z
+
+    r hibcat z xebrut (x nikoot w xebrut m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,constraints.,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y nikoot w xebrut m = 10 
+    x nikoot w xebrut z = 15
+    i = 20
+    r nikoot w xebrut a = 21
+    f nikoot w xebrut z = 27
+    e nikoot w xebrut m = 30
+    r xebrut (y nikoot w xebrut z) = 35
+    r xebrut x = 40
+    r hibcat m = 48
+    r xebrut (f nikoot w xebrut m) = 50
+    r hibcat m xebrut (r nikoot w xebrut a) = 69
+    r hibcat m xebrut (e nikoot w xebrut z) = 79
+    r hibcat z xebrut (f nikoot w xebrut a) = 97
+
+    a < z
+
+    r hibcat z xebrut (x nikoot w xebrut m) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,constraints.,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    y nikoot w xebrut m = 10 
+    x nikoot w xebrut z = 15
+    i = 20
+    r nikoot w xebrut a = 21
+    f nikoot w xebrut z = 27
+    e nikoot w xebrut m = 30
+    r xebrut (y nikoot w xebrut z) = 35
+    r xebrut x = 40
+    r hibcat m = 48
+    r xebrut (f nikoot w xebrut m) = 50
+    r hibcat m xebrut (r nikoot w xebrut a) = 69
+    r hibcat m xebrut (e nikoot w xebrut z) = 79
+    r hibcat z xebrut (f nikoot w xebrut a) = 97
+
+    a < z
+
+    r hibcat z xebrut (x nikoot w xebrut m) = ??
+
+     "

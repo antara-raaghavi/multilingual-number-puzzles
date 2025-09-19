@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,1161,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (elpsom elpsom elpsom elpsom) + (elpsom go elpsom) = (utzPOS go eeeMOD) x 2
+    eeeMOD ^ 2 + elpsom ^ 2 = utzPOS
+    (utzPOS go eeeMOD) ^ 2 = (elpsom go elpsom) x (utzPOS elpsom go elpsom)
+    elpsom x utzPOS = toylac
+    
+
+    elpsom go eeeMOD = ?? "
+o1-mini,131,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (elpsom elpsom elpsom elpsom) + (elpsom go elpsom) = (utzPOS go eeeMOD) x 2
+    eeeMOD ^ 2 + elpsom ^ 2 = utzPOS
+    (utzPOS go eeeMOD) ^ 2 = (elpsom go elpsom) x (utzPOS elpsom go elpsom)
+    elpsom x utzPOS = toylac
+    
+
+    elpsom go eeeMOD = ?? "
+o1-mini,161,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (elpsom elpsom elpsom elpsom) + (elpsom go elpsom) = (utzPOS go eeeMOD) x 2
+    eeeMOD ^ 2 + elpsom ^ 2 = utzPOS
+    (utzPOS go eeeMOD) ^ 2 = (elpsom go elpsom) x (utzPOS elpsom go elpsom)
+    elpsom x utzPOS = toylac
+    
+
+    elpsom go eeeMOD = ?? "
+o1-mini,131,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (elpsom elpsom elpsom elpsom) + (elpsom go elpsom) = (utzPOS go eeeMOD) x 2
+    eeeMOD ^ 2 + elpsom ^ 2 = utzPOS
+    (utzPOS go eeeMOD) ^ 2 = (elpsom go elpsom) x (utzPOS elpsom go elpsom)
+    elpsom x utzPOS = toylac
+    
+
+    elpsom go eeeMOD = ?? "
+o1-mini,93,3,waorani,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (elpsom elpsom elpsom elpsom) + (elpsom go elpsom) = (utzPOS go eeeMOD) x 2
+    eeeMOD ^ 2 + elpsom ^ 2 = utzPOS
+    (utzPOS go eeeMOD) ^ 2 = (elpsom go elpsom) x (utzPOS elpsom go elpsom)
+    elpsom x utzPOS = toylac
+    
+
+    elpsom go eeeMOD = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    nicrow kalKa ga Geonum + Geonum kalKa ga Geonum = pitapt kalKa ga abcECT
+    nicrow + nicrow kalKa ga nicrow = pitapt kalKa ga Geonum
+    Geonum kalKa ga abcECT + Geonum = Geonum kalKa ga nicrow
+    nicrow × pitapt = abcECT kalKa ga abcECT
+    Geonum kalKa ga nicrow + abcECT kalKa ga nicrow = pitapt kalKa ga Geonum 
+    
+    nicrow kalKa ga abcECT = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    nicrow kalKa ga Geonum + Geonum kalKa ga Geonum = pitapt kalKa ga abcECT
+    nicrow + nicrow kalKa ga nicrow = pitapt kalKa ga Geonum
+    Geonum kalKa ga abcECT + Geonum = Geonum kalKa ga nicrow
+    nicrow × pitapt = abcECT kalKa ga abcECT
+    Geonum kalKa ga nicrow + abcECT kalKa ga nicrow = pitapt kalKa ga Geonum 
+    
+    nicrow kalKa ga abcECT = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    nicrow kalKa ga Geonum + Geonum kalKa ga Geonum = pitapt kalKa ga abcECT
+    nicrow + nicrow kalKa ga nicrow = pitapt kalKa ga Geonum
+    Geonum kalKa ga abcECT + Geonum = Geonum kalKa ga nicrow
+    nicrow × pitapt = abcECT kalKa ga abcECT
+    Geonum kalKa ga nicrow + abcECT kalKa ga nicrow = pitapt kalKa ga Geonum 
+    
+    nicrow kalKa ga abcECT = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    nicrow kalKa ga Geonum + Geonum kalKa ga Geonum = pitapt kalKa ga abcECT
+    nicrow + nicrow kalKa ga nicrow = pitapt kalKa ga Geonum
+    Geonum kalKa ga abcECT + Geonum = Geonum kalKa ga nicrow
+    nicrow × pitapt = abcECT kalKa ga abcECT
+    Geonum kalKa ga nicrow + abcECT kalKa ga nicrow = pitapt kalKa ga Geonum 
+    
+    nicrow kalKa ga abcECT = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in a language that uses a base-5 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    nicrow kalKa ga Geonum + Geonum kalKa ga Geonum = pitapt kalKa ga abcECT
+    nicrow + nicrow kalKa ga nicrow = pitapt kalKa ga Geonum
+    Geonum kalKa ga abcECT + Geonum = Geonum kalKa ga nicrow
+    nicrow × pitapt = abcECT kalKa ga abcECT
+    Geonum kalKa ga nicrow + abcECT kalKa ga nicrow = pitapt kalKa ga Geonum 
+    
+    nicrow kalKa ga abcECT = ?? "
+o1-mini,1331,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays Mutnew itmHAS METHat EEPays apkhai EEPays = 1000
+    EEPays apkhai itmHAS = 27
+    OPALA = 1
+    OPALA METHat EEPays apkhai EEPays = 64
+    OPALA Mutnew itmHAS METHat itmHAS apkhai OPALA = 343
+    OPALA apkhai CogSha = 8
+    Mutnew = 216
+    CogSha Mutnew CogSha METHat OPALA apkhai CogSha = 512
+    itmHAS METHat CogSha apkhai fcexBA = 125
+    itmHAS Mutnew CogSha METHat OPALA apkhai itmHAS = 729 
+    
+    EEPays METHat fcexBA apkhai OPALA = ??  "
+o1-mini,243,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays Mutnew itmHAS METHat EEPays apkhai EEPays = 1000
+    EEPays apkhai itmHAS = 27
+    OPALA = 1
+    OPALA METHat EEPays apkhai EEPays = 64
+    OPALA Mutnew itmHAS METHat itmHAS apkhai OPALA = 343
+    OPALA apkhai CogSha = 8
+    Mutnew = 216
+    CogSha Mutnew CogSha METHat OPALA apkhai CogSha = 512
+    itmHAS METHat CogSha apkhai fcexBA = 125
+    itmHAS Mutnew CogSha METHat OPALA apkhai itmHAS = 729 
+    
+    EEPays METHat fcexBA apkhai OPALA = ??  "
+o1-mini,512,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays Mutnew itmHAS METHat EEPays apkhai EEPays = 1000
+    EEPays apkhai itmHAS = 27
+    OPALA = 1
+    OPALA METHat EEPays apkhai EEPays = 64
+    OPALA Mutnew itmHAS METHat itmHAS apkhai OPALA = 343
+    OPALA apkhai CogSha = 8
+    Mutnew = 216
+    CogSha Mutnew CogSha METHat OPALA apkhai CogSha = 512
+    itmHAS METHat CogSha apkhai fcexBA = 125
+    itmHAS Mutnew CogSha METHat OPALA apkhai itmHAS = 729 
+    
+    EEPays METHat fcexBA apkhai OPALA = ??  "
+o1-mini,375,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays Mutnew itmHAS METHat EEPays apkhai EEPays = 1000
+    EEPays apkhai itmHAS = 27
+    OPALA = 1
+    OPALA METHat EEPays apkhai EEPays = 64
+    OPALA Mutnew itmHAS METHat itmHAS apkhai OPALA = 343
+    OPALA apkhai CogSha = 8
+    Mutnew = 216
+    CogSha Mutnew CogSha METHat OPALA apkhai CogSha = 512
+    itmHAS METHat CogSha apkhai fcexBA = 125
+    itmHAS Mutnew CogSha METHat OPALA apkhai itmHAS = 729 
+    
+    EEPays METHat fcexBA apkhai OPALA = ??  "
+o1-mini,8,175,ngkolmpu,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EEPays Mutnew itmHAS METHat EEPays apkhai EEPays = 1000
+    EEPays apkhai itmHAS = 27
+    OPALA = 1
+    OPALA METHat EEPays apkhai EEPays = 64
+    OPALA Mutnew itmHAS METHat itmHAS apkhai OPALA = 343
+    OPALA apkhai CogSha = 8
+    Mutnew = 216
+    CogSha Mutnew CogSha METHat OPALA apkhai CogSha = 512
+    itmHAS METHat CogSha apkhai fcexBA = 125
+    itmHAS Mutnew CogSha METHat OPALA apkhai itmHAS = 729 
+    
+    EEPays METHat fcexBA apkhai OPALA = ??  "
+o1-mini,116,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE ceogh dil orzFlo = 36
+    orzFlo = 4
+    UneUGE ceogh d orzFlo = 44
+    UneUGE orzFlo dil elnBu = 77
+    UneUGE dil ceogh = 18
+    UneUGE orzFlo d elnBu = 83
+
+    UneUGE elnBu dil elnBu = ??
+
+     "
+o1-mini,89,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE ceogh dil orzFlo = 36
+    orzFlo = 4
+    UneUGE ceogh d orzFlo = 44
+    UneUGE orzFlo dil elnBu = 77
+    UneUGE dil ceogh = 18
+    UneUGE orzFlo d elnBu = 83
+
+    UneUGE elnBu dil elnBu = ??
+
+     "
+o1-mini,54,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE ceogh dil orzFlo = 36
+    orzFlo = 4
+    UneUGE ceogh d orzFlo = 44
+    UneUGE orzFlo dil elnBu = 77
+    UneUGE dil ceogh = 18
+    UneUGE orzFlo d elnBu = 83
+
+    UneUGE elnBu dil elnBu = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE ceogh dil orzFlo = 36
+    orzFlo = 4
+    UneUGE ceogh d orzFlo = 44
+    UneUGE orzFlo dil elnBu = 77
+    UneUGE dil ceogh = 18
+    UneUGE orzFlo d elnBu = 83
+
+    UneUGE elnBu dil elnBu = ??
+
+     "
+o1-mini,43,57,yoruba,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ceogh = 2 
+    UneUGE ceogh dil orzFlo = 36
+    orzFlo = 4
+    UneUGE ceogh d orzFlo = 44
+    UneUGE orzFlo dil elnBu = 77
+    UneUGE dil ceogh = 18
+    UneUGE orzFlo d elnBu = 83
+
+    UneUGE elnBu dil elnBu = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke da eerPer advhya = 36
+    uaiban t aaccke da inpUID = 49
+    inpUID = 9
+    HALSON t aaccke da Hadim = 81
+    ROTnof t aaccke da HALSON = 64
+    aaccke da ysiMEA = 25
+    eerPer advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA t aaccke da ROTnof = ??
+     "
+o1-mini,203,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke da eerPer advhya = 36
+    uaiban t aaccke da inpUID = 49
+    inpUID = 9
+    HALSON t aaccke da Hadim = 81
+    ROTnof t aaccke da HALSON = 64
+    aaccke da ysiMEA = 25
+    eerPer advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA t aaccke da ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke da eerPer advhya = 36
+    uaiban t aaccke da inpUID = 49
+    inpUID = 9
+    HALSON t aaccke da Hadim = 81
+    ROTnof t aaccke da HALSON = 64
+    aaccke da ysiMEA = 25
+    eerPer advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA t aaccke da ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke da eerPer advhya = 36
+    uaiban t aaccke da inpUID = 49
+    inpUID = 9
+    HALSON t aaccke da Hadim = 81
+    ROTnof t aaccke da HALSON = 64
+    aaccke da ysiMEA = 25
+    eerPer advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA t aaccke da ROTnof = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    aaccke da eerPer advhya = 36
+    uaiban t aaccke da inpUID = 49
+    inpUID = 9
+    HALSON t aaccke da Hadim = 81
+    ROTnof t aaccke da HALSON = 64
+    aaccke da ysiMEA = 25
+    eerPer advhya = 16
+    HALSON = 4 
+    Hadim = 1
+
+    ysiMEA t aaccke da ROTnof = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO BasAZ tapITO = 9 
+    tapITO BasAZ detBet = 13
+    wonuse BasAZ tapITO = 17
+    wonuse BasAZ HOTan = 20
+    mayoha BasAZ wonuse = 26
+    mayoha BasAZ IPobo = 30
+    HOTan BasAZ mayoha = 35
+
+    mayoha BasAZ detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO BasAZ tapITO = 9 
+    tapITO BasAZ detBet = 13
+    wonuse BasAZ tapITO = 17
+    wonuse BasAZ HOTan = 20
+    mayoha BasAZ wonuse = 26
+    mayoha BasAZ IPobo = 30
+    HOTan BasAZ mayoha = 35
+
+    mayoha BasAZ detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO BasAZ tapITO = 9 
+    tapITO BasAZ detBet = 13
+    wonuse BasAZ tapITO = 17
+    wonuse BasAZ HOTan = 20
+    mayoha BasAZ wonuse = 26
+    mayoha BasAZ IPobo = 30
+    HOTan BasAZ mayoha = 35
+
+    mayoha BasAZ detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO BasAZ tapITO = 9 
+    tapITO BasAZ detBet = 13
+    wonuse BasAZ tapITO = 17
+    wonuse BasAZ HOTan = 20
+    mayoha BasAZ wonuse = 26
+    mayoha BasAZ IPobo = 30
+    HOTan BasAZ mayoha = 35
+
+    mayoha BasAZ detBet = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in a language that uses a base-8 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tapITO BasAZ tapITO = 9 
+    tapITO BasAZ detBet = 13
+    wonuse BasAZ tapITO = 17
+    wonuse BasAZ HOTan = 20
+    mayoha BasAZ wonuse = 26
+    mayoha BasAZ IPobo = 30
+    HOTan BasAZ mayoha = 35
+
+    mayoha BasAZ detBet = ?? 
+
+     "
+o1-mini,438,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha t ADDcla LANTek ADDcla LANTek = 294 
+    HEpha t HEpha LANTek ADDcla OBJirt = 492 
+    HEpha t maxue OBJirt maxue OBJirt = 357 
+    HEpha t HEpha t OBJirt maxue ofiOT = 816
+    HEpha t HEpha ofiOT maxue movAPP = 438
+    HEpha t ADDcla movAPP maxue ofiOT = 276 
+
+    HEpha t HEpha OBJirt ADDcla ofiOT = ?? 
+     "
+o1-mini,642,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha t ADDcla LANTek ADDcla LANTek = 294 
+    HEpha t HEpha LANTek ADDcla OBJirt = 492 
+    HEpha t maxue OBJirt maxue OBJirt = 357 
+    HEpha t HEpha t OBJirt maxue ofiOT = 816
+    HEpha t HEpha ofiOT maxue movAPP = 438
+    HEpha t ADDcla movAPP maxue ofiOT = 276 
+
+    HEpha t HEpha OBJirt ADDcla ofiOT = ?? 
+     "
+o1-mini,390,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha t ADDcla LANTek ADDcla LANTek = 294 
+    HEpha t HEpha LANTek ADDcla OBJirt = 492 
+    HEpha t maxue OBJirt maxue OBJirt = 357 
+    HEpha t HEpha t OBJirt maxue ofiOT = 816
+    HEpha t HEpha ofiOT maxue movAPP = 438
+    HEpha t ADDcla movAPP maxue ofiOT = 276 
+
+    HEpha t HEpha OBJirt ADDcla ofiOT = ?? 
+     "
+o1-mini,348,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha t ADDcla LANTek ADDcla LANTek = 294 
+    HEpha t HEpha LANTek ADDcla OBJirt = 492 
+    HEpha t maxue OBJirt maxue OBJirt = 357 
+    HEpha t HEpha t OBJirt maxue ofiOT = 816
+    HEpha t HEpha ofiOT maxue movAPP = 438
+    HEpha t ADDcla movAPP maxue ofiOT = 276 
+
+    HEpha t HEpha OBJirt ADDcla ofiOT = ?? 
+     "
+o1-mini,690,451,yup'ik,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    HEpha t ADDcla LANTek ADDcla LANTek = 294 
+    HEpha t HEpha LANTek ADDcla OBJirt = 492 
+    HEpha t maxue OBJirt maxue OBJirt = 357 
+    HEpha t HEpha t OBJirt maxue ofiOT = 816
+    HEpha t HEpha ofiOT maxue movAPP = 438
+    HEpha t ADDcla movAPP maxue ofiOT = 276 
+
+    HEpha t HEpha OBJirt ADDcla ofiOT = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Ubed cidMed nge Ubed ujulay = 31
+    Ubed cidMed nge Ubed theANK = 26
+    Ubed cidMed nge Ubed Choelp = 36
+    orpocr cidMed nge orpocr theANK = 89
+    Robmap cidMed nge Robmap ujulay = 73
+    Robmap cidMed nge Robmap groumn = 75
+    Robmap cidMed nge Robmap Choelp = 78
+    worapl cidMed nge worapl = 42
+    worapl cidMed nge worapl ujulay = 52
+    worapl cidMed nge worapl groumn = 50
+
+    orpocr cidMed nge orpocr ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Ubed cidMed nge Ubed ujulay = 31
+    Ubed cidMed nge Ubed theANK = 26
+    Ubed cidMed nge Ubed Choelp = 36
+    orpocr cidMed nge orpocr theANK = 89
+    Robmap cidMed nge Robmap ujulay = 73
+    Robmap cidMed nge Robmap groumn = 75
+    Robmap cidMed nge Robmap Choelp = 78
+    worapl cidMed nge worapl = 42
+    worapl cidMed nge worapl ujulay = 52
+    worapl cidMed nge worapl groumn = 50
+
+    orpocr cidMed nge orpocr ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Ubed cidMed nge Ubed ujulay = 31
+    Ubed cidMed nge Ubed theANK = 26
+    Ubed cidMed nge Ubed Choelp = 36
+    orpocr cidMed nge orpocr theANK = 89
+    Robmap cidMed nge Robmap ujulay = 73
+    Robmap cidMed nge Robmap groumn = 75
+    Robmap cidMed nge Robmap Choelp = 78
+    worapl cidMed nge worapl = 42
+    worapl cidMed nge worapl ujulay = 52
+    worapl cidMed nge worapl groumn = 50
+
+    orpocr cidMed nge orpocr ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Ubed cidMed nge Ubed ujulay = 31
+    Ubed cidMed nge Ubed theANK = 26
+    Ubed cidMed nge Ubed Choelp = 36
+    orpocr cidMed nge orpocr theANK = 89
+    Robmap cidMed nge Robmap ujulay = 73
+    Robmap cidMed nge Robmap groumn = 75
+    Robmap cidMed nge Robmap Choelp = 78
+    worapl cidMed nge worapl = 42
+    worapl cidMed nge worapl ujulay = 52
+    worapl cidMed nge worapl groumn = 50
+
+    orpocr cidMed nge orpocr ujulay = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in a language that uses a base-20 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Ubed cidMed nge Ubed ujulay = 31
+    Ubed cidMed nge Ubed theANK = 26
+    Ubed cidMed nge Ubed Choelp = 36
+    orpocr cidMed nge orpocr theANK = 89
+    Robmap cidMed nge Robmap ujulay = 73
+    Robmap cidMed nge Robmap groumn = 75
+    Robmap cidMed nge Robmap Choelp = 78
+    worapl cidMed nge worapl = 42
+    worapl cidMed nge worapl ujulay = 52
+    worapl cidMed nge worapl groumn = 50
+
+    orpocr cidMed nge orpocr ujulay = ??
+     "
+o1-mini,64,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop wocsi afdkoa tleNot = 16
+    INDmot wocsi afdkoa bezrop afdkoa zeola = 81
+    INDmot afdkoa bezrop wocsi afdkoa amaExc = 49
+    INDmot afdkoa ledsip afdkoa bezrop afdkoa tleNot = 64
+    INDmot wocsi afdkoa ledsip afdkoa bezrop afdkoa tleNot = 100
+    ledsip afdkoa bezrop afdkoa amaExc = 25
+    bezrop afdkoa zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot zeola afdkoa zeola = ?? 
+     "
+o1-mini,324,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop wocsi afdkoa tleNot = 16
+    INDmot wocsi afdkoa bezrop afdkoa zeola = 81
+    INDmot afdkoa bezrop wocsi afdkoa amaExc = 49
+    INDmot afdkoa ledsip afdkoa bezrop afdkoa tleNot = 64
+    INDmot wocsi afdkoa ledsip afdkoa bezrop afdkoa tleNot = 100
+    ledsip afdkoa bezrop afdkoa amaExc = 25
+    bezrop afdkoa zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot zeola afdkoa zeola = ?? 
+     "
+o1-mini,324,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop wocsi afdkoa tleNot = 16
+    INDmot wocsi afdkoa bezrop afdkoa zeola = 81
+    INDmot afdkoa bezrop wocsi afdkoa amaExc = 49
+    INDmot afdkoa ledsip afdkoa bezrop afdkoa tleNot = 64
+    INDmot wocsi afdkoa ledsip afdkoa bezrop afdkoa tleNot = 100
+    ledsip afdkoa bezrop afdkoa amaExc = 25
+    bezrop afdkoa zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot zeola afdkoa zeola = ?? 
+     "
+o1-mini,324,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop wocsi afdkoa tleNot = 16
+    INDmot wocsi afdkoa bezrop afdkoa zeola = 81
+    INDmot afdkoa bezrop wocsi afdkoa amaExc = 49
+    INDmot afdkoa ledsip afdkoa bezrop afdkoa tleNot = 64
+    INDmot wocsi afdkoa ledsip afdkoa bezrop afdkoa tleNot = 100
+    ledsip afdkoa bezrop afdkoa amaExc = 25
+    bezrop afdkoa zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot zeola afdkoa zeola = ?? 
+     "
+o1-mini,121,111,ndom,"Here is a puzzle based on numbers in a language that uses a base-6 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    bezrop wocsi afdkoa tleNot = 16
+    INDmot wocsi afdkoa bezrop afdkoa zeola = 81
+    INDmot afdkoa bezrop wocsi afdkoa amaExc = 49
+    INDmot afdkoa ledsip afdkoa bezrop afdkoa tleNot = 64
+    INDmot wocsi afdkoa ledsip afdkoa bezrop afdkoa tleNot = 100
+    ledsip afdkoa bezrop afdkoa amaExc = 25
+    bezrop afdkoa zeola = 9
+    tleNot = 4
+    amaExc = 1
+    INDmot = 36
+
+    INDmot zeola afdkoa zeola = ?? 
+     "
+o1-mini,85,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nga inkDMI = 10 
+    ACSLAS nga bobhti = 15
+    bleche = 20
+    EngEye nga DatBo = 21
+    ibsPAR nga bobhti = 27
+    SpiULD nga inkDMI = 30
+    EngEye tasyan nga bobhti = 35
+    EngEye ACSLAS = 40
+    EngEye inkDMI = 48
+    EngEye ibsPAR nga inkDMI = 50
+    EngEye inkDMI EngEye nga DatBo = 69
+    EngEye inkDMI SpiULD nga bobhti = 79
+    EngEye bobhti ibsPAR nga DatBo = 97
+
+    DatBo < bobhti
+
+    EngEye bobhti ACSLAS nga inkDMI = ??
+
+     "
+o1-mini,65,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nga inkDMI = 10 
+    ACSLAS nga bobhti = 15
+    bleche = 20
+    EngEye nga DatBo = 21
+    ibsPAR nga bobhti = 27
+    SpiULD nga inkDMI = 30
+    EngEye tasyan nga bobhti = 35
+    EngEye ACSLAS = 40
+    EngEye inkDMI = 48
+    EngEye ibsPAR nga inkDMI = 50
+    EngEye inkDMI EngEye nga DatBo = 69
+    EngEye inkDMI SpiULD nga bobhti = 79
+    EngEye bobhti ibsPAR nga DatBo = 97
+
+    DatBo < bobhti
+
+    EngEye bobhti ACSLAS nga inkDMI = ??
+
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nga inkDMI = 10 
+    ACSLAS nga bobhti = 15
+    bleche = 20
+    EngEye nga DatBo = 21
+    ibsPAR nga bobhti = 27
+    SpiULD nga inkDMI = 30
+    EngEye tasyan nga bobhti = 35
+    EngEye ACSLAS = 40
+    EngEye inkDMI = 48
+    EngEye ibsPAR nga inkDMI = 50
+    EngEye inkDMI EngEye nga DatBo = 69
+    EngEye inkDMI SpiULD nga bobhti = 79
+    EngEye bobhti ibsPAR nga DatBo = 97
+
+    DatBo < bobhti
+
+    EngEye bobhti ACSLAS nga inkDMI = ??
+
+     "
+o1-mini,44,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nga inkDMI = 10 
+    ACSLAS nga bobhti = 15
+    bleche = 20
+    EngEye nga DatBo = 21
+    ibsPAR nga bobhti = 27
+    SpiULD nga inkDMI = 30
+    EngEye tasyan nga bobhti = 35
+    EngEye ACSLAS = 40
+    EngEye inkDMI = 48
+    EngEye ibsPAR nga inkDMI = 50
+    EngEye inkDMI EngEye nga DatBo = 69
+    EngEye inkDMI SpiULD nga bobhti = 79
+    EngEye bobhti ibsPAR nga DatBo = 97
+
+    DatBo < bobhti
+
+    EngEye bobhti ACSLAS nga inkDMI = ??
+
+     "
+o1-mini,,86,umbu-ungu,"Here is a puzzle based on numbers in a language that uses a base-24 numeral system. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tasyan nga inkDMI = 10 
+    ACSLAS nga bobhti = 15
+    bleche = 20
+    EngEye nga DatBo = 21
+    ibsPAR nga bobhti = 27
+    SpiULD nga inkDMI = 30
+    EngEye tasyan nga bobhti = 35
+    EngEye ACSLAS = 40
+    EngEye inkDMI = 48
+    EngEye ibsPAR nga inkDMI = 50
+    EngEye inkDMI EngEye nga DatBo = 69
+    EngEye inkDMI SpiULD nga bobhti = 79
+    EngEye bobhti ibsPAR nga DatBo = 97
+
+    DatBo < bobhti
+
+    EngEye bobhti ACSLAS nga inkDMI = ??
+
+     "

@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,19,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags α ehags α ehags α ehags α ehags α ehags = (chodot α krehum) x 2
+    krehum ^ 2 α ehags ^ 2 = chodot
+    (chodot α krehum) ^ 2 = (ehags α ehags) x (chodot α ehags α ehags)
+    ehags x chodot = niyou
+
+    ehags α krehum = ?? "
+o1-mini,0,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags α ehags α ehags α ehags α ehags α ehags = (chodot α krehum) x 2
+    krehum ^ 2 α ehags ^ 2 = chodot
+    (chodot α krehum) ^ 2 = (ehags α ehags) x (chodot α ehags α ehags)
+    ehags x chodot = niyou
+
+    ehags α krehum = ?? "
+o1-mini,16,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags α ehags α ehags α ehags α ehags α ehags = (chodot α krehum) x 2
+    krehum ^ 2 α ehags ^ 2 = chodot
+    (chodot α krehum) ^ 2 = (ehags α ehags) x (chodot α ehags α ehags)
+    ehags x chodot = niyou
+
+    ehags α krehum = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags α ehags α ehags α ehags α ehags α ehags = (chodot α krehum) x 2
+    krehum ^ 2 α ehags ^ 2 = chodot
+    (chodot α krehum) ^ 2 = (ehags α ehags) x (chodot α ehags α ehags)
+    ehags x chodot = niyou
+
+    ehags α krehum = ?? "
+o1-mini,1,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    ehags α ehags α ehags α ehags α ehags α ehags = (chodot α krehum) x 2
+    krehum ^ 2 α ehags ^ 2 = chodot
+    (chodot α krehum) ^ 2 = (ehags α ehags) x (chodot α ehags α ehags)
+    ehags x chodot = niyou
+
+    ehags α krehum = ?? "
+o1-mini,7,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid β maduis α gapthe) α (gapthe β maduis α gapthe) = owanic β maduis α hiit
+    squid α (squid β maduis α squid) = owanic β maduis α gapthe
+    (gapthe β maduis α hiit) α gapthe = gapthe β maduis α squid
+    squid β owanic = hiit β maduis α hiit
+    (gapthe β maduis α squid) α (hiit β maduis α squid) = owanic β maduis α gapthe 
+    
+
+    squid β maduis α hiit = ?? "
+o1-mini,10,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid β maduis α gapthe) α (gapthe β maduis α gapthe) = owanic β maduis α hiit
+    squid α (squid β maduis α squid) = owanic β maduis α gapthe
+    (gapthe β maduis α hiit) α gapthe = gapthe β maduis α squid
+    squid β owanic = hiit β maduis α hiit
+    (gapthe β maduis α squid) α (hiit β maduis α squid) = owanic β maduis α gapthe 
+    
+
+    squid β maduis α hiit = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid β maduis α gapthe) α (gapthe β maduis α gapthe) = owanic β maduis α hiit
+    squid α (squid β maduis α squid) = owanic β maduis α gapthe
+    (gapthe β maduis α hiit) α gapthe = gapthe β maduis α squid
+    squid β owanic = hiit β maduis α hiit
+    (gapthe β maduis α squid) α (hiit β maduis α squid) = owanic β maduis α gapthe 
+    
+
+    squid β maduis α hiit = ?? "
+o1-mini,14,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid β maduis α gapthe) α (gapthe β maduis α gapthe) = owanic β maduis α hiit
+    squid α (squid β maduis α squid) = owanic β maduis α gapthe
+    (gapthe β maduis α hiit) α gapthe = gapthe β maduis α squid
+    squid β owanic = hiit β maduis α hiit
+    (gapthe β maduis α squid) α (hiit β maduis α squid) = owanic β maduis α gapthe 
+    
+
+    squid β maduis α hiit = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (squid β maduis α gapthe) α (gapthe β maduis α gapthe) = owanic β maduis α hiit
+    squid α (squid β maduis α squid) = owanic β maduis α gapthe
+    (gapthe β maduis α hiit) α gapthe = gapthe β maduis α squid
+    squid β owanic = hiit β maduis α hiit
+    (gapthe β maduis α squid) α (hiit β maduis α squid) = owanic β maduis α gapthe 
+    
+
+    squid β maduis α hiit = ?? "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao β bumbay α tesii β acide α felao β manlo α felao = 1000
+    felao β manlo α tesii = 27
+    mulno = 1
+    mulno β acide α felao β manlo α felao = 64
+    mulno β bumbay α tesii β acide α tesii β manlo α mulno = 343
+    mulno β manlo α mornem = 8
+    bumbay = 216
+    mornem β bumbay α mornem β acide α mulno β manlo α mornem = 512
+    tesii β acide α mornem β manlo α kamays = 125
+    tesii β bumbay α mornem β acide α mulno β manlo α tesii = 729 
+    
+    felao β acide α kamays β manlo α mulno = ??  "
+o1-mini,64,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao β bumbay α tesii β acide α felao β manlo α felao = 1000
+    felao β manlo α tesii = 27
+    mulno = 1
+    mulno β acide α felao β manlo α felao = 64
+    mulno β bumbay α tesii β acide α tesii β manlo α mulno = 343
+    mulno β manlo α mornem = 8
+    bumbay = 216
+    mornem β bumbay α mornem β acide α mulno β manlo α mornem = 512
+    tesii β acide α mornem β manlo α kamays = 125
+    tesii β bumbay α mornem β acide α mulno β manlo α tesii = 729 
+    
+    felao β acide α kamays β manlo α mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao β bumbay α tesii β acide α felao β manlo α felao = 1000
+    felao β manlo α tesii = 27
+    mulno = 1
+    mulno β acide α felao β manlo α felao = 64
+    mulno β bumbay α tesii β acide α tesii β manlo α mulno = 343
+    mulno β manlo α mornem = 8
+    bumbay = 216
+    mornem β bumbay α mornem β acide α mulno β manlo α mornem = 512
+    tesii β acide α mornem β manlo α kamays = 125
+    tesii β bumbay α mornem β acide α mulno β manlo α tesii = 729 
+    
+    felao β acide α kamays β manlo α mulno = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao β bumbay α tesii β acide α felao β manlo α felao = 1000
+    felao β manlo α tesii = 27
+    mulno = 1
+    mulno β acide α felao β manlo α felao = 64
+    mulno β bumbay α tesii β acide α tesii β manlo α mulno = 343
+    mulno β manlo α mornem = 8
+    bumbay = 216
+    mornem β bumbay α mornem β acide α mulno β manlo α mornem = 512
+    tesii β acide α mornem β manlo α kamays = 125
+    tesii β bumbay α mornem β acide α mulno β manlo α tesii = 729 
+    
+    felao β acide α kamays β manlo α mulno = ??  "
+o1-mini,64,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    felao β bumbay α tesii β acide α felao β manlo α felao = 1000
+    felao β manlo α tesii = 27
+    mulno = 1
+    mulno β acide α felao β manlo α felao = 64
+    mulno β bumbay α tesii β acide α tesii β manlo α mulno = 343
+    mulno β manlo α mornem = 8
+    bumbay = 216
+    mornem β bumbay α mornem β acide α mulno β manlo α mornem = 512
+    tesii β acide α mornem β manlo α kamays = 125
+    tesii β bumbay α mornem β acide α mulno β manlo α tesii = 729 
+    
+    felao β acide α kamays β manlo α mulno = ??  "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv β uxadh ζ irkial = 36
+    irkial = 4
+    irkial α inkiv β uxadh = 44
+    inkiv β irkial ζ difli = 77
+    inkiv ζ uxadh = 18
+    difli α inkiv β irkial = 83
+
+    inkiv β difli ζ difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv β uxadh ζ irkial = 36
+    irkial = 4
+    irkial α inkiv β uxadh = 44
+    inkiv β irkial ζ difli = 77
+    inkiv ζ uxadh = 18
+    difli α inkiv β irkial = 83
+
+    inkiv β difli ζ difli = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv β uxadh ζ irkial = 36
+    irkial = 4
+    irkial α inkiv β uxadh = 44
+    inkiv β irkial ζ difli = 77
+    inkiv ζ uxadh = 18
+    difli α inkiv β irkial = 83
+
+    inkiv β difli ζ difli = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv β uxadh ζ irkial = 36
+    irkial = 4
+    irkial α inkiv β uxadh = 44
+    inkiv β irkial ζ difli = 77
+    inkiv ζ uxadh = 18
+    difli α inkiv β irkial = 83
+
+    inkiv β difli ζ difli = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    uxadh = 2 
+    inkiv β uxadh ζ irkial = 36
+    irkial = 4
+    irkial α inkiv β uxadh = 44
+    inkiv β irkial ζ difli = 77
+    inkiv ζ uxadh = 18
+    difli α inkiv β irkial = 83
+
+    inkiv β difli ζ difli = ??
+
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask α niciau α cesric = 36
+    preea β samask α onsiel = 49
+    onsiel = 9
+    rotrom β samask α kogeof = 81
+    appita β samask α rotrom = 64
+    samask α timinx = 25
+    niciau α cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx β samask α appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask α niciau α cesric = 36
+    preea β samask α onsiel = 49
+    onsiel = 9
+    rotrom β samask α kogeof = 81
+    appita β samask α rotrom = 64
+    samask α timinx = 25
+    niciau α cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx β samask α appita = ??
+     "
+o1-mini,65,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask α niciau α cesric = 36
+    preea β samask α onsiel = 49
+    onsiel = 9
+    rotrom β samask α kogeof = 81
+    appita β samask α rotrom = 64
+    samask α timinx = 25
+    niciau α cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx β samask α appita = ??
+     "
+o1-mini,25,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask α niciau α cesric = 36
+    preea β samask α onsiel = 49
+    onsiel = 9
+    rotrom β samask α kogeof = 81
+    appita β samask α rotrom = 64
+    samask α timinx = 25
+    niciau α cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx β samask α appita = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    samask α niciau α cesric = 36
+    preea β samask α onsiel = 49
+    onsiel = 9
+    rotrom β samask α kogeof = 81
+    appita β samask α rotrom = 64
+    samask α timinx = 25
+    niciau α cesric = 16
+    rotrom = 4 
+    kogeof = 1
+
+    timinx β samask α appita = ??
+     "
+o1-mini,82,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf β tuetra α aloraf = 9 
+    aloraf β tuetra α iroing = 13
+    ansfas β tuetra α aloraf = 17
+    ansfas β tuetra α goems = 20
+    htuiii β tuetra α ansfas = 26
+    htuiii β tuetra α ipiinu = 30
+    goems β tuetra α htuiii = 35
+
+    htuiii β tuetra α iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf β tuetra α aloraf = 9 
+    aloraf β tuetra α iroing = 13
+    ansfas β tuetra α aloraf = 17
+    ansfas β tuetra α goems = 20
+    htuiii β tuetra α ansfas = 26
+    htuiii β tuetra α ipiinu = 30
+    goems β tuetra α htuiii = 35
+
+    htuiii β tuetra α iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf β tuetra α aloraf = 9 
+    aloraf β tuetra α iroing = 13
+    ansfas β tuetra α aloraf = 17
+    ansfas β tuetra α goems = 20
+    htuiii β tuetra α ansfas = 26
+    htuiii β tuetra α ipiinu = 30
+    goems β tuetra α htuiii = 35
+
+    htuiii β tuetra α iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf β tuetra α aloraf = 9 
+    aloraf β tuetra α iroing = 13
+    ansfas β tuetra α aloraf = 17
+    ansfas β tuetra α goems = 20
+    htuiii β tuetra α ansfas = 26
+    htuiii β tuetra α ipiinu = 30
+    goems β tuetra α htuiii = 35
+
+    htuiii β tuetra α iroing = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    aloraf β tuetra α aloraf = 9 
+    aloraf β tuetra α iroing = 13
+    ansfas β tuetra α aloraf = 17
+    ansfas β tuetra α goems = 20
+    htuiii β tuetra α ansfas = 26
+    htuiii β tuetra α ipiinu = 30
+    goems β tuetra α htuiii = 35
+
+    htuiii β tuetra α iroing = ?? 
+
+     "
+o1-mini,366,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia β (tabmot α vresie) α tabmot α vresie = 294
+    raadia β (raadia α vresie) α tabmot α xfevoz = 492
+    raadia β (raadia β xfevoz) α latiss α licnon = 816
+    raadia β (latiss α xfevoz) α latiss α xfevoz = 357
+    raadia β (raadia α licnon) α latiss α ispagd = 438
+    raadia β (tabmot α ispagd) α latiss α licnon = 276
+
+    raadia β (raadia α xfevoz) α tabmot α licnon = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia β (tabmot α vresie) α tabmot α vresie = 294
+    raadia β (raadia α vresie) α tabmot α xfevoz = 492
+    raadia β (raadia β xfevoz) α latiss α licnon = 816
+    raadia β (latiss α xfevoz) α latiss α xfevoz = 357
+    raadia β (raadia α licnon) α latiss α ispagd = 438
+    raadia β (tabmot α ispagd) α latiss α licnon = 276
+
+    raadia β (raadia α xfevoz) α tabmot α licnon = ?? 
+     "
+o1-mini,570,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia β (tabmot α vresie) α tabmot α vresie = 294
+    raadia β (raadia α vresie) α tabmot α xfevoz = 492
+    raadia β (raadia β xfevoz) α latiss α licnon = 816
+    raadia β (latiss α xfevoz) α latiss α xfevoz = 357
+    raadia β (raadia α licnon) α latiss α ispagd = 438
+    raadia β (tabmot α ispagd) α latiss α licnon = 276
+
+    raadia β (raadia α xfevoz) α tabmot α licnon = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia β (tabmot α vresie) α tabmot α vresie = 294
+    raadia β (raadia α vresie) α tabmot α xfevoz = 492
+    raadia β (raadia β xfevoz) α latiss α licnon = 816
+    raadia β (latiss α xfevoz) α latiss α xfevoz = 357
+    raadia β (raadia α licnon) α latiss α ispagd = 438
+    raadia β (tabmot α ispagd) α latiss α licnon = 276
+
+    raadia β (raadia α xfevoz) α tabmot α licnon = ?? 
+     "
+o1-mini,552,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    raadia β (tabmot α vresie) α tabmot α vresie = 294
+    raadia β (raadia α vresie) α tabmot α xfevoz = 492
+    raadia β (raadia β xfevoz) α latiss α licnon = 816
+    raadia β (latiss α xfevoz) α latiss α xfevoz = 357
+    raadia β (raadia α licnon) α latiss α ispagd = 438
+    raadia β (tabmot α ispagd) α latiss α licnon = 276
+
+    raadia β (raadia α xfevoz) α tabmot α licnon = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat β casllo) α ceoat α kazyet = 31
+    (ceoat β casllo) α ceoat α hadyii = 26
+    (ceoat β casllo) α ceoat α awnvia = 36
+    (berul β casllo) α berul α hadyii = 89
+    (beiget β casllo) α beiget α kazyet = 73
+    (beiget β casllo) α (beiget β owytay) = 75
+    (beiget β casllo) α beiget α awnvia = 78
+    (thaunt β casllo) α thaunt = 42
+    (thaunt β casllo) α thaunt α kazyet = 52
+    (thaunt β casllo) α (thaunt β owytay) = 50
+
+    (berul β casllo) α berul α kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat β casllo) α ceoat α kazyet = 31
+    (ceoat β casllo) α ceoat α hadyii = 26
+    (ceoat β casllo) α ceoat α awnvia = 36
+    (berul β casllo) α berul α hadyii = 89
+    (beiget β casllo) α beiget α kazyet = 73
+    (beiget β casllo) α (beiget β owytay) = 75
+    (beiget β casllo) α beiget α awnvia = 78
+    (thaunt β casllo) α thaunt = 42
+    (thaunt β casllo) α thaunt α kazyet = 52
+    (thaunt β casllo) α (thaunt β owytay) = 50
+
+    (berul β casllo) α berul α kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat β casllo) α ceoat α kazyet = 31
+    (ceoat β casllo) α ceoat α hadyii = 26
+    (ceoat β casllo) α ceoat α awnvia = 36
+    (berul β casllo) α berul α hadyii = 89
+    (beiget β casllo) α beiget α kazyet = 73
+    (beiget β casllo) α (beiget β owytay) = 75
+    (beiget β casllo) α beiget α awnvia = 78
+    (thaunt β casllo) α thaunt = 42
+    (thaunt β casllo) α thaunt α kazyet = 52
+    (thaunt β casllo) α (thaunt β owytay) = 50
+
+    (berul β casllo) α berul α kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat β casllo) α ceoat α kazyet = 31
+    (ceoat β casllo) α ceoat α hadyii = 26
+    (ceoat β casllo) α ceoat α awnvia = 36
+    (berul β casllo) α berul α hadyii = 89
+    (beiget β casllo) α beiget α kazyet = 73
+    (beiget β casllo) α (beiget β owytay) = 75
+    (beiget β casllo) α beiget α awnvia = 78
+    (thaunt β casllo) α thaunt = 42
+    (thaunt β casllo) α thaunt α kazyet = 52
+    (thaunt β casllo) α (thaunt β owytay) = 50
+
+    (berul β casllo) α berul α kazyet = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceoat β casllo) α ceoat α kazyet = 31
+    (ceoat β casllo) α ceoat α hadyii = 26
+    (ceoat β casllo) α ceoat α awnvia = 36
+    (berul β casllo) α berul α hadyii = 89
+    (beiget β casllo) α beiget α kazyet = 73
+    (beiget β casllo) α (beiget β owytay) = 75
+    (beiget β casllo) α beiget α awnvia = 78
+    (thaunt β casllo) α thaunt = 42
+    (thaunt β casllo) α thaunt α kazyet = 52
+    (thaunt β casllo) α (thaunt β owytay) = 50
+
+    (berul β casllo) α berul α kazyet = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye β unzoe α dosons = 16
+    azzghi β unzoe α digye α odbipo = 81
+    azzghi α digye β unzoe α irkga = 49
+    azzghi α ujoyin α digye α dosons = 64
+    azzghi β unzoe α ujoyin α digye α dosons = 100
+    ujoyin α digye α irkga = 25
+    digye α odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi β odbipo α odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye β unzoe α dosons = 16
+    azzghi β unzoe α digye α odbipo = 81
+    azzghi α digye β unzoe α irkga = 49
+    azzghi α ujoyin α digye α dosons = 64
+    azzghi β unzoe α ujoyin α digye α dosons = 100
+    ujoyin α digye α irkga = 25
+    digye α odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi β odbipo α odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye β unzoe α dosons = 16
+    azzghi β unzoe α digye α odbipo = 81
+    azzghi α digye β unzoe α irkga = 49
+    azzghi α ujoyin α digye α dosons = 64
+    azzghi β unzoe α ujoyin α digye α dosons = 100
+    ujoyin α digye α irkga = 25
+    digye α odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi β odbipo α odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye β unzoe α dosons = 16
+    azzghi β unzoe α digye α odbipo = 81
+    azzghi α digye β unzoe α irkga = 49
+    azzghi α ujoyin α digye α dosons = 64
+    azzghi β unzoe α ujoyin α digye α dosons = 100
+    ujoyin α digye α irkga = 25
+    digye α odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi β odbipo α odbipo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    digye β unzoe α dosons = 16
+    azzghi β unzoe α digye α odbipo = 81
+    azzghi α digye β unzoe α irkga = 49
+    azzghi α ujoyin α digye α dosons = 64
+    azzghi β unzoe α ujoyin α digye α dosons = 100
+    ujoyin α digye α irkga = 25
+    digye α odbipo = 9
+    dosons = 4
+    irkga = 1
+    azzghi = 36
+
+    azzghi β odbipo α odbipo = ?? 
+     "
+o1-mini,107,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic ζ alluzu α ruism = 10 
+    damfed ζ alluzu α eguomb = 15
+    wireen = 20
+    yarxi ζ alluzu α arnast = 21
+    bufova ζ alluzu α eguomb = 27
+    muthas ζ alluzu α ruism = 30
+    yarxi α (tosmic ζ alluzu α eguomb) = 35
+    yarxi α damfed = 40
+    yarxi β ruism = 48
+    yarxi α (bufova ζ alluzu α ruism) = 50
+    yarxi β ruism α (yarxi ζ alluzu α arnast) = 69
+    yarxi β ruism α (muthas ζ alluzu α eguomb) = 79
+    yarxi β eguomb α (bufova ζ alluzu α arnast) = 97
+
+    arnast < eguomb
+
+    yarxi β eguomb α (damfed ζ alluzu α ruism) = ??
+
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic ζ alluzu α ruism = 10 
+    damfed ζ alluzu α eguomb = 15
+    wireen = 20
+    yarxi ζ alluzu α arnast = 21
+    bufova ζ alluzu α eguomb = 27
+    muthas ζ alluzu α ruism = 30
+    yarxi α (tosmic ζ alluzu α eguomb) = 35
+    yarxi α damfed = 40
+    yarxi β ruism = 48
+    yarxi α (bufova ζ alluzu α ruism) = 50
+    yarxi β ruism α (yarxi ζ alluzu α arnast) = 69
+    yarxi β ruism α (muthas ζ alluzu α eguomb) = 79
+    yarxi β eguomb α (bufova ζ alluzu α arnast) = 97
+
+    arnast < eguomb
+
+    yarxi β eguomb α (damfed ζ alluzu α ruism) = ??
+
+     "
+o1-mini,129,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic ζ alluzu α ruism = 10 
+    damfed ζ alluzu α eguomb = 15
+    wireen = 20
+    yarxi ζ alluzu α arnast = 21
+    bufova ζ alluzu α eguomb = 27
+    muthas ζ alluzu α ruism = 30
+    yarxi α (tosmic ζ alluzu α eguomb) = 35
+    yarxi α damfed = 40
+    yarxi β ruism = 48
+    yarxi α (bufova ζ alluzu α ruism) = 50
+    yarxi β ruism α (yarxi ζ alluzu α arnast) = 69
+    yarxi β ruism α (muthas ζ alluzu α eguomb) = 79
+    yarxi β eguomb α (bufova ζ alluzu α arnast) = 97
+
+    arnast < eguomb
+
+    yarxi β eguomb α (damfed ζ alluzu α ruism) = ??
+
+     "
+o1-mini,107,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic ζ alluzu α ruism = 10 
+    damfed ζ alluzu α eguomb = 15
+    wireen = 20
+    yarxi ζ alluzu α arnast = 21
+    bufova ζ alluzu α eguomb = 27
+    muthas ζ alluzu α ruism = 30
+    yarxi α (tosmic ζ alluzu α eguomb) = 35
+    yarxi α damfed = 40
+    yarxi β ruism = 48
+    yarxi α (bufova ζ alluzu α ruism) = 50
+    yarxi β ruism α (yarxi ζ alluzu α arnast) = 69
+    yarxi β ruism α (muthas ζ alluzu α eguomb) = 79
+    yarxi β eguomb α (bufova ζ alluzu α arnast) = 97
+
+    arnast < eguomb
+
+    yarxi β eguomb α (damfed ζ alluzu α ruism) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    tosmic ζ alluzu α ruism = 10 
+    damfed ζ alluzu α eguomb = 15
+    wireen = 20
+    yarxi ζ alluzu α arnast = 21
+    bufova ζ alluzu α eguomb = 27
+    muthas ζ alluzu α ruism = 30
+    yarxi α (tosmic ζ alluzu α eguomb) = 35
+    yarxi α damfed = 40
+    yarxi β ruism = 48
+    yarxi α (bufova ζ alluzu α ruism) = 50
+    yarxi β ruism α (yarxi ζ alluzu α arnast) = 69
+    yarxi β ruism α (muthas ζ alluzu α eguomb) = 79
+    yarxi β eguomb α (bufova ζ alluzu α arnast) = 97
+
+    arnast < eguomb
+
+    yarxi β eguomb α (damfed ζ alluzu α ruism) = ??
+
+     "

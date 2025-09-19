@@ -1,0 +1,136 @@
+Model,Base,Response,Correct Response,Prompt
+o1-mini,4,9,9,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ inaire istrict = 7 
+ inaire portion = 5 
+ estellt istrict = 11 
+ estellt portion = ?? 
+ 
+        "
+o1-mini,5,13,13,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ happy iek = 9 
+ happy imaha = 8 
+ robat iek = 14 
+ robat imaha = ?? 
+ 
+        "
+o1-mini,6,15,15,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ iria elah = 11 
+ iria Val = 9 
+ huizen elah = 17 
+ huizen Val = ?? 
+ 
+        "
+o1-mini,7,18,18,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ adero illage = 13 
+ adero user = 11 
+ View illage = 20 
+ View user = ?? 
+ 
+        "
+o1-mini,8,21,21,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ erat elf = 15 
+ erat ral = 13 
+ fond elf = 23 
+ fond ral = ?? 
+ 
+        "
+o1-mini,9,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ sections login = 17 
+ sections ivent = 15 
+ scala login = 26 
+ scala ivent = ?? 
+ 
+        "
+o1-mini,11,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ iner ourced = 20 
+ iner irik = 13 
+ vene ourced = 31 
+ vene irik = ?? 
+ 
+        "
+o1-mini,12,28,28,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ Property IPP = 21 
+ Property yszer = 16 
+ uph IPP = 33 
+ uph yszer = ?? 
+ 
+        "
+o1-mini,13,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ xm istes = 22 
+ xm Mic = 18 
+ ollen istes = 35 
+ ollen Mic = ?? 
+ 
+        "
+o1-mini,14,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ ogens Still = 23 
+ ogens fg = 17 
+ ject Still = 37 
+ ject fg = ?? 
+ 
+        "
+o1-mini,15,38,38,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ lectric egl = 19 
+ lectric igingen = 23 
+ True egl = 34 
+ True igingen = ?? 
+ 
+        "
+o1-mini,16,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ nection Stage = 19 
+ nection Lane = 25 
+ xf Stage = 35 
+ xf Lane = ?? 
+ 
+        "
+o1-mini,17,39,39,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ ulong Storyboard = 25 
+ ulong plies = 22 
+ Put Storyboard = 42 
+ Put plies = ?? 
+ 
+        "
+o1-mini,18,45,45,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ Fabric udi = 20 
+ Fabric icorn = 27 
+ ducation udi = 38 
+ ducation icorn = ?? 
+ 
+        "
+o1-mini,19,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        
+ oso iyon = 26 
+ oso YC = 22 
+ Earlier iyon = 45 
+ Earlier YC = ?? 
+ 
+        "

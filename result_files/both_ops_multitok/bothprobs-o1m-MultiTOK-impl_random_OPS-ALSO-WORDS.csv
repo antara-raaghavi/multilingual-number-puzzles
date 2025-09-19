@@ -1,0 +1,186 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    (vedpro vedpro vedpro vedpro) + (vedpro go vedpro) = (sonzek go jenutf) x 2
+    jenutf ^ 2 + vedpro ^ 2 = sonzek
+    (sonzek go jenutf) ^ 2 = (vedpro go vedpro) x (sonzek vedpro go vedpro)
+    vedpro x sonzek = rowany
+    
+
+    vedpro go jenutf = ?? "
+o1-mini,1170833,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+    ibbemp htitim ga badhay + badhay htitim ga badhay = haoarm htitim ga riuhon
+    ibbemp + ibbemp htitim ga ibbemp = haoarm htitim ga badhay
+    badhay htitim ga riuhon + badhay = badhay htitim ga ibbemp
+    ibbemp × haoarm = riuhon htitim ga riuhon
+    badhay htitim ga ibbemp + riuhon htitim ga ibbemp = haoarm htitim ga badhay 
+    
+    ibbemp htitim ga riuhon = ?? "
+o1-mini,512,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    upougo yatok huvoz ffiuh upougo iraopo upougo = 1000
+    upougo iraopo huvoz = 27
+    deberr = 1
+    deberr ffiuh upougo iraopo upougo = 64
+    deberr yatok huvoz ffiuh huvoz iraopo deberr = 343
+    deberr iraopo ijnrac = 8
+    yatok = 216
+    ijnrac yatok ijnrac ffiuh deberr iraopo ijnrac = 512
+    huvoz ffiuh ijnrac iraopo axrij = 125
+    huvoz yatok ijnrac ffiuh deberr iraopo huvoz = 729 
+    
+    upougo ffiuh axrij iraopo deberr = ??  "
+o1-mini,40,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+         
+
+    emafan = 2 
+    youdev emafan dil damavu = 36
+    damavu = 4
+    youdev emafan d damavu = 44
+    youdev damavu dil nogeo = 77
+    youdev dil emafan = 18
+    youdev damavu d nogeo = 83
+
+    youdev nogeo dil nogeo = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    urgbiz da oyower ojioka = 36
+    tahol m urgbiz da umpvor = 49
+    umpvor = 9
+    yergon m urgbiz da ocyou = 81
+    slucat m urgbiz da yergon = 64
+    urgbiz da doslla = 25
+    oyower ojioka = 16
+    yergon = 4 
+    ocyou = 1
+
+    doslla m urgbiz da slucat = ??
+     "
+o1-mini,30,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    vatice neavol vatice = 9 
+    vatice neavol nouhov = 13
+    motdeg neavol vatice = 17
+    motdeg neavol yekreb = 20
+    ebanon neavol motdeg = 26
+    ebanon neavol xiite = 30
+    yekreb neavol ebanon = 35
+
+    ebanon neavol nouhov = ?? 
+
+     "
+o1-mini,198,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    cpuuis t nebums amuged nebums amuged = 294 
+
+    cpuuis t cpuuis amuged nebums intput = 492 
+
+    cpuuis t aysba intput aysba intput = 357 
+
+    cpuuis t cpuuis t intput aysba faimi = 816 
+
+    cpuuis t cpuuis faimi aysba cenund = 438 
+
+    cpuuis t nebums cenund aysba faimi = 276 
+
+
+    cpuuis t cpuuis intput nebums faimi = ?? 
+
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    obsolo latant nge obsolo jitluc = 31
+    obsolo latant nge obsolo tendif = 26
+    obsolo latant nge obsolo ekofa = 36
+    awyabr latant nge awyabr tendif = 89
+    oiopi latant nge oiopi jitluc = 73
+    oiopi latant nge oiopi iaskey = 75
+    oiopi latant nge oiopi ekofa = 78
+    nimi latant nge nimi = 42
+    nimi latant nge nimi jitluc = 52
+    nimi latant nge nimi iaskey = 50
+
+    awyabr latant nge awyabr jitluc = ??
+     "
+o1-mini,64,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+
+    nemdup miacos ifta webich = 16
+    ileuks miacos ifta nemdup ifta vehoj = 81
+    ileuks ifta nemdup miacos ifta wonapt = 49
+    ileuks ifta kusdef ifta nemdup ifta webich = 64
+    ileuks miacos ifta kusdef ifta nemdup ifta webich = 100
+    kusdef ifta nemdup ifta wonapt = 25
+    nemdup ifta vehoj = 9
+    webich = 4
+    wonapt = 1
+    ileuks = 36
+
+    ileuks vehoj ifta vehoj = ?? 
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+ 
+        
+        
+        
+    ifotenga yesern = 10 
+    ehmixnga inflte = 15
+    atipis = 20
+    ormmernga ipoger = 21
+    ivunsnga inflte = 27
+    lgereknga yesern = 30
+    ormmer ifotenga inflte = 35
+    ormmer ehmix = 40
+    ormmer yesern = 48
+    ormmer ivunsnga yesern = 50
+    ormmer yesern ormmernga ipoger = 69
+    ormmer yesern lgereknga inflte = 79
+    ormmer inflte ivunsnga ipoger = 97
+
+    ipoger < inflte
+
+    ormmer inflte ehmixnga yesern = ??
+
+     "

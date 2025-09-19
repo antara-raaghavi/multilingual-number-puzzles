@@ -1,0 +1,789 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus β futex α gascap β torcci α koshus β eomse α koshus = 1000
+    koshus β eomse α gascap = 27
+    lecfat = 1
+    lecfat β torcci α koshus β eomse α koshus = 64
+    lecfat β futex α gascap β torcci α gascap β eomse α lecfat = 343
+    lecfat β eomse α ugiuri = 8
+    futex = 216
+    ugiuri β futex α ugiuri β torcci α lecfat β eomse α ugiuri = 512
+    gascap β torcci α ugiuri β eomse α xiaech = 125
+    gascap β futex α ugiuri β torcci α lecfat β eomse α gascap = 729 
+    
+    koshus β torcci α xiaech β eomse α lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus β futex α gascap β torcci α koshus β eomse α koshus = 1000
+    koshus β eomse α gascap = 27
+    lecfat = 1
+    lecfat β torcci α koshus β eomse α koshus = 64
+    lecfat β futex α gascap β torcci α gascap β eomse α lecfat = 343
+    lecfat β eomse α ugiuri = 8
+    futex = 216
+    ugiuri β futex α ugiuri β torcci α lecfat β eomse α ugiuri = 512
+    gascap β torcci α ugiuri β eomse α xiaech = 125
+    gascap β futex α ugiuri β torcci α lecfat β eomse α gascap = 729 
+    
+    koshus β torcci α xiaech β eomse α lecfat = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus β futex α gascap β torcci α koshus β eomse α koshus = 1000
+    koshus β eomse α gascap = 27
+    lecfat = 1
+    lecfat β torcci α koshus β eomse α koshus = 64
+    lecfat β futex α gascap β torcci α gascap β eomse α lecfat = 343
+    lecfat β eomse α ugiuri = 8
+    futex = 216
+    ugiuri β futex α ugiuri β torcci α lecfat β eomse α ugiuri = 512
+    gascap β torcci α ugiuri β eomse α xiaech = 125
+    gascap β futex α ugiuri β torcci α lecfat β eomse α gascap = 729 
+    
+    koshus β torcci α xiaech β eomse α lecfat = ??  "
+o1-mini,1000,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus β futex α gascap β torcci α koshus β eomse α koshus = 1000
+    koshus β eomse α gascap = 27
+    lecfat = 1
+    lecfat β torcci α koshus β eomse α koshus = 64
+    lecfat β futex α gascap β torcci α gascap β eomse α lecfat = 343
+    lecfat β eomse α ugiuri = 8
+    futex = 216
+    ugiuri β futex α ugiuri β torcci α lecfat β eomse α ugiuri = 512
+    gascap β torcci α ugiuri β eomse α xiaech = 125
+    gascap β futex α ugiuri β torcci α lecfat β eomse α gascap = 729 
+    
+    koshus β torcci α xiaech β eomse α lecfat = ??  "
+o1-mini,10,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    koshus β futex α gascap β torcci α koshus β eomse α koshus = 1000
+    koshus β eomse α gascap = 27
+    lecfat = 1
+    lecfat β torcci α koshus β eomse α koshus = 64
+    lecfat β futex α gascap β torcci α gascap β eomse α lecfat = 343
+    lecfat β eomse α ugiuri = 8
+    futex = 216
+    ugiuri β futex α ugiuri β torcci α lecfat β eomse α ugiuri = 512
+    gascap β torcci α ugiuri β eomse α xiaech = 125
+    gascap β futex α ugiuri β torcci α lecfat β eomse α gascap = 729 
+    
+    koshus β torcci α xiaech β eomse α lecfat = ??  "
+o1-mini,221,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume β diswa ζ oeava = 36
+    oeava = 4
+    oeava α preume β diswa = 44
+    preume β oeava ζ bamgu = 77
+    preume ζ diswa = 18
+    bamgu α preume β oeava = 83
+
+    preume β bamgu ζ bamgu = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume β diswa ζ oeava = 36
+    oeava = 4
+    oeava α preume β diswa = 44
+    preume β oeava ζ bamgu = 77
+    preume ζ diswa = 18
+    bamgu α preume β oeava = 83
+
+    preume β bamgu ζ bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume β diswa ζ oeava = 36
+    oeava = 4
+    oeava α preume β diswa = 44
+    preume β oeava ζ bamgu = 77
+    preume ζ diswa = 18
+    bamgu α preume β oeava = 83
+
+    preume β bamgu ζ bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume β diswa ζ oeava = 36
+    oeava = 4
+    oeava α preume β diswa = 44
+    preume β oeava ζ bamgu = 77
+    preume ζ diswa = 18
+    bamgu α preume β oeava = 83
+
+    preume β bamgu ζ bamgu = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    diswa = 2 
+    preume β diswa ζ oeava = 36
+    oeava = 4
+    oeava α preume β diswa = 44
+    preume β oeava ζ bamgu = 77
+    preume ζ diswa = 18
+    bamgu α preume β oeava = 83
+
+    preume β bamgu ζ bamgu = ??
+
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee α apadal α aedibe = 36
+    abcjas β evalee α audkee = 49
+    audkee = 9
+    tleug β evalee α chabak = 81
+    ezqli β evalee α tleug = 64
+    evalee α wiknos = 25
+    apadal α aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos β evalee α ezqli = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee α apadal α aedibe = 36
+    abcjas β evalee α audkee = 49
+    audkee = 9
+    tleug β evalee α chabak = 81
+    ezqli β evalee α tleug = 64
+    evalee α wiknos = 25
+    apadal α aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos β evalee α ezqli = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee α apadal α aedibe = 36
+    abcjas β evalee α audkee = 49
+    audkee = 9
+    tleug β evalee α chabak = 81
+    ezqli β evalee α tleug = 64
+    evalee α wiknos = 25
+    apadal α aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos β evalee α ezqli = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee α apadal α aedibe = 36
+    abcjas β evalee α audkee = 49
+    audkee = 9
+    tleug β evalee α chabak = 81
+    ezqli β evalee α tleug = 64
+    evalee α wiknos = 25
+    apadal α aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos β evalee α ezqli = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    evalee α apadal α aedibe = 36
+    abcjas β evalee α audkee = 49
+    audkee = 9
+    tleug β evalee α chabak = 81
+    ezqli β evalee α tleug = 64
+    evalee α wiknos = 25
+    apadal α aedibe = 16
+    tleug = 4 
+    chabak = 1
+
+    wiknos β evalee α ezqli = ??
+     "
+o1-mini,33,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi β ssaypo α ummdi = 9 
+    ummdi β ssaypo α yalace = 13
+    toncor β ssaypo α ummdi = 17
+    toncor β ssaypo α reqbid = 20
+    rifior β ssaypo α toncor = 26
+    rifior β ssaypo α firuss = 30
+    reqbid β ssaypo α rifior = 35
+
+    rifior β ssaypo α yalace = ?? 
+
+     "
+o1-mini,26,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi β ssaypo α ummdi = 9 
+    ummdi β ssaypo α yalace = 13
+    toncor β ssaypo α ummdi = 17
+    toncor β ssaypo α reqbid = 20
+    rifior β ssaypo α toncor = 26
+    rifior β ssaypo α firuss = 30
+    reqbid β ssaypo α rifior = 35
+
+    rifior β ssaypo α yalace = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi β ssaypo α ummdi = 9 
+    ummdi β ssaypo α yalace = 13
+    toncor β ssaypo α ummdi = 17
+    toncor β ssaypo α reqbid = 20
+    rifior β ssaypo α toncor = 26
+    rifior β ssaypo α firuss = 30
+    reqbid β ssaypo α rifior = 35
+
+    rifior β ssaypo α yalace = ?? 
+
+     "
+o1-mini,38,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi β ssaypo α ummdi = 9 
+    ummdi β ssaypo α yalace = 13
+    toncor β ssaypo α ummdi = 17
+    toncor β ssaypo α reqbid = 20
+    rifior β ssaypo α toncor = 26
+    rifior β ssaypo α firuss = 30
+    reqbid β ssaypo α rifior = 35
+
+    rifior β ssaypo α yalace = ?? 
+
+     "
+o1-mini,30,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    ummdi β ssaypo α ummdi = 9 
+    ummdi β ssaypo α yalace = 13
+    toncor β ssaypo α ummdi = 17
+    toncor β ssaypo α reqbid = 20
+    rifior β ssaypo α toncor = 26
+    rifior β ssaypo α firuss = 30
+    reqbid β ssaypo α rifior = 35
+
+    rifior β ssaypo α yalace = ?? 
+
+     "
+
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad β pagig) α masaad α opbob = 31
+    (masaad β pagig) α masaad α buylen = 26
+    (masaad β pagig) α masaad α gbaifi = 36
+    (innops β pagig) α innops α buylen = 89
+    (asflat β pagig) α asflat α opbob = 73
+    (asflat β pagig) α (asflat β kould) = 75
+    (asflat β pagig) α asflat α gbaifi = 78
+    (ajssci β pagig) α ajssci = 42
+    (ajssci β pagig) α ajssci α opbob = 52
+    (ajssci β pagig) α (ajssci β kould) = 50
+
+    (innops β pagig) α innops α opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad β pagig) α masaad α opbob = 31
+    (masaad β pagig) α masaad α buylen = 26
+    (masaad β pagig) α masaad α gbaifi = 36
+    (innops β pagig) α innops α buylen = 89
+    (asflat β pagig) α asflat α opbob = 73
+    (asflat β pagig) α (asflat β kould) = 75
+    (asflat β pagig) α asflat α gbaifi = 78
+    (ajssci β pagig) α ajssci = 42
+    (ajssci β pagig) α ajssci α opbob = 52
+    (ajssci β pagig) α (ajssci β kould) = 50
+
+    (innops β pagig) α innops α opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad β pagig) α masaad α opbob = 31
+    (masaad β pagig) α masaad α buylen = 26
+    (masaad β pagig) α masaad α gbaifi = 36
+    (innops β pagig) α innops α buylen = 89
+    (asflat β pagig) α asflat α opbob = 73
+    (asflat β pagig) α (asflat β kould) = 75
+    (asflat β pagig) α asflat α gbaifi = 78
+    (ajssci β pagig) α ajssci = 42
+    (ajssci β pagig) α ajssci α opbob = 52
+    (ajssci β pagig) α (ajssci β kould) = 50
+
+    (innops β pagig) α innops α opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad β pagig) α masaad α opbob = 31
+    (masaad β pagig) α masaad α buylen = 26
+    (masaad β pagig) α masaad α gbaifi = 36
+    (innops β pagig) α innops α buylen = 89
+    (asflat β pagig) α asflat α opbob = 73
+    (asflat β pagig) α (asflat β kould) = 75
+    (asflat β pagig) α asflat α gbaifi = 78
+    (ajssci β pagig) α ajssci = 42
+    (ajssci β pagig) α ajssci α opbob = 52
+    (ajssci β pagig) α (ajssci β kould) = 50
+
+    (innops β pagig) α innops α opbob = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (masaad β pagig) α masaad α opbob = 31
+    (masaad β pagig) α masaad α buylen = 26
+    (masaad β pagig) α masaad α gbaifi = 36
+    (innops β pagig) α innops α buylen = 89
+    (asflat β pagig) α asflat α opbob = 73
+    (asflat β pagig) α (asflat β kould) = 75
+    (asflat β pagig) α asflat α gbaifi = 78
+    (ajssci β pagig) α ajssci = 42
+    (ajssci β pagig) α ajssci α opbob = 52
+    (ajssci β pagig) α (ajssci β kould) = 50
+
+    (innops β pagig) α innops α opbob = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom β xedci α impind = 16
+    lowkok β xedci α tabdom α idearo = 81
+    lowkok α tabdom β xedci α docaid = 49
+    lowkok α uueth α tabdom α impind = 64
+    lowkok β xedci α uueth α tabdom α impind = 100
+    uueth α tabdom α docaid = 25
+    tabdom α idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok β idearo α idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom β xedci α impind = 16
+    lowkok β xedci α tabdom α idearo = 81
+    lowkok α tabdom β xedci α docaid = 49
+    lowkok α uueth α tabdom α impind = 64
+    lowkok β xedci α uueth α tabdom α impind = 100
+    uueth α tabdom α docaid = 25
+    tabdom α idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok β idearo α idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom β xedci α impind = 16
+    lowkok β xedci α tabdom α idearo = 81
+    lowkok α tabdom β xedci α docaid = 49
+    lowkok α uueth α tabdom α impind = 64
+    lowkok β xedci α uueth α tabdom α impind = 100
+    uueth α tabdom α docaid = 25
+    tabdom α idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok β idearo α idearo = ?? 
+     "
+o1-mini,81,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom β xedci α impind = 16
+    lowkok β xedci α tabdom α idearo = 81
+    lowkok α tabdom β xedci α docaid = 49
+    lowkok α uueth α tabdom α impind = 64
+    lowkok β xedci α uueth α tabdom α impind = 100
+    uueth α tabdom α docaid = 25
+    tabdom α idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok β idearo α idearo = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    tabdom β xedci α impind = 16
+    lowkok β xedci α tabdom α idearo = 81
+    lowkok α tabdom β xedci α docaid = 49
+    lowkok α uueth α tabdom α impind = 64
+    lowkok β xedci α uueth α tabdom α impind = 100
+    uueth α tabdom α docaid = 25
+    tabdom α idearo = 9
+    impind = 4
+    docaid = 1
+    lowkok = 36
+
+    lowkok β idearo α idearo = ?? 
+     "
+o1-mini,38,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre ζ anttes α iazpir = 10 
+    kedjor ζ anttes α lorec = 15
+    hudsol = 20
+    uhefea ζ anttes α fiisc = 21
+    ogotoe ζ anttes α lorec = 27
+    learaq ζ anttes α iazpir = 30
+    uhefea α (judgre ζ anttes α lorec) = 35
+    uhefea α kedjor = 40
+    uhefea β iazpir = 48
+    uhefea α (ogotoe ζ anttes α iazpir) = 50
+    uhefea β iazpir α (uhefea ζ anttes α fiisc) = 69
+    uhefea β iazpir α (learaq ζ anttes α lorec) = 79
+    uhefea β lorec α (ogotoe ζ anttes α fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea β lorec α (kedjor ζ anttes α iazpir) = ??
+
+     "
+o1-mini,112,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre ζ anttes α iazpir = 10 
+    kedjor ζ anttes α lorec = 15
+    hudsol = 20
+    uhefea ζ anttes α fiisc = 21
+    ogotoe ζ anttes α lorec = 27
+    learaq ζ anttes α iazpir = 30
+    uhefea α (judgre ζ anttes α lorec) = 35
+    uhefea α kedjor = 40
+    uhefea β iazpir = 48
+    uhefea α (ogotoe ζ anttes α iazpir) = 50
+    uhefea β iazpir α (uhefea ζ anttes α fiisc) = 69
+    uhefea β iazpir α (learaq ζ anttes α lorec) = 79
+    uhefea β lorec α (ogotoe ζ anttes α fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea β lorec α (kedjor ζ anttes α iazpir) = ??
+
+     "
+o1-mini,97,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre ζ anttes α iazpir = 10 
+    kedjor ζ anttes α lorec = 15
+    hudsol = 20
+    uhefea ζ anttes α fiisc = 21
+    ogotoe ζ anttes α lorec = 27
+    learaq ζ anttes α iazpir = 30
+    uhefea α (judgre ζ anttes α lorec) = 35
+    uhefea α kedjor = 40
+    uhefea β iazpir = 48
+    uhefea α (ogotoe ζ anttes α iazpir) = 50
+    uhefea β iazpir α (uhefea ζ anttes α fiisc) = 69
+    uhefea β iazpir α (learaq ζ anttes α lorec) = 79
+    uhefea β lorec α (ogotoe ζ anttes α fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea β lorec α (kedjor ζ anttes α iazpir) = ??
+
+     "
+o1-mini,100,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre ζ anttes α iazpir = 10 
+    kedjor ζ anttes α lorec = 15
+    hudsol = 20
+    uhefea ζ anttes α fiisc = 21
+    ogotoe ζ anttes α lorec = 27
+    learaq ζ anttes α iazpir = 30
+    uhefea α (judgre ζ anttes α lorec) = 35
+    uhefea α kedjor = 40
+    uhefea β iazpir = 48
+    uhefea α (ogotoe ζ anttes α iazpir) = 50
+    uhefea β iazpir α (uhefea ζ anttes α fiisc) = 69
+    uhefea β iazpir α (learaq ζ anttes α lorec) = 79
+    uhefea β lorec α (ogotoe ζ anttes α fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea β lorec α (kedjor ζ anttes α iazpir) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    judgre ζ anttes α iazpir = 10 
+    kedjor ζ anttes α lorec = 15
+    hudsol = 20
+    uhefea ζ anttes α fiisc = 21
+    ogotoe ζ anttes α lorec = 27
+    learaq ζ anttes α iazpir = 30
+    uhefea α (judgre ζ anttes α lorec) = 35
+    uhefea α kedjor = 40
+    uhefea β iazpir = 48
+    uhefea α (ogotoe ζ anttes α iazpir) = 50
+    uhefea β iazpir α (uhefea ζ anttes α fiisc) = 69
+    uhefea β iazpir α (learaq ζ anttes α lorec) = 79
+    uhefea β lorec α (ogotoe ζ anttes α fiisc) = 97
+
+    fiisc < lorec
+
+    uhefea β lorec α (kedjor ζ anttes α iazpir) = ??
+
+     "
+
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip β (supcli α tteevt) α supcli α tteevt = 294
+    ostip β (ostip α tteevt) α supcli α unkdel = 492
+    ostip β (ostip β unkdel) α iyaids α ifita = 816
+    ostip β (iyaids α unkdel) α iyaids α unkdel = 357
+    ostip β (ostip α ifita) α iyaids α actob = 438
+    ostip β (supcli α actob) α iyaids α ifita = 276
+
+    ostip β (ostip α unkdel) α supcli α ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip β (supcli α tteevt) α supcli α tteevt = 294
+    ostip β (ostip α tteevt) α supcli α unkdel = 492
+    ostip β (ostip β unkdel) α iyaids α ifita = 816
+    ostip β (iyaids α unkdel) α iyaids α unkdel = 357
+    ostip β (ostip α ifita) α iyaids α actob = 438
+    ostip β (supcli α actob) α iyaids α ifita = 276
+
+    ostip β (ostip α unkdel) α supcli α ifita = ?? 
+     "
+o1-mini,348,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip β (supcli α tteevt) α supcli α tteevt = 294
+    ostip β (ostip α tteevt) α supcli α unkdel = 492
+    ostip β (ostip β unkdel) α iyaids α ifita = 816
+    ostip β (iyaids α unkdel) α iyaids α unkdel = 357
+    ostip β (ostip α ifita) α iyaids α actob = 438
+    ostip β (supcli α actob) α iyaids α ifita = 276
+
+    ostip β (ostip α unkdel) α supcli α ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip β (supcli α tteevt) α supcli α tteevt = 294
+    ostip β (ostip α tteevt) α supcli α unkdel = 492
+    ostip β (ostip β unkdel) α iyaids α ifita = 816
+    ostip β (iyaids α unkdel) α iyaids α unkdel = 357
+    ostip β (ostip α ifita) α iyaids α actob = 438
+    ostip β (supcli α actob) α iyaids α ifita = 276
+
+    ostip β (ostip α unkdel) α supcli α ifita = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    ostip β (supcli α tteevt) α supcli α tteevt = 294
+    ostip β (ostip α tteevt) α supcli α unkdel = 492
+    ostip β (ostip β unkdel) α iyaids α ifita = 816
+    ostip β (iyaids α unkdel) α iyaids α unkdel = 357
+    ostip β (ostip α ifita) α iyaids α actob = 438
+    ostip β (supcli α actob) α iyaids α ifita = 276
+
+    ostip β (ostip α unkdel) α supcli α ifita = ?? 
+     "
+
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse α jniuse α jniuse α jniuse α jniuse α jniuse = (biners α kelsig) x 2
+    kelsig ^ 2 α jniuse ^ 2 = biners
+    (biners α kelsig) ^ 2 = (jniuse α jniuse) x (biners α jniuse α jniuse)
+    jniuse x biners = batird
+
+    jniuse α kelsig = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse α jniuse α jniuse α jniuse α jniuse α jniuse = (biners α kelsig) x 2
+    kelsig ^ 2 α jniuse ^ 2 = biners
+    (biners α kelsig) ^ 2 = (jniuse α jniuse) x (biners α jniuse α jniuse)
+    jniuse x biners = batird
+
+    jniuse α kelsig = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse α jniuse α jniuse α jniuse α jniuse α jniuse = (biners α kelsig) x 2
+    kelsig ^ 2 α jniuse ^ 2 = biners
+    (biners α kelsig) ^ 2 = (jniuse α jniuse) x (biners α jniuse α jniuse)
+    jniuse x biners = batird
+
+    jniuse α kelsig = ?? "
+o1-mini,0,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse α jniuse α jniuse α jniuse α jniuse α jniuse = (biners α kelsig) x 2
+    kelsig ^ 2 α jniuse ^ 2 = biners
+    (biners α kelsig) ^ 2 = (jniuse α jniuse) x (biners α jniuse α jniuse)
+    jniuse x biners = batird
+
+    jniuse α kelsig = ?? "
+o1-mini,3,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    jniuse α jniuse α jniuse α jniuse α jniuse α jniuse = (biners α kelsig) x 2
+    kelsig ^ 2 α jniuse ^ 2 = biners
+    (biners α kelsig) ^ 2 = (jniuse α jniuse) x (biners α jniuse α jniuse)
+    jniuse x biners = batird
+
+    jniuse α kelsig = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri β ipauv α ahoxe) α (ahoxe β ipauv α ahoxe) = ikheep β ipauv α otfaf
+    lenfri α (lenfri β ipauv α lenfri) = ikheep β ipauv α ahoxe
+    (ahoxe β ipauv α otfaf) α ahoxe = ahoxe β ipauv α lenfri
+    lenfri β ikheep = otfaf β ipauv α otfaf
+    (ahoxe β ipauv α lenfri) α (otfaf β ipauv α lenfri) = ikheep β ipauv α ahoxe 
+    
+
+    lenfri β ipauv α otfaf = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri β ipauv α ahoxe) α (ahoxe β ipauv α ahoxe) = ikheep β ipauv α otfaf
+    lenfri α (lenfri β ipauv α lenfri) = ikheep β ipauv α ahoxe
+    (ahoxe β ipauv α otfaf) α ahoxe = ahoxe β ipauv α lenfri
+    lenfri β ikheep = otfaf β ipauv α otfaf
+    (ahoxe β ipauv α lenfri) α (otfaf β ipauv α lenfri) = ikheep β ipauv α ahoxe 
+    
+
+    lenfri β ipauv α otfaf = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri β ipauv α ahoxe) α (ahoxe β ipauv α ahoxe) = ikheep β ipauv α otfaf
+    lenfri α (lenfri β ipauv α lenfri) = ikheep β ipauv α ahoxe
+    (ahoxe β ipauv α otfaf) α ahoxe = ahoxe β ipauv α lenfri
+    lenfri β ikheep = otfaf β ipauv α otfaf
+    (ahoxe β ipauv α lenfri) α (otfaf β ipauv α lenfri) = ikheep β ipauv α ahoxe 
+    
+
+    lenfri β ipauv α otfaf = ?? "
+o1-mini,306,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri β ipauv α ahoxe) α (ahoxe β ipauv α ahoxe) = ikheep β ipauv α otfaf
+    lenfri α (lenfri β ipauv α lenfri) = ikheep β ipauv α ahoxe
+    (ahoxe β ipauv α otfaf) α ahoxe = ahoxe β ipauv α lenfri
+    lenfri β ikheep = otfaf β ipauv α otfaf
+    (ahoxe β ipauv α lenfri) α (otfaf β ipauv α lenfri) = ikheep β ipauv α ahoxe 
+    
+
+    lenfri β ipauv α otfaf = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (lenfri β ipauv α ahoxe) α (ahoxe β ipauv α ahoxe) = ikheep β ipauv α otfaf
+    lenfri α (lenfri β ipauv α lenfri) = ikheep β ipauv α ahoxe
+    (ahoxe β ipauv α otfaf) α ahoxe = ahoxe β ipauv α lenfri
+    lenfri β ikheep = otfaf β ipauv α otfaf
+    (ahoxe β ipauv α lenfri) α (otfaf β ipauv α lenfri) = ikheep β ipauv α ahoxe 
+    
+
+    lenfri β ipauv α otfaf = ?? "

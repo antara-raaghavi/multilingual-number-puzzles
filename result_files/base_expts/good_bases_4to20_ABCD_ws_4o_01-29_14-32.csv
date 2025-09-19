@@ -1,0 +1,631 @@
+Model,Base,Response,Correct Response,Prompt
+gpt-3.5-turbo,4,6,9,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 7
+
+                A C = 5 
+
+                D B = 11 
+
+                D C = ??
+
+                
+        "
+gpt-4,4,9,9,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 7
+
+                A C = 5 
+
+                D B = 11 
+
+                D C = ??
+
+                
+        "
+gpt-4o,4,9,9,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 7
+
+                A C = 5 
+
+                D B = 11 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,5,6,13,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 9
+
+                A C = 8 
+
+                D B = 14 
+
+                D C = ??
+
+                
+        "
+gpt-4,5,13,13,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 9
+
+                A C = 8 
+
+                D B = 14 
+
+                D C = ??
+
+                
+        "
+gpt-4o,5,13,13,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 9
+
+                A C = 8 
+
+                D B = 14 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,6,15,15,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 11
+
+                A C = 9 
+
+                D B = 17 
+
+                D C = ??
+
+                
+        "
+gpt-4,6,15,15,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 11
+
+                A C = 9 
+
+                D B = 17 
+
+                D C = ??
+
+                
+        "
+gpt-4o,6,15,15,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 11
+
+                A C = 9 
+
+                D B = 17 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,7,18,18,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 13
+
+                A C = 11 
+
+                D B = 20 
+
+                D C = ??
+
+                
+        "
+gpt-4,7,18,18,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 13
+
+                A C = 11 
+
+                D B = 20 
+
+                D C = ??
+
+                
+        "
+gpt-4o,7,18,18,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 13
+
+                A C = 11 
+
+                D B = 20 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,8,11,21,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 15
+
+                A C = 13 
+
+                D B = 23 
+
+                D C = ??
+
+                
+        "
+gpt-4,8,21,21,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 15
+
+                A C = 13 
+
+                D B = 23 
+
+                D C = ??
+
+                
+        "
+gpt-4o,8,21,21,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 15
+
+                A C = 13 
+
+                D B = 23 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,9,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 17
+
+                A C = 15 
+
+                D B = 26 
+
+                D C = ??
+
+                
+        "
+gpt-4,9,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 17
+
+                A C = 15 
+
+                D B = 26 
+
+                D C = ??
+
+                
+        "
+gpt-4o,9,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 17
+
+                A C = 15 
+
+                D B = 26 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,11,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 13 
+
+                D B = 31 
+
+                D C = ??
+
+                
+        "
+gpt-4,11,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 13 
+
+                D B = 31 
+
+                D C = ??
+
+                
+        "
+gpt-4o,11,24,24,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 13 
+
+                D B = 31 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,12,12,28,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 21
+
+                A C = 16 
+
+                D B = 33 
+
+                D C = ??
+
+                
+        "
+gpt-4,12,24,28,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 21
+
+                A C = 16 
+
+                D B = 33 
+
+                D C = ??
+
+                
+        "
+gpt-4o,12,28,28,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 21
+
+                A C = 16 
+
+                D B = 33 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,13,53,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 22
+
+                A C = 18 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-4,13,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 22
+
+                A C = 18 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-4o,13,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 22
+
+                A C = 18 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,14,20,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 23
+
+                A C = 17 
+
+                D B = 37 
+
+                D C = ??
+
+                
+        "
+gpt-4,14,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 23
+
+                A C = 17 
+
+                D B = 37 
+
+                D C = ??
+
+                
+        "
+gpt-4o,14,31,31,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 23
+
+                A C = 17 
+
+                D B = 37 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,15,37,38,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 23 
+
+                D B = 34 
+
+                D C = ??
+
+                
+        "
+gpt-4,15,38,38,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 23 
+
+                D B = 34 
+
+                D C = ??
+
+                
+        "
+gpt-4o,15,38,38,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 23 
+
+                D B = 34 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,16,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 25 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-4,16,45,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 25 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-4o,16,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 19
+
+                A C = 25 
+
+                D B = 35 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,17,19,39,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 25
+
+                A C = 22 
+
+                D B = 42 
+
+                D C = ??
+
+                
+        "
+gpt-4,17,39,39,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 25
+
+                A C = 22 
+
+                D B = 42 
+
+                D C = ??
+
+                
+        "
+gpt-4o,17,39,39,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 25
+
+                A C = 22 
+
+                D B = 42 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,18,45,45,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 27 
+
+                D B = 38 
+
+                D C = ??
+
+                
+        "
+gpt-4,18,45,45,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 27 
+
+                D B = 38 
+
+                D C = ??
+
+                
+        "
+gpt-4o,18,45,45,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 20
+
+                A C = 27 
+
+                D B = 38 
+
+                D C = ??
+
+                
+        "
+gpt-3.5-turbo,19,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 26
+
+                A C = 22 
+
+                D B = 45 
+
+                D C = ??
+
+                
+        "
+gpt-4,19,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 26
+
+                A C = 22 
+
+                D B = 45 
+
+                D C = ??
+
+                
+        "
+gpt-4o,19,41,41,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+
+        
+                A B = 26
+
+                A C = 22 
+
+                D B = 45 
+
+                D C = ??
+
+                
+        "

@@ -1,0 +1,791 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l + l + l + l + l + l = (j + b) x 2
+    b ^ 2 + l ^ 2 = j
+    (j + b) ^ 2 = (l + l) x (j + l + l)
+    l x j = s
+
+    l + b = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l + l + l + l + l + l = (j + b) x 2
+    b ^ 2 + l ^ 2 = j
+    (j + b) ^ 2 = (l + l) x (j + l + l)
+    l x j = s
+
+    l + b = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l + l + l + l + l + l = (j + b) x 2
+    b ^ 2 + l ^ 2 = j
+    (j + b) ^ 2 = (l + l) x (j + l + l)
+    l x j = s
+
+    l + b = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l + l + l + l + l + l = (j + b) x 2
+    b ^ 2 + l ^ 2 = j
+    (j + b) ^ 2 = (l + l) x (j + l + l)
+    l x j = s
+
+    l + b = ??
+     "
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l + l + l + l + l + l = (j + b) x 2
+    b ^ 2 + l ^ 2 = j
+    (j + b) ^ 2 = (l + l) x (j + l + l)
+    l x j = s
+
+    l + b = ??
+     "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j * l + x) + (x * l + x) = p * l + h
+    j + (j * l + j) = p * l + x
+    (x * l + h) + x = x * l + j
+    j * p = h * l + h
+    (x * l + j) + (h * l + j) = p * l + x 
+    
+
+    j * l + h = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j * l + x) + (x * l + x) = p * l + h
+    j + (j * l + j) = p * l + x
+    (x * l + h) + x = x * l + j
+    j * p = h * l + h
+    (x * l + j) + (h * l + j) = p * l + x 
+    
+
+    j * l + h = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j * l + x) + (x * l + x) = p * l + h
+    j + (j * l + j) = p * l + x
+    (x * l + h) + x = x * l + j
+    j * p = h * l + h
+    (x * l + j) + (h * l + j) = p * l + x 
+    
+
+    j * l + h = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j * l + x) + (x * l + x) = p * l + h
+    j + (j * l + j) = p * l + x
+    (x * l + h) + x = x * l + j
+    j * p = h * l + h
+    (x * l + j) + (h * l + j) = p * l + x 
+    
+
+    j * l + h = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j * l + x) + (x * l + x) = p * l + h
+    j + (j * l + j) = p * l + x
+    (x * l + h) + x = x * l + j
+    j * p = h * l + h
+    (x * l + j) + (h * l + j) = p * l + x 
+    
+
+    j * l + h = ?? "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l * c + e * v + l * g + l = 1000
+    l * g + e = 27
+    u = 1
+    u * v + l * g + l = 64
+    u * c + e * v + e * g + u = 343
+    u * g + m = 8
+    c = 216
+    m * c + m * v + u * g + m = 512
+    e * v + m * g + f = 125
+    e * c + m * v + u * g + e = 729 
+    
+    l * v + f * g + u = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l * c + e * v + l * g + l = 1000
+    l * g + e = 27
+    u = 1
+    u * v + l * g + l = 64
+    u * c + e * v + e * g + u = 343
+    u * g + m = 8
+    c = 216
+    m * c + m * v + u * g + m = 512
+    e * v + m * g + f = 125
+    e * c + m * v + u * g + e = 729 
+    
+    l * v + f * g + u = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l * c + e * v + l * g + l = 1000
+    l * g + e = 27
+    u = 1
+    u * v + l * g + l = 64
+    u * c + e * v + e * g + u = 343
+    u * g + m = 8
+    c = 216
+    m * c + m * v + u * g + m = 512
+    e * v + m * g + f = 125
+    e * c + m * v + u * g + e = 729 
+    
+    l * v + f * g + u = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l * c + e * v + l * g + l = 1000
+    l * g + e = 27
+    u = 1
+    u * v + l * g + l = 64
+    u * c + e * v + e * g + u = 343
+    u * g + m = 8
+    c = 216
+    m * c + m * v + u * g + m = 512
+    e * v + m * g + f = 125
+    e * c + m * v + u * g + e = 729 
+    
+    l * v + f * g + u = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l * c + e * v + l * g + l = 1000
+    l * g + e = 27
+    u = 1
+    u * v + l * g + l = 64
+    u * c + e * v + e * g + u = 343
+    u * g + m = 8
+    c = 216
+    m * c + m * v + u * g + m = 512
+    e * v + m * g + f = 125
+    e * c + m * v + u * g + e = 729 
+    
+    l * v + f * g + u = ??  "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v * k - m = 36
+    m = 4
+    v * k + m = 44
+    v * m - e = 77
+    v - k = 18
+    v * m + e = 83
+
+    v * e - e = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v * k - m = 36
+    m = 4
+    v * k + m = 44
+    v * m - e = 77
+    v - k = 18
+    v * m + e = 83
+
+    v * e - e = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v * k - m = 36
+    m = 4
+    v * k + m = 44
+    v * m - e = 77
+    v - k = 18
+    v * m + e = 83
+
+    v * e - e = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v * k - m = 36
+    m = 4
+    v * k + m = 44
+    v * m - e = 77
+    v - k = 18
+    v * m + e = 83
+
+    v * e - e = ??
+
+     "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v * k - m = 36
+    m = 4
+    v * k + m = 44
+    v * m - e = 77
+    v - k = 18
+    v * m + e = 83
+
+    v * e - e = ??
+
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u + f + m = 36
+    g * u + y = 49
+    y = 9
+    z * u + e = 81
+    d * u + z = 64
+    u + s = 25
+    f + m = 16
+    z = 4 
+    e = 1
+
+    s * u + d = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u + f + m = 36
+    g * u + y = 49
+    y = 9
+    z * u + e = 81
+    d * u + z = 64
+    u + s = 25
+    f + m = 16
+    z = 4 
+    e = 1
+
+    s * u + d = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u + f + m = 36
+    g * u + y = 49
+    y = 9
+    z * u + e = 81
+    d * u + z = 64
+    u + s = 25
+    f + m = 16
+    z = 4 
+    e = 1
+
+    s * u + d = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u + f + m = 36
+    g * u + y = 49
+    y = 9
+    z * u + e = 81
+    d * u + z = 64
+    u + s = 25
+    f + m = 16
+    z = 4 
+    e = 1
+
+    s * u + d = ??
+     "
+o1-mini,103,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u + f + m = 36
+    g * u + y = 49
+    y = 9
+    z * u + e = 81
+    d * u + z = 64
+    u + s = 25
+    f + m = 16
+    z = 4 
+    e = 1
+
+    s * u + d = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k * o + k = 9 
+    k * o + l = 13
+    w * o + k = 17
+    w * o + d = 20
+    b * o + w = 26
+    b * o + t = 30
+    d * o + b = 35
+
+    b * o + l = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k * o + k = 9 
+    k * o + l = 13
+    w * o + k = 17
+    w * o + d = 20
+    b * o + w = 26
+    b * o + t = 30
+    d * o + b = 35
+
+    b * o + l = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k * o + k = 9 
+    k * o + l = 13
+    w * o + k = 17
+    w * o + d = 20
+    b * o + w = 26
+    b * o + t = 30
+    d * o + b = 35
+
+    b * o + l = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k * o + k = 9 
+    k * o + l = 13
+    w * o + k = 17
+    w * o + d = 20
+    b * o + w = 26
+    b * o + t = 30
+    d * o + b = 35
+
+    b * o + l = ?? 
+
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k * o + k = 9 
+    k * o + l = 13
+    w * o + k = 17
+    w * o + d = 20
+    b * o + w = 26
+    b * o + t = 30
+    d * o + b = 35
+
+    b * o + l = ?? 
+
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w * (q + v) + q + v = 294 
+    w * (w + v) + q + u = 492 
+    w * (w * u) + j + e = 816
+    w * (j + u) + j + u = 357
+    w * (w + e) + j + y = 438
+    w * (q + y) + j + e = 276 
+
+    w * (w + u) + q + e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w * (q + v) + q + v = 294 
+    w * (w + v) + q + u = 492 
+    w * (w * u) + j + e = 816
+    w * (j + u) + j + u = 357
+    w * (w + e) + j + y = 438
+    w * (q + y) + j + e = 276 
+
+    w * (w + u) + q + e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w * (q + v) + q + v = 294 
+    w * (w + v) + q + u = 492 
+    w * (w * u) + j + e = 816
+    w * (j + u) + j + u = 357
+    w * (w + e) + j + y = 438
+    w * (q + y) + j + e = 276 
+
+    w * (w + u) + q + e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w * (q + v) + q + v = 294 
+    w * (w + v) + q + u = 492 
+    w * (w * u) + j + e = 816
+    w * (j + u) + j + u = 357
+    w * (w + e) + j + y = 438
+    w * (q + y) + j + e = 276 
+
+    w * (w + u) + q + e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w * (q + v) + q + v = 294 
+    w * (w + v) + q + u = 492 
+    w * (w * u) + j + e = 816
+    w * (j + u) + j + u = 357
+    w * (w + e) + j + y = 438
+    w * (q + y) + j + e = 276 
+
+    w * (w + u) + q + e = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d * q) + d + a = 31
+    (d * q) + d + b = 26
+    (d * q) + d + j = 36
+    (u * q) + u + b = 89
+    (x * q) + x + a = 73
+    (x * q) + (x * v) = 75
+    (x * q) + x + j = 78
+    (p * q) + p = 42
+    (p * q) + p + a = 52
+    (p * q) + (p * v) = 50
+
+    (u * q) + u + a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d * q) + d + a = 31
+    (d * q) + d + b = 26
+    (d * q) + d + j = 36
+    (u * q) + u + b = 89
+    (x * q) + x + a = 73
+    (x * q) + (x * v) = 75
+    (x * q) + x + j = 78
+    (p * q) + p = 42
+    (p * q) + p + a = 52
+    (p * q) + (p * v) = 50
+
+    (u * q) + u + a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d * q) + d + a = 31
+    (d * q) + d + b = 26
+    (d * q) + d + j = 36
+    (u * q) + u + b = 89
+    (x * q) + x + a = 73
+    (x * q) + (x * v) = 75
+    (x * q) + x + j = 78
+    (p * q) + p = 42
+    (p * q) + p + a = 52
+    (p * q) + (p * v) = 50
+
+    (u * q) + u + a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d * q) + d + a = 31
+    (d * q) + d + b = 26
+    (d * q) + d + j = 36
+    (u * q) + u + b = 89
+    (x * q) + x + a = 73
+    (x * q) + (x * v) = 75
+    (x * q) + x + j = 78
+    (p * q) + p = 42
+    (p * q) + p + a = 52
+    (p * q) + (p * v) = 50
+
+    (u * q) + u + a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d * q) + d + a = 31
+    (d * q) + d + b = 26
+    (d * q) + d + j = 36
+    (u * q) + u + b = 89
+    (x * q) + x + a = 73
+    (x * q) + (x * v) = 75
+    (x * q) + x + j = 78
+    (p * q) + p = 42
+    (p * q) + p + a = 52
+    (p * q) + (p * v) = 50
+
+    (u * q) + u + a = ??
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h * m + l = 16
+    a * m + h + r = 81
+    a + h * m + w = 49
+    a + k + h + l = 64
+    a * m + k + h + l = 100
+    k + h + w = 25
+    h + r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a * r + r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h * m + l = 16
+    a * m + h + r = 81
+    a + h * m + w = 49
+    a + k + h + l = 64
+    a * m + k + h + l = 100
+    k + h + w = 25
+    h + r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a * r + r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h * m + l = 16
+    a * m + h + r = 81
+    a + h * m + w = 49
+    a + k + h + l = 64
+    a * m + k + h + l = 100
+    k + h + w = 25
+    h + r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a * r + r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h * m + l = 16
+    a * m + h + r = 81
+    a + h * m + w = 49
+    a + k + h + l = 64
+    a * m + k + h + l = 100
+    k + h + w = 25
+    h + r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a * r + r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h * m + l = 16
+    a * m + h + r = 81
+    a + h * m + w = 49
+    a + k + h + l = 64
+    a * m + k + h + l = 100
+    k + h + w = 25
+    h + r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a * r + r = ?? 
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w - k + n = 10 
+    a - k + y = 15
+    t = 20
+    l - k + g = 21
+    s - k + y = 27
+    e - k + n = 30
+    l + (w - k + y) = 35
+    l + a = 40
+    l * n = 48
+    l + (s - k + n) = 50
+    l * n + (l - k + g) = 69
+    l * n + (e - k + y) = 79
+    l * y + (s - k + g) = 97
+
+    g < y
+
+    l * y + (a - k + n) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w - k + n = 10 
+    a - k + y = 15
+    t = 20
+    l - k + g = 21
+    s - k + y = 27
+    e - k + n = 30
+    l + (w - k + y) = 35
+    l + a = 40
+    l * n = 48
+    l + (s - k + n) = 50
+    l * n + (l - k + g) = 69
+    l * n + (e - k + y) = 79
+    l * y + (s - k + g) = 97
+
+    g < y
+
+    l * y + (a - k + n) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w - k + n = 10 
+    a - k + y = 15
+    t = 20
+    l - k + g = 21
+    s - k + y = 27
+    e - k + n = 30
+    l + (w - k + y) = 35
+    l + a = 40
+    l * n = 48
+    l + (s - k + n) = 50
+    l * n + (l - k + g) = 69
+    l * n + (e - k + y) = 79
+    l * y + (s - k + g) = 97
+
+    g < y
+
+    l * y + (a - k + n) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w - k + n = 10 
+    a - k + y = 15
+    t = 20
+    l - k + g = 21
+    s - k + y = 27
+    e - k + n = 30
+    l + (w - k + y) = 35
+    l + a = 40
+    l * n = 48
+    l + (s - k + n) = 50
+    l * n + (l - k + g) = 69
+    l * n + (e - k + y) = 79
+    l * y + (s - k + g) = 97
+
+    g < y
+
+    l * y + (a - k + n) = ??
+
+     "
+o1-mini,86,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w - k + n = 10 
+    a - k + y = 15
+    t = 20
+    l - k + g = 21
+    s - k + y = 27
+    e - k + n = 30
+    l + (w - k + y) = 35
+    l + a = 40
+    l * n = 48
+    l + (s - k + n) = 50
+    l * n + (l - k + g) = 69
+    l * n + (e - k + y) = 79
+    l * y + (s - k + g) = 97
+
+    g < y
+
+    l * y + (a - k + n) = ??
+
+     "

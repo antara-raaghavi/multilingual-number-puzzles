@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+deepseek-r1-distill-qwen-7b,Z=,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu α zejzu α zejzu α zejzu α zejzu α zejzu = (rucril α eadxin) x 2
+    eadxin ^ 2 α zejzu ^ 2 = rucril
+    (rucril α eadxin) ^ 2 = (zejzu α zejzu) x (rucril α zejzu α zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu α eadxin = ?? "
+deepseek-r1-distill-qwen-7b,Z=,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu α zejzu α zejzu α zejzu α zejzu α zejzu = (rucril α eadxin) x 2
+    eadxin ^ 2 α zejzu ^ 2 = rucril
+    (rucril α eadxin) ^ 2 = (zejzu α zejzu) x (rucril α zejzu α zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu α eadxin = ?? "
+deepseek-r1-distill-qwen-7b,Z=,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu α zejzu α zejzu α zejzu α zejzu α zejzu = (rucril α eadxin) x 2
+    eadxin ^ 2 α zejzu ^ 2 = rucril
+    (rucril α eadxin) ^ 2 = (zejzu α zejzu) x (rucril α zejzu α zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu α eadxin = ?? "
+deepseek-r1-distill-qwen-7b,Z=,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu α zejzu α zejzu α zejzu α zejzu α zejzu = (rucril α eadxin) x 2
+    eadxin ^ 2 α zejzu ^ 2 = rucril
+    (rucril α eadxin) ^ 2 = (zejzu α zejzu) x (rucril α zejzu α zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu α eadxin = ?? "
+deepseek-r1-distill-qwen-7b,Z=,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    zejzu α zejzu α zejzu α zejzu α zejzu α zejzu = (rucril α eadxin) x 2
+    eadxin ^ 2 α zejzu ^ 2 = rucril
+    (rucril α eadxin) ^ 2 = (zejzu α zejzu) x (rucril α zejzu α zejzu)
+    zejzu x rucril = adoDOC
+
+    zejzu α eadxin = ?? "
+deepseek-r1-distill-qwen-7b,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke β Ambexp α SacIZE) α (SacIZE β Ambexp α SacIZE) = GapGIS β Ambexp α JOutc
+    irtkke α (irtkke β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE
+    (SacIZE β Ambexp α JOutc) α SacIZE = SacIZE β Ambexp α irtkke
+    irtkke β GapGIS = JOutc β Ambexp α JOutc
+    (SacIZE β Ambexp α irtkke) α (JOutc β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE 
+    
+
+    irtkke β Ambexp α JOutc = ?? "
+deepseek-r1-distill-qwen-7b,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke β Ambexp α SacIZE) α (SacIZE β Ambexp α SacIZE) = GapGIS β Ambexp α JOutc
+    irtkke α (irtkke β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE
+    (SacIZE β Ambexp α JOutc) α SacIZE = SacIZE β Ambexp α irtkke
+    irtkke β GapGIS = JOutc β Ambexp α JOutc
+    (SacIZE β Ambexp α irtkke) α (JOutc β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE 
+    
+
+    irtkke β Ambexp α JOutc = ?? "
+deepseek-r1-distill-qwen-7b,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke β Ambexp α SacIZE) α (SacIZE β Ambexp α SacIZE) = GapGIS β Ambexp α JOutc
+    irtkke α (irtkke β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE
+    (SacIZE β Ambexp α JOutc) α SacIZE = SacIZE β Ambexp α irtkke
+    irtkke β GapGIS = JOutc β Ambexp α JOutc
+    (SacIZE β Ambexp α irtkke) α (JOutc β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE 
+    
+
+    irtkke β Ambexp α JOutc = ?? "
+deepseek-r1-distill-qwen-7b,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke β Ambexp α SacIZE) α (SacIZE β Ambexp α SacIZE) = GapGIS β Ambexp α JOutc
+    irtkke α (irtkke β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE
+    (SacIZE β Ambexp α JOutc) α SacIZE = SacIZE β Ambexp α irtkke
+    irtkke β GapGIS = JOutc β Ambexp α JOutc
+    (SacIZE β Ambexp α irtkke) α (JOutc β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE 
+    
+
+    irtkke β Ambexp α JOutc = ?? "
+deepseek-r1-distill-qwen-7b,2,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (irtkke β Ambexp α SacIZE) α (SacIZE β Ambexp α SacIZE) = GapGIS β Ambexp α JOutc
+    irtkke α (irtkke β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE
+    (SacIZE β Ambexp α JOutc) α SacIZE = SacIZE β Ambexp α irtkke
+    irtkke β GapGIS = JOutc β Ambexp α JOutc
+    (SacIZE β Ambexp α irtkke) α (JOutc β Ambexp α irtkke) = GapGIS β Ambexp α SacIZE 
+    
+
+    irtkke β Ambexp α JOutc = ?? "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo β asmway α tifibs β MEMERN α zarVo β EffElf α zarVo = 1000
+    zarVo β EffElf α tifibs = 27
+    ulkREQ = 1
+    ulkREQ β MEMERN α zarVo β EffElf α zarVo = 64
+    ulkREQ β asmway α tifibs β MEMERN α tifibs β EffElf α ulkREQ = 343
+    ulkREQ β EffElf α jescal = 8
+    asmway = 216
+    jescal β asmway α jescal β MEMERN α ulkREQ β EffElf α jescal = 512
+    tifibs β MEMERN α jescal β EffElf α ertLEV = 125
+    tifibs β asmway α jescal β MEMERN α ulkREQ β EffElf α tifibs = 729 
+    
+    zarVo β MEMERN α ertLEV β EffElf α ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo β asmway α tifibs β MEMERN α zarVo β EffElf α zarVo = 1000
+    zarVo β EffElf α tifibs = 27
+    ulkREQ = 1
+    ulkREQ β MEMERN α zarVo β EffElf α zarVo = 64
+    ulkREQ β asmway α tifibs β MEMERN α tifibs β EffElf α ulkREQ = 343
+    ulkREQ β EffElf α jescal = 8
+    asmway = 216
+    jescal β asmway α jescal β MEMERN α ulkREQ β EffElf α jescal = 512
+    tifibs β MEMERN α jescal β EffElf α ertLEV = 125
+    tifibs β asmway α jescal β MEMERN α ulkREQ β EffElf α tifibs = 729 
+    
+    zarVo β MEMERN α ertLEV β EffElf α ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo β asmway α tifibs β MEMERN α zarVo β EffElf α zarVo = 1000
+    zarVo β EffElf α tifibs = 27
+    ulkREQ = 1
+    ulkREQ β MEMERN α zarVo β EffElf α zarVo = 64
+    ulkREQ β asmway α tifibs β MEMERN α tifibs β EffElf α ulkREQ = 343
+    ulkREQ β EffElf α jescal = 8
+    asmway = 216
+    jescal β asmway α jescal β MEMERN α ulkREQ β EffElf α jescal = 512
+    tifibs β MEMERN α jescal β EffElf α ertLEV = 125
+    tifibs β asmway α jescal β MEMERN α ulkREQ β EffElf α tifibs = 729 
+    
+    zarVo β MEMERN α ertLEV β EffElf α ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo β asmway α tifibs β MEMERN α zarVo β EffElf α zarVo = 1000
+    zarVo β EffElf α tifibs = 27
+    ulkREQ = 1
+    ulkREQ β MEMERN α zarVo β EffElf α zarVo = 64
+    ulkREQ β asmway α tifibs β MEMERN α tifibs β EffElf α ulkREQ = 343
+    ulkREQ β EffElf α jescal = 8
+    asmway = 216
+    jescal β asmway α jescal β MEMERN α ulkREQ β EffElf α jescal = 512
+    tifibs β MEMERN α jescal β EffElf α ertLEV = 125
+    tifibs β asmway α jescal β MEMERN α ulkREQ β EffElf α tifibs = 729 
+    
+    zarVo β MEMERN α ertLEV β EffElf α ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,*,175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    zarVo β asmway α tifibs β MEMERN α zarVo β EffElf α zarVo = 1000
+    zarVo β EffElf α tifibs = 27
+    ulkREQ = 1
+    ulkREQ β MEMERN α zarVo β EffElf α zarVo = 64
+    ulkREQ β asmway α tifibs β MEMERN α tifibs β EffElf α ulkREQ = 343
+    ulkREQ β EffElf α jescal = 8
+    asmway = 216
+    jescal β asmway α jescal β MEMERN α ulkREQ β EffElf α jescal = 512
+    tifibs β MEMERN α jescal β EffElf α ertLEV = 125
+    tifibs β asmway α jescal β MEMERN α ulkREQ β EffElf α tifibs = 729 
+    
+    zarVo β MEMERN α ertLEV β EffElf α ulkREQ = ??  "
+deepseek-r1-distill-qwen-7b,other,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes β ucsira ζ ADCIn = 36
+    ADCIn = 4
+    ADCIn α VarDes β ucsira = 44
+    VarDes β ADCIn ζ HamJan = 77
+    VarDes ζ ucsira = 18
+    HamJan α VarDes β ADCIn = 83
+
+    VarDes β HamJan ζ HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,other,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes β ucsira ζ ADCIn = 36
+    ADCIn = 4
+    ADCIn α VarDes β ucsira = 44
+    VarDes β ADCIn ζ HamJan = 77
+    VarDes ζ ucsira = 18
+    HamJan α VarDes β ADCIn = 83
+
+    VarDes β HamJan ζ HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,other,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes β ucsira ζ ADCIn = 36
+    ADCIn = 4
+    ADCIn α VarDes β ucsira = 44
+    VarDes β ADCIn ζ HamJan = 77
+    VarDes ζ ucsira = 18
+    HamJan α VarDes β ADCIn = 83
+
+    VarDes β HamJan ζ HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,other,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes β ucsira ζ ADCIn = 36
+    ADCIn = 4
+    ADCIn α VarDes β ucsira = 44
+    VarDes β ADCIn ζ HamJan = 77
+    VarDes ζ ucsira = 18
+    HamJan α VarDes β ADCIn = 83
+
+    VarDes β HamJan ζ HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,other,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    ucsira = 2 
+    VarDes β ucsira ζ ADCIn = 36
+    ADCIn = 4
+    ADCIn α VarDes β ucsira = 44
+    VarDes β ADCIn ζ HamJan = 77
+    VarDes ζ ucsira = 18
+    HamJan α VarDes β ADCIn = 83
+
+    VarDes β HamJan ζ HamJan = ??
+
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon α Eleipt α DotANO = 36
+    EdVo β etomon α PEGPsi = 49
+    PEGPsi = 9
+    CowOS β etomon α neoga = 81
+    HEoge β etomon α CowOS = 64
+    etomon α geraat = 25
+    Eleipt α DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat β etomon α HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon α Eleipt α DotANO = 36
+    EdVo β etomon α PEGPsi = 49
+    PEGPsi = 9
+    CowOS β etomon α neoga = 81
+    HEoge β etomon α CowOS = 64
+    etomon α geraat = 25
+    Eleipt α DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat β etomon α HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon α Eleipt α DotANO = 36
+    EdVo β etomon α PEGPsi = 49
+    PEGPsi = 9
+    CowOS β etomon α neoga = 81
+    HEoge β etomon α CowOS = 64
+    etomon α geraat = 25
+    Eleipt α DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat β etomon α HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon α Eleipt α DotANO = 36
+    EdVo β etomon α PEGPsi = 49
+    PEGPsi = 9
+    CowOS β etomon α neoga = 81
+    HEoge β etomon α CowOS = 64
+    etomon α geraat = 25
+    Eleipt α DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat β etomon α HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,103,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    etomon α Eleipt α DotANO = 36
+    EdVo β etomon α PEGPsi = 49
+    PEGPsi = 9
+    CowOS β etomon α neoga = 81
+    HEoge β etomon α CowOS = 64
+    etomon α geraat = 25
+    Eleipt α DotANO = 16
+    CowOS = 4 
+    neoga = 1
+
+    geraat β etomon α HEoge = ??
+     "
+deepseek-r1-distill-qwen-7b,a,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux β royubi α urimux = 9 
+    urimux β royubi α uraFu = 13
+    vonken β royubi α urimux = 17
+    vonken β royubi α gneter = 20
+    Ulyah β royubi α vonken = 26
+    Ulyah β royubi α OTHIT = 30
+    gneter β royubi α Ulyah = 35
+
+    Ulyah β royubi α uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,a,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux β royubi α urimux = 9 
+    urimux β royubi α uraFu = 13
+    vonken β royubi α urimux = 17
+    vonken β royubi α gneter = 20
+    Ulyah β royubi α vonken = 26
+    Ulyah β royubi α OTHIT = 30
+    gneter β royubi α Ulyah = 35
+
+    Ulyah β royubi α uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,a,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux β royubi α urimux = 9 
+    urimux β royubi α uraFu = 13
+    vonken β royubi α urimux = 17
+    vonken β royubi α gneter = 20
+    Ulyah β royubi α vonken = 26
+    Ulyah β royubi α OTHIT = 30
+    gneter β royubi α Ulyah = 35
+
+    Ulyah β royubi α uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,a,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux β royubi α urimux = 9 
+    urimux β royubi α uraFu = 13
+    vonken β royubi α urimux = 17
+    vonken β royubi α gneter = 20
+    Ulyah β royubi α vonken = 26
+    Ulyah β royubi α OTHIT = 30
+    gneter β royubi α Ulyah = 35
+
+    Ulyah β royubi α uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,a,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    urimux β royubi α urimux = 9 
+    urimux β royubi α uraFu = 13
+    vonken β royubi α urimux = 17
+    vonken β royubi α gneter = 20
+    Ulyah β royubi α vonken = 26
+    Ulyah β royubi α OTHIT = 30
+    gneter β royubi α Ulyah = 35
+
+    Ulyah β royubi α uraFu = ?? 
+
+     "
+deepseek-r1-distill-qwen-7b,8,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu β (cefICC α YepJI) α cefICC α YepJI = 294
+    Boyihu β (Boyihu α YepJI) α cefICC α islusr = 492
+    Boyihu β (Boyihu β islusr) α quiAFE α etuHow = 816
+    Boyihu β (quiAFE α islusr) α quiAFE α islusr = 357
+    Boyihu β (Boyihu α etuHow) α quiAFE α ahoudo = 438
+    Boyihu β (cefICC α ahoudo) α quiAFE α etuHow = 276
+
+    Boyihu β (Boyihu α islusr) α cefICC α etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,8,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu β (cefICC α YepJI) α cefICC α YepJI = 294
+    Boyihu β (Boyihu α YepJI) α cefICC α islusr = 492
+    Boyihu β (Boyihu β islusr) α quiAFE α etuHow = 816
+    Boyihu β (quiAFE α islusr) α quiAFE α islusr = 357
+    Boyihu β (Boyihu α etuHow) α quiAFE α ahoudo = 438
+    Boyihu β (cefICC α ahoudo) α quiAFE α etuHow = 276
+
+    Boyihu β (Boyihu α islusr) α cefICC α etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,8,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu β (cefICC α YepJI) α cefICC α YepJI = 294
+    Boyihu β (Boyihu α YepJI) α cefICC α islusr = 492
+    Boyihu β (Boyihu β islusr) α quiAFE α etuHow = 816
+    Boyihu β (quiAFE α islusr) α quiAFE α islusr = 357
+    Boyihu β (Boyihu α etuHow) α quiAFE α ahoudo = 438
+    Boyihu β (cefICC α ahoudo) α quiAFE α etuHow = 276
+
+    Boyihu β (Boyihu α islusr) α cefICC α etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,8,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu β (cefICC α YepJI) α cefICC α YepJI = 294
+    Boyihu β (Boyihu α YepJI) α cefICC α islusr = 492
+    Boyihu β (Boyihu β islusr) α quiAFE α etuHow = 816
+    Boyihu β (quiAFE α islusr) α quiAFE α islusr = 357
+    Boyihu β (Boyihu α etuHow) α quiAFE α ahoudo = 438
+    Boyihu β (cefICC α ahoudo) α quiAFE α etuHow = 276
+
+    Boyihu β (Boyihu α islusr) α cefICC α etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,8,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    Boyihu β (cefICC α YepJI) α cefICC α YepJI = 294
+    Boyihu β (Boyihu α YepJI) α cefICC α islusr = 492
+    Boyihu β (Boyihu β islusr) α quiAFE α etuHow = 816
+    Boyihu β (quiAFE α islusr) α quiAFE α islusr = 357
+    Boyihu β (Boyihu α etuHow) α quiAFE α ahoudo = 438
+    Boyihu β (cefICC α ahoudo) α quiAFE α etuHow = 276
+
+    Boyihu β (Boyihu α islusr) α cefICC α etuHow = ?? 
+     "
+deepseek-r1-distill-qwen-7b,→,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud β ippief) α ceerud α favCOR = 31
+    (ceerud β ippief) α ceerud α Abadb = 26
+    (ceerud β ippief) α ceerud α uilIP = 36
+    (IBMein β ippief) α IBMein α Abadb = 89
+    (ukujah β ippief) α ukujah α favCOR = 73
+    (ukujah β ippief) α (ukujah β Ionfan) = 75
+    (ukujah β ippief) α ukujah α uilIP = 78
+    (eahAD β ippief) α eahAD = 42
+    (eahAD β ippief) α eahAD α favCOR = 52
+    (eahAD β ippief) α (eahAD β Ionfan) = 50
+
+    (IBMein β ippief) α IBMein α favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,→,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud β ippief) α ceerud α favCOR = 31
+    (ceerud β ippief) α ceerud α Abadb = 26
+    (ceerud β ippief) α ceerud α uilIP = 36
+    (IBMein β ippief) α IBMein α Abadb = 89
+    (ukujah β ippief) α ukujah α favCOR = 73
+    (ukujah β ippief) α (ukujah β Ionfan) = 75
+    (ukujah β ippief) α ukujah α uilIP = 78
+    (eahAD β ippief) α eahAD = 42
+    (eahAD β ippief) α eahAD α favCOR = 52
+    (eahAD β ippief) α (eahAD β Ionfan) = 50
+
+    (IBMein β ippief) α IBMein α favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,→,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud β ippief) α ceerud α favCOR = 31
+    (ceerud β ippief) α ceerud α Abadb = 26
+    (ceerud β ippief) α ceerud α uilIP = 36
+    (IBMein β ippief) α IBMein α Abadb = 89
+    (ukujah β ippief) α ukujah α favCOR = 73
+    (ukujah β ippief) α (ukujah β Ionfan) = 75
+    (ukujah β ippief) α ukujah α uilIP = 78
+    (eahAD β ippief) α eahAD = 42
+    (eahAD β ippief) α eahAD α favCOR = 52
+    (eahAD β ippief) α (eahAD β Ionfan) = 50
+
+    (IBMein β ippief) α IBMein α favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,→,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud β ippief) α ceerud α favCOR = 31
+    (ceerud β ippief) α ceerud α Abadb = 26
+    (ceerud β ippief) α ceerud α uilIP = 36
+    (IBMein β ippief) α IBMein α Abadb = 89
+    (ukujah β ippief) α ukujah α favCOR = 73
+    (ukujah β ippief) α (ukujah β Ionfan) = 75
+    (ukujah β ippief) α ukujah α uilIP = 78
+    (eahAD β ippief) α eahAD = 42
+    (eahAD β ippief) α eahAD α favCOR = 52
+    (eahAD β ippief) α (eahAD β Ionfan) = 50
+
+    (IBMein β ippief) α IBMein α favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,→,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (ceerud β ippief) α ceerud α favCOR = 31
+    (ceerud β ippief) α ceerud α Abadb = 26
+    (ceerud β ippief) α ceerud α uilIP = 36
+    (IBMein β ippief) α IBMein α Abadb = 89
+    (ukujah β ippief) α ukujah α favCOR = 73
+    (ukujah β ippief) α (ukujah β Ionfan) = 75
+    (ukujah β ippief) α ukujah α uilIP = 78
+    (eahAD β ippief) α eahAD = 42
+    (eahAD β ippief) α eahAD α favCOR = 52
+    (eahAD β ippief) α (eahAD β Ionfan) = 50
+
+    (IBMein β ippief) α IBMein α favCOR = ??
+     "
+deepseek-r1-distill-qwen-7b,9,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec β ABCpha α Iness = 16
+    ogGO β ABCpha α romtec α garIH = 81
+    ogGO α romtec β ABCpha α ilyeb = 49
+    ogGO α AscUMP α romtec α Iness = 64
+    ogGO β ABCpha α AscUMP α romtec α Iness = 100
+    AscUMP α romtec α ilyeb = 25
+    romtec α garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO β garIH α garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,9,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec β ABCpha α Iness = 16
+    ogGO β ABCpha α romtec α garIH = 81
+    ogGO α romtec β ABCpha α ilyeb = 49
+    ogGO α AscUMP α romtec α Iness = 64
+    ogGO β ABCpha α AscUMP α romtec α Iness = 100
+    AscUMP α romtec α ilyeb = 25
+    romtec α garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO β garIH α garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,9,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec β ABCpha α Iness = 16
+    ogGO β ABCpha α romtec α garIH = 81
+    ogGO α romtec β ABCpha α ilyeb = 49
+    ogGO α AscUMP α romtec α Iness = 64
+    ogGO β ABCpha α AscUMP α romtec α Iness = 100
+    AscUMP α romtec α ilyeb = 25
+    romtec α garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO β garIH α garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,9,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec β ABCpha α Iness = 16
+    ogGO β ABCpha α romtec α garIH = 81
+    ogGO α romtec β ABCpha α ilyeb = 49
+    ogGO α AscUMP α romtec α Iness = 64
+    ogGO β ABCpha α AscUMP α romtec α Iness = 100
+    AscUMP α romtec α ilyeb = 25
+    romtec α garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO β garIH α garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,9,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    romtec β ABCpha α Iness = 16
+    ogGO β ABCpha α romtec α garIH = 81
+    ogGO α romtec β ABCpha α ilyeb = 49
+    ogGO α AscUMP α romtec α Iness = 64
+    ogGO β ABCpha α AscUMP α romtec α Iness = 100
+    AscUMP α romtec α ilyeb = 25
+    romtec α garIH = 9
+    Iness = 4
+    ilyeb = 1
+    ogGO = 36
+
+    ogGO β garIH α garIH = ?? 
+     "
+deepseek-r1-distill-qwen-7b,9,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken ζ leVis α ukaiza = 10 
+    UneADS ζ leVis α ronIss = 15
+    ajiXA = 20
+    EEEAnn ζ leVis α REPEH = 21
+    Misodd ζ leVis α ronIss = 27
+    ABSATO ζ leVis α ukaiza = 30
+    EEEAnn α (EGken ζ leVis α ronIss) = 35
+    EEEAnn α UneADS = 40
+    EEEAnn β ukaiza = 48
+    EEEAnn α (Misodd ζ leVis α ukaiza) = 50
+    EEEAnn β ukaiza α (EEEAnn ζ leVis α REPEH) = 69
+    EEEAnn β ukaiza α (ABSATO ζ leVis α ronIss) = 79
+    EEEAnn β ronIss α (Misodd ζ leVis α REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn β ronIss α (UneADS ζ leVis α ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,9,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken ζ leVis α ukaiza = 10 
+    UneADS ζ leVis α ronIss = 15
+    ajiXA = 20
+    EEEAnn ζ leVis α REPEH = 21
+    Misodd ζ leVis α ronIss = 27
+    ABSATO ζ leVis α ukaiza = 30
+    EEEAnn α (EGken ζ leVis α ronIss) = 35
+    EEEAnn α UneADS = 40
+    EEEAnn β ukaiza = 48
+    EEEAnn α (Misodd ζ leVis α ukaiza) = 50
+    EEEAnn β ukaiza α (EEEAnn ζ leVis α REPEH) = 69
+    EEEAnn β ukaiza α (ABSATO ζ leVis α ronIss) = 79
+    EEEAnn β ronIss α (Misodd ζ leVis α REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn β ronIss α (UneADS ζ leVis α ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,9,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken ζ leVis α ukaiza = 10 
+    UneADS ζ leVis α ronIss = 15
+    ajiXA = 20
+    EEEAnn ζ leVis α REPEH = 21
+    Misodd ζ leVis α ronIss = 27
+    ABSATO ζ leVis α ukaiza = 30
+    EEEAnn α (EGken ζ leVis α ronIss) = 35
+    EEEAnn α UneADS = 40
+    EEEAnn β ukaiza = 48
+    EEEAnn α (Misodd ζ leVis α ukaiza) = 50
+    EEEAnn β ukaiza α (EEEAnn ζ leVis α REPEH) = 69
+    EEEAnn β ukaiza α (ABSATO ζ leVis α ronIss) = 79
+    EEEAnn β ronIss α (Misodd ζ leVis α REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn β ronIss α (UneADS ζ leVis α ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,9,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken ζ leVis α ukaiza = 10 
+    UneADS ζ leVis α ronIss = 15
+    ajiXA = 20
+    EEEAnn ζ leVis α REPEH = 21
+    Misodd ζ leVis α ronIss = 27
+    ABSATO ζ leVis α ukaiza = 30
+    EEEAnn α (EGken ζ leVis α ronIss) = 35
+    EEEAnn α UneADS = 40
+    EEEAnn β ukaiza = 48
+    EEEAnn α (Misodd ζ leVis α ukaiza) = 50
+    EEEAnn β ukaiza α (EEEAnn ζ leVis α REPEH) = 69
+    EEEAnn β ukaiza α (ABSATO ζ leVis α ronIss) = 79
+    EEEAnn β ronIss α (Misodd ζ leVis α REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn β ronIss α (UneADS ζ leVis α ukaiza) = ??
+
+     "
+deepseek-r1-distill-qwen-7b,9,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    EGken ζ leVis α ukaiza = 10 
+    UneADS ζ leVis α ronIss = 15
+    ajiXA = 20
+    EEEAnn ζ leVis α REPEH = 21
+    Misodd ζ leVis α ronIss = 27
+    ABSATO ζ leVis α ukaiza = 30
+    EEEAnn α (EGken ζ leVis α ronIss) = 35
+    EEEAnn α UneADS = 40
+    EEEAnn β ukaiza = 48
+    EEEAnn α (Misodd ζ leVis α ukaiza) = 50
+    EEEAnn β ukaiza α (EEEAnn ζ leVis α REPEH) = 69
+    EEEAnn β ukaiza α (ABSATO ζ leVis α ronIss) = 79
+    EEEAnn β ronIss α (Misodd ζ leVis α REPEH) = 97
+
+    REPEH < ronIss
+
+    EEEAnn β ronIss α (UneADS ζ leVis α ukaiza) = ??
+
+     "

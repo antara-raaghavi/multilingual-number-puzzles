@@ -1,0 +1,786 @@
+Model,Response,Correct Response,Language,Prompt
+o1-mini,3,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l α l α l α l α l α l = (j α b) x 2
+    b ^ 2 α l ^ 2 = j
+    (j α b) ^ 2 = (l α l) x (j α l α l)
+    l x j = s
+
+    l α b = ?? "
+o1-mini, ,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l α l α l α l α l α l = (j α b) x 2
+    b ^ 2 α l ^ 2 = j
+    (j α b) ^ 2 = (l α l) x (j α l α l)
+    l x j = s
+
+    l α b = ?? "
+o1-mini,32,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l α l α l α l α l α l = (j α b) x 2
+    b ^ 2 α l ^ 2 = j
+    (j α b) ^ 2 = (l α l) x (j α l α l)
+    l x j = s
+
+    l α b = ?? "
+o1-mini,1,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l α l α l α l α l α l = (j α b) x 2
+    b ^ 2 α l ^ 2 = j
+    (j α b) ^ 2 = (l α l) x (j α l α l)
+    l x j = s
+
+    l α b = ?? "
+o1-mini,8,3,waorani,"Here is a puzzle based on numbers in the Waorani language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    l α l α l α l α l α l = (j α b) x 2
+    b ^ 2 α l ^ 2 = j
+    (j α b) ^ 2 = (l α l) x (j α l α l)
+    l x j = s
+
+    l α b = ?? "
+o1-mini,1,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j β l α x) α (x β l α x) = p β l α h
+    j α (j β l α j) = p β l α x
+    (x β l α h) α x = x β l α j
+    j β p = h β l α h
+    (x β l α j) α (h β l α j) = p β l α x 
+    
+
+    j β l α h = ?? "
+o1-mini,13,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j β l α x) α (x β l α x) = p β l α h
+    j α (j β l α j) = p β l α x
+    (x β l α h) α x = x β l α j
+    j β p = h β l α h
+    (x β l α j) α (h β l α j) = p β l α x 
+    
+
+    j β l α h = ?? "
+o1-mini,12,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j β l α x) α (x β l α x) = p β l α h
+    j α (j β l α j) = p β l α x
+    (x β l α h) α x = x β l α j
+    j β p = h β l α h
+    (x β l α j) α (h β l α j) = p β l α x 
+    
+
+    j β l α h = ?? "
+o1-mini,40,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j β l α x) α (x β l α x) = p β l α h
+    j α (j β l α j) = p β l α x
+    (x β l α h) α x = x β l α j
+    j β p = h β l α h
+    (x β l α j) α (h β l α j) = p β l α x 
+    
+
+    j β l α h = ?? "
+o1-mini,17,17,gumatj,"Here is a puzzle based on numbers in the Gumatj language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (j β l α x) α (x β l α x) = p β l α h
+    j α (j β l α j) = p β l α x
+    (x β l α h) α x = x β l α j
+    j β p = h β l α h
+    (x β l α j) α (h β l α j) = p β l α x 
+    
+
+    j β l α h = ?? "
+o1-mini,512,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l β c α e β v α l β g α l = 1000
+    l β g α e = 27
+    u = 1
+    u β v α l β g α l = 64
+    u β c α e β v α e β g α u = 343
+    u β g α m = 8
+    c = 216
+    m β c α m β v α u β g α m = 512
+    e β v α m β g α f = 125
+    e β c α m β v α u β g α e = 729 
+    
+    l β v α f β g α u = ??  "
+o1-mini,8,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l β c α e β v α l β g α l = 1000
+    l β g α e = 27
+    u = 1
+    u β v α l β g α l = 64
+    u β c α e β v α e β g α u = 343
+    u β g α m = 8
+    c = 216
+    m β c α m β v α u β g α m = 512
+    e β v α m β g α f = 125
+    e β c α m β v α u β g α e = 729 
+    
+    l β v α f β g α u = ??  "
+o1-mini,216,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l β c α e β v α l β g α l = 1000
+    l β g α e = 27
+    u = 1
+    u β v α l β g α l = 64
+    u β c α e β v α e β g α u = 343
+    u β g α m = 8
+    c = 216
+    m β c α m β v α u β g α m = 512
+    e β v α m β g α f = 125
+    e β c α m β v α u β g α e = 729 
+    
+    l β v α f β g α u = ??  "
+o1-mini,175,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l β c α e β v α l β g α l = 1000
+    l β g α e = 27
+    u = 1
+    u β v α l β g α l = 64
+    u β c α e β v α e β g α u = 343
+    u β g α m = 8
+    c = 216
+    m β c α m β v α u β g α m = 512
+    e β v α m β g α f = 125
+    e β c α m β v α u β g α e = 729 
+    
+    l β v α f β g α u = ??  "
+o1-mini,512,175,ngkolmpu,"Here is a puzzle based on numbers in the Ngkolmpu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l β c α e β v α l β g α l = 1000
+    l β g α e = 27
+    u = 1
+    u β v α l β g α l = 64
+    u β c α e β v α e β g α u = 343
+    u β g α m = 8
+    c = 216
+    m β c α m β v α u β g α m = 512
+    e β v α m β g α f = 125
+    e β c α m β v α u β g α e = 729 
+    
+    l β v α f β g α u = ??  "
+o1-mini,57,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v β k ζ m = 36
+    m = 4
+    m α v β k = 44
+    v β m ζ e = 77
+    v ζ k = 18
+    e α v β m = 83
+
+    v β e ζ e = ??
+
+     "
+o1-mini,238,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v β k ζ m = 36
+    m = 4
+    m α v β k = 44
+    v β m ζ e = 77
+    v ζ k = 18
+    e α v β m = 83
+
+    v β e ζ e = ??
+
+     "
+o1-mini,43,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v β k ζ m = 36
+    m = 4
+    m α v β k = 44
+    v β m ζ e = 77
+    v ζ k = 18
+    e α v β m = 83
+
+    v β e ζ e = ??
+
+     "
+o1-mini,116,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v β k ζ m = 36
+    m = 4
+    m α v β k = 44
+    v β m ζ e = 77
+    v ζ k = 18
+    e α v β m = 83
+
+    v β e ζ e = ??
+
+     "
+o1-mini,221,57,yoruba,"Here is a puzzle based on numbers in the Yoruba language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    k = 2 
+    v β k ζ m = 36
+    m = 4
+    m α v β k = 44
+    v β m ζ e = 77
+    v ζ k = 18
+    e α v β m = 83
+
+    v β e ζ e = ??
+
+     "
+o1-mini,25,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u α f α m = 36
+    g β u α y = 49
+    y = 9
+    z β u α e = 81
+    d β u α z = 64
+    u α s = 25
+    f α m = 16
+    z = 4 
+    e = 1
+
+    s β u α d = ??
+     "
+o1-mini,49,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u α f α m = 36
+    g β u α y = 49
+    y = 9
+    z β u α e = 81
+    d β u α z = 64
+    u α s = 25
+    f α m = 16
+    z = 4 
+    e = 1
+
+    s β u α d = ??
+     "
+o1-mini,36,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u α f α m = 36
+    g β u α y = 49
+    y = 9
+    z β u α e = 81
+    d β u α z = 64
+    u α s = 25
+    f α m = 16
+    z = 4 
+    e = 1
+
+    s β u α d = ??
+     "
+o1-mini,36,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u α f α m = 36
+    g β u α y = 49
+    y = 9
+    z β u α e = 81
+    d β u α z = 64
+    u α s = 25
+    f α m = 16
+    z = 4 
+    e = 1
+
+    s β u α d = ??
+     "
+o1-mini,100,103,georgian,"Here is a puzzle based on numbers in the Georgian language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    u α f α m = 36
+    g β u α y = 49
+    y = 9
+    z β u α e = 81
+    d β u α z = 64
+    u α s = 25
+    f α m = 16
+    z = 4 
+    e = 1
+
+    s β u α d = ??
+     "
+o1-mini,29,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k β o α k = 9 
+    k β o α l = 13
+    w β o α k = 17
+    w β o α d = 20
+    b β o α w = 26
+    b β o α t = 30
+    d β o α b = 35
+
+    b β o α l = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k β o α k = 9 
+    k β o α l = 13
+    w β o α k = 17
+    w β o α d = 20
+    b β o α w = 26
+    b β o α t = 30
+    d β o α b = 35
+
+    b β o α l = ?? 
+
+     "
+o1-mini,22,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k β o α k = 9 
+    k β o α l = 13
+    w β o α k = 17
+    w β o α d = 20
+    b β o α w = 26
+    b β o α t = 30
+    d β o α b = 35
+
+    b β o α l = ?? 
+
+     "
+o1-mini,34,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k β o α k = 9 
+    k β o α l = 13
+    w β o α k = 17
+    w β o α d = 20
+    b β o α w = 26
+    b β o α t = 30
+    d β o α b = 35
+
+    b β o α l = ?? 
+
+     "
+o1-mini,28,29,northern-pame,"Here is a puzzle based on numbers in the Northern-pame language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    k β o α k = 9 
+    k β o α l = 13
+    w β o α k = 17
+    w β o α d = 20
+    b β o α w = 26
+    b β o α t = 30
+    d β o α b = 35
+
+    b β o α l = ?? 
+
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w β (q α v) α q α v = 294
+    w β (w α v) α q α u = 492
+    w β (w β u) α j α e = 816
+    w β (j α u) α j α u = 357
+    w β (w α e) α j α y = 438
+    w β (q α y) α j α e = 276
+
+    w β (w α u) α q α e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w β (q α v) α q α v = 294
+    w β (w α v) α q α u = 492
+    w β (w β u) α j α e = 816
+    w β (j α u) α j α u = 357
+    w β (w α e) α j α y = 438
+    w β (q α y) α j α e = 276
+
+    w β (w α u) α q α e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w β (q α v) α q α v = 294
+    w β (w α v) α q α u = 492
+    w β (w β u) α j α e = 816
+    w β (j α u) α j α u = 357
+    w β (w α e) α j α y = 438
+    w β (q α y) α j α e = 276
+
+    w β (w α u) α q α e = ?? 
+     "
+o1-mini,612,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w β (q α v) α q α v = 294
+    w β (w α v) α q α u = 492
+    w β (w β u) α j α e = 816
+    w β (j α u) α j α u = 357
+    w β (w α e) α j α y = 438
+    w β (q α y) α j α e = 276
+
+    w β (w α u) α q α e = ?? 
+     "
+o1-mini,451,451,yup'ik,"Here is a puzzle based on numbers in the Yup'ik language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w β (q α v) α q α v = 294
+    w β (w α v) α q α u = 492
+    w β (w β u) α j α e = 816
+    w β (j α u) α j α u = 357
+    w β (w α e) α j α y = 438
+    w β (q α y) α j α e = 276
+
+    w β (w α u) α q α e = ?? 
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d β q) α d α a = 31
+    (d β q) α d α b = 26
+    (d β q) α d α j = 36
+    (u β q) α u α b = 89
+    (x β q) α x α a = 73
+    (x β q) α (x β v) = 75
+    (x β q) α x α j = 78
+    (p β q) α p = 42
+    (p β q) α p α a = 52
+    (p β q) α (p β v) = 50
+
+    (u β q) α u α a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d β q) α d α a = 31
+    (d β q) α d α b = 26
+    (d β q) α d α j = 36
+    (u β q) α u α b = 89
+    (x β q) α x α a = 73
+    (x β q) α (x β v) = 75
+    (x β q) α x α j = 78
+    (p β q) α p = 42
+    (p β q) α p α a = 52
+    (p β q) α (p β v) = 50
+
+    (u β q) α u α a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d β q) α d α a = 31
+    (d β q) α d α b = 26
+    (d β q) α d α j = 36
+    (u β q) α u α b = 89
+    (x β q) α x α a = 73
+    (x β q) α (x β v) = 75
+    (x β q) α x α j = 78
+    (p β q) α p = 42
+    (p β q) α p α a = 52
+    (p β q) α (p β v) = 50
+
+    (u β q) α u α a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d β q) α d α a = 31
+    (d β q) α d α b = 26
+    (d β q) α d α j = 36
+    (u β q) α u α b = 89
+    (x β q) α x α a = 73
+    (x β q) α (x β v) = 75
+    (x β q) α x α j = 78
+    (p β q) α p = 42
+    (p β q) α p α a = 52
+    (p β q) α (p β v) = 50
+
+    (u β q) α u α a = ??
+     "
+o1-mini,94,94,drehu,"Here is a puzzle based on numbers in the Drehu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (d β q) α d α a = 31
+    (d β q) α d α b = 26
+    (d β q) α d α j = 36
+    (u β q) α u α b = 89
+    (x β q) α x α a = 73
+    (x β q) α (x β v) = 75
+    (x β q) α x α j = 78
+    (p β q) α p = 42
+    (p β q) α p α a = 52
+    (p β q) α (p β v) = 50
+
+    (u β q) α u α a = ??
+     "
+o1-mini,81,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h β m α l = 16
+    a β m α h α r = 81
+    a α h β m α w = 49
+    a α k α h α l = 64
+    a β m α k α h α l = 100
+    k α h α w = 25
+    h α r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a β r α r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h β m α l = 16
+    a β m α h α r = 81
+    a α h β m α w = 49
+    a α k α h α l = 64
+    a β m α k α h α l = 100
+    k α h α w = 25
+    h α r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a β r α r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h β m α l = 16
+    a β m α h α r = 81
+    a α h β m α w = 49
+    a α k α h α l = 64
+    a β m α k α h α l = 100
+    k α h α w = 25
+    h α r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a β r α r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h β m α l = 16
+    a β m α h α r = 81
+    a α h β m α w = 49
+    a α k α h α l = 64
+    a β m α k α h α l = 100
+    k α h α w = 25
+    h α r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a β r α r = ?? 
+     "
+o1-mini,111,111,ndom,"Here is a puzzle based on numbers in the Ndom language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    h β m α l = 16
+    a β m α h α r = 81
+    a α h β m α w = 49
+    a α k α h α l = 64
+    a β m α k α h α l = 100
+    k α h α w = 25
+    h α r = 9
+    l = 4
+    w = 1
+    a = 36
+
+    a β r α r = ?? 
+     "
+o1-mini,182,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w ζ k α n = 10 
+    a ζ k α y = 15
+    t = 20
+    l ζ k α g = 21
+    s ζ k α y = 27
+    e ζ k α n = 30
+    l α (w ζ k α y) = 35
+    l α a = 40
+    l β n = 48
+    l α (s ζ k α n) = 50
+    l β n α (l ζ k α g) = 69
+    l β n α (e ζ k α y) = 79
+    l β y α (s ζ k α g) = 97
+
+    g < y
+
+    l β y α (a ζ k α n) = ??
+
+     "
+o1-mini,89,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w ζ k α n = 10 
+    a ζ k α y = 15
+    t = 20
+    l ζ k α g = 21
+    s ζ k α y = 27
+    e ζ k α n = 30
+    l α (w ζ k α y) = 35
+    l α a = 40
+    l β n = 48
+    l α (s ζ k α n) = 50
+    l β n α (l ζ k α g) = 69
+    l β n α (e ζ k α y) = 79
+    l β y α (s ζ k α g) = 97
+
+    g < y
+
+    l β y α (a ζ k α n) = ??
+
+     "
+o1-mini,74,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w ζ k α n = 10 
+    a ζ k α y = 15
+    t = 20
+    l ζ k α g = 21
+    s ζ k α y = 27
+    e ζ k α n = 30
+    l α (w ζ k α y) = 35
+    l α a = 40
+    l β n = 48
+    l α (s ζ k α n) = 50
+    l β n α (l ζ k α g) = 69
+    l β n α (e ζ k α y) = 79
+    l β y α (s ζ k α g) = 97
+
+    g < y
+
+    l β y α (a ζ k α n) = ??
+
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w ζ k α n = 10 
+    a ζ k α y = 15
+    t = 20
+    l ζ k α g = 21
+    s ζ k α y = 27
+    e ζ k α n = 30
+    l α (w ζ k α y) = 35
+    l α a = 40
+    l β n = 48
+    l α (s ζ k α n) = 50
+    l β n α (l ζ k α g) = 69
+    l β n α (e ζ k α y) = 79
+    l β y α (s ζ k α g) = 97
+
+    g < y
+
+    l β y α (a ζ k α n) = ??
+
+     "
+o1-mini,63,86,umbu-ungu,"Here is a puzzle based on numbers in the Umbu-ungu language. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    w ζ k α n = 10 
+    a ζ k α y = 15
+    t = 20
+    l ζ k α g = 21
+    s ζ k α y = 27
+    e ζ k α n = 30
+    l α (w ζ k α y) = 35
+    l α a = 40
+    l β n = 48
+    l α (s ζ k α n) = 50
+    l β n α (l ζ k α g) = 69
+    l β n α (e ζ k α y) = 79
+    l β y α (s ζ k α g) = 97
+
+    g < y
+
+    l β y α (a ζ k α n) = ??
+
+     "

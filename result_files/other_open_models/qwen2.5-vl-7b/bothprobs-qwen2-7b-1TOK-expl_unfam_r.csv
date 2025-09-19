@@ -1,0 +1,866 @@
+Model,Response,Correct Response,Language,Prompt
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c xebrut c xebrut c xebrut c xebrut c xebrut c = (x xebrut o) x 2
+    o ^ 2 xebrut c ^ 2 = x
+    (x xebrut o) ^ 2 = (c xebrut c) x (x xebrut c xebrut c)
+    c x x = m
+
+    c xebrut o = ?? "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c xebrut c xebrut c xebrut c xebrut c xebrut c = (x xebrut o) x 2
+    o ^ 2 xebrut c ^ 2 = x
+    (x xebrut o) ^ 2 = (c xebrut c) x (x xebrut c xebrut c)
+    c x x = m
+
+    c xebrut o = ?? "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c xebrut c xebrut c xebrut c xebrut c xebrut c = (x xebrut o) x 2
+    o ^ 2 xebrut c ^ 2 = x
+    (x xebrut o) ^ 2 = (c xebrut c) x (x xebrut c xebrut c)
+    c x x = m
+
+    c xebrut o = ?? "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c xebrut c xebrut c xebrut c xebrut c xebrut c = (x xebrut o) x 2
+    o ^ 2 xebrut c ^ 2 = x
+    (x xebrut o) ^ 2 = (c xebrut c) x (x xebrut c xebrut c)
+    c x x = m
+
+    c xebrut o = ?? "
+qwen-2-7b-vl-instruct,10,3,waorani,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    c xebrut c xebrut c xebrut c xebrut c xebrut c = (x xebrut o) x 2
+    o ^ 2 xebrut c ^ 2 = x
+    (x xebrut o) ^ 2 = (c xebrut c) x (x xebrut c xebrut c)
+    c x x = m
+
+    c xebrut o = ?? "
+qwen-2-7b-vl-instruct,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s hibcat z xebrut v) xebrut (v hibcat z xebrut v) = g hibcat z xebrut i
+    s xebrut (s hibcat z xebrut s) = g hibcat z xebrut v
+    (v hibcat z xebrut i) xebrut v = v hibcat z xebrut s
+    s hibcat g = i hibcat z xebrut i
+    (v hibcat z xebrut s) xebrut (i hibcat z xebrut s) = g hibcat z xebrut v 
+    
+
+    s hibcat z xebrut i = ?? "
+qwen-2-7b-vl-instruct,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s hibcat z xebrut v) xebrut (v hibcat z xebrut v) = g hibcat z xebrut i
+    s xebrut (s hibcat z xebrut s) = g hibcat z xebrut v
+    (v hibcat z xebrut i) xebrut v = v hibcat z xebrut s
+    s hibcat g = i hibcat z xebrut i
+    (v hibcat z xebrut s) xebrut (i hibcat z xebrut s) = g hibcat z xebrut v 
+    
+
+    s hibcat z xebrut i = ?? "
+qwen-2-7b-vl-instruct,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s hibcat z xebrut v) xebrut (v hibcat z xebrut v) = g hibcat z xebrut i
+    s xebrut (s hibcat z xebrut s) = g hibcat z xebrut v
+    (v hibcat z xebrut i) xebrut v = v hibcat z xebrut s
+    s hibcat g = i hibcat z xebrut i
+    (v hibcat z xebrut s) xebrut (i hibcat z xebrut s) = g hibcat z xebrut v 
+    
+
+    s hibcat z xebrut i = ?? "
+qwen-2-7b-vl-instruct,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s hibcat z xebrut v) xebrut (v hibcat z xebrut v) = g hibcat z xebrut i
+    s xebrut (s hibcat z xebrut s) = g hibcat z xebrut v
+    (v hibcat z xebrut i) xebrut v = v hibcat z xebrut s
+    s hibcat g = i hibcat z xebrut i
+    (v hibcat z xebrut s) xebrut (i hibcat z xebrut s) = g hibcat z xebrut v 
+    
+
+    s hibcat z xebrut i = ?? "
+qwen-2-7b-vl-instruct,1,17,gumatj,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+    (s hibcat z xebrut v) xebrut (v hibcat z xebrut v) = g hibcat z xebrut i
+    s xebrut (s hibcat z xebrut s) = g hibcat z xebrut v
+    (v hibcat z xebrut i) xebrut v = v hibcat z xebrut s
+    s hibcat g = i hibcat z xebrut i
+    (v hibcat z xebrut s) xebrut (i hibcat z xebrut s) = g hibcat z xebrut v 
+    
+
+    s hibcat z xebrut i = ?? "
+qwen-2-7b-vl-instruct,"1
+
+The answer to this puzzle is 1.
+
+To arrive at this solution, we need to use some algebraic manipulation based on the given equations:
+
+Let's start by assigning variables for each letter:
+- Let \(a\) represent 'z'
+- Let 'b' represent 'hibcat'
+- 'c' represents 'j'
+- d represents 'x'
+- e represents 'y'
+- f represents 'u'
+
+Now let's rewrite all the equations using these new symbols:
+
+Equation",175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat j xebrut y hibcat x xebrut z hibcat u xebrut z = 1000
+    z hibcat u xebrut y = 27
+    f = 1
+    f hibcat x xebrut z hibcat u xebrut z = 64
+    f hibcat j xebrut y hibcat x xebrut y hibcat u xebrut f = 343
+    f hibcat u xebrut b = 8
+    j = 216
+    b hibcat j xebrut b hibcat x xebrut f hibcat u xebrut b = 512
+    y hibcat x xebrut b hibcat u xebrut o = 125
+    y hibcat j xebrut b hibcat x xebrut f hibcat u xebrut y = 729 
+    
+    z hibcat x xebrut o hibcat u xebrut f = ??  "
+qwen-2-7b-vl-instruct,"1
+
+The answer to this puzzle is 1.
+
+To arrive at this solution, we need to use some algebraic manipulation based on the given equations:
+
+Let's start by assigning variables for each letter:
+- Let \(a\) represent 'z'
+- Let 'b' represent 'hibcat'
+- 'c' represents 'j'
+- d represents 'x'
+- e represents 'y'
+- f represents 'u'
+
+Now let's rewrite all the equations using these new symbols:
+
+Equation",175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat j xebrut y hibcat x xebrut z hibcat u xebrut z = 1000
+    z hibcat u xebrut y = 27
+    f = 1
+    f hibcat x xebrut z hibcat u xebrut z = 64
+    f hibcat j xebrut y hibcat x xebrut y hibcat u xebrut f = 343
+    f hibcat u xebrut b = 8
+    j = 216
+    b hibcat j xebrut b hibcat x xebrut f hibcat u xebrut b = 512
+    y hibcat x xebrut b hibcat u xebrut o = 125
+    y hibcat j xebrut b hibcat x xebrut f hibcat u xebrut y = 729 
+    
+    z hibcat x xebrut o hibcat u xebrut f = ??  "
+qwen-2-7b-vl-instruct,"1
+
+The answer to this puzzle is 1.
+
+To arrive at this solution, we need to use some algebraic manipulation based on the given equations:
+
+Let's start by assigning variables for each letter:
+- Let \(a\) represent 'z'
+- Let 'b' represent 'hibcat'
+- 'c' represents 'j'
+- d represents 'x'
+- e represents 'y'
+- f represents 'u'
+
+Now let's rewrite all the equations using these new symbols:
+
+Equation",175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat j xebrut y hibcat x xebrut z hibcat u xebrut z = 1000
+    z hibcat u xebrut y = 27
+    f = 1
+    f hibcat x xebrut z hibcat u xebrut z = 64
+    f hibcat j xebrut y hibcat x xebrut y hibcat u xebrut f = 343
+    f hibcat u xebrut b = 8
+    j = 216
+    b hibcat j xebrut b hibcat x xebrut f hibcat u xebrut b = 512
+    y hibcat x xebrut b hibcat u xebrut o = 125
+    y hibcat j xebrut b hibcat x xebrut f hibcat u xebrut y = 729 
+    
+    z hibcat x xebrut o hibcat u xebrut f = ??  "
+qwen-2-7b-vl-instruct,"1
+
+The answer to this puzzle is 1.
+
+To arrive at this solution, we need to use some algebraic manipulation based on the given equations:
+
+Let's start by assigning variables for each letter:
+- Let \(a\) represent 'z'
+- Let 'b' represent 'hibcat'
+- 'c' represents 'j'
+- d represents 'x'
+- e represents 'y'
+- f represents 'u'
+
+Now let's rewrite all the equations using these new symbols:
+
+Equation",175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat j xebrut y hibcat x xebrut z hibcat u xebrut z = 1000
+    z hibcat u xebrut y = 27
+    f = 1
+    f hibcat x xebrut z hibcat u xebrut z = 64
+    f hibcat j xebrut y hibcat x xebrut y hibcat u xebrut f = 343
+    f hibcat u xebrut b = 8
+    j = 216
+    b hibcat j xebrut b hibcat x xebrut f hibcat u xebrut b = 512
+    y hibcat x xebrut b hibcat u xebrut o = 125
+    y hibcat j xebrut b hibcat x xebrut f hibcat u xebrut y = 729 
+    
+    z hibcat x xebrut o hibcat u xebrut f = ??  "
+qwen-2-7b-vl-instruct,"1
+
+The answer to this puzzle is 1.
+
+To arrive at this solution, we need to use some algebraic manipulation based on the given equations:
+
+Let's start by assigning variables for each letter:
+- Let \(a\) represent 'z'
+- Let 'b' represent 'hibcat'
+- 'c' represents 'j'
+- d represents 'x'
+- e represents 'y'
+- f represents 'u'
+
+Now let's rewrite all the equations using these new symbols:
+
+Equation",175,ngkolmpu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    z hibcat j xebrut y hibcat x xebrut z hibcat u xebrut z = 1000
+    z hibcat u xebrut y = 27
+    f = 1
+    f hibcat x xebrut z hibcat u xebrut z = 64
+    f hibcat j xebrut y hibcat x xebrut y hibcat u xebrut f = 343
+    f hibcat u xebrut b = 8
+    j = 216
+    b hibcat j xebrut b hibcat x xebrut f hibcat u xebrut b = 512
+    y hibcat x xebrut b hibcat u xebrut o = 125
+    y hibcat j xebrut b hibcat x xebrut f hibcat u xebrut y = 729 
+    
+    z hibcat x xebrut o hibcat u xebrut f = ??  "
+qwen-2-7b-vl-instruct,90,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o hibcat d nikoot q = 36
+    q = 4
+    q xebrut o hibcat d = 44
+    o hibcat q nikoot f = 77
+    o nikoot d = 18
+    f xebrut o hibcat q = 83
+
+    o hibcat f nikoot f = ??
+
+     "
+qwen-2-7b-vl-instruct,90,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o hibcat d nikoot q = 36
+    q = 4
+    q xebrut o hibcat d = 44
+    o hibcat q nikoot f = 77
+    o nikoot d = 18
+    f xebrut o hibcat q = 83
+
+    o hibcat f nikoot f = ??
+
+     "
+qwen-2-7b-vl-instruct,90,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o hibcat d nikoot q = 36
+    q = 4
+    q xebrut o hibcat d = 44
+    o hibcat q nikoot f = 77
+    o nikoot d = 18
+    f xebrut o hibcat q = 83
+
+    o hibcat f nikoot f = ??
+
+     "
+qwen-2-7b-vl-instruct,90,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o hibcat d nikoot q = 36
+    q = 4
+    q xebrut o hibcat d = 44
+    o hibcat q nikoot f = 77
+    o nikoot d = 18
+    f xebrut o hibcat q = 83
+
+    o hibcat f nikoot f = ??
+
+     "
+qwen-2-7b-vl-instruct,90,57,yoruba,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+         
+
+    d = 2 
+    o hibcat d nikoot q = 36
+    q = 4
+    q xebrut o hibcat d = 44
+    o hibcat q nikoot f = 77
+    o nikoot d = 18
+    f xebrut o hibcat q = 83
+
+    o hibcat f nikoot f = ??
+
+     "
+qwen-2-7b-vl-instruct,7,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l xebrut c xebrut n = 36
+    q hibcat l xebrut t = 49
+    t = 9
+    s hibcat l xebrut v = 81
+    d hibcat l xebrut s = 64
+    l xebrut k = 25
+    c xebrut n = 16
+    s = 4 
+    v = 1
+
+    k hibcat l xebrut d = ??
+     "
+qwen-2-7b-vl-instruct,7,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l xebrut c xebrut n = 36
+    q hibcat l xebrut t = 49
+    t = 9
+    s hibcat l xebrut v = 81
+    d hibcat l xebrut s = 64
+    l xebrut k = 25
+    c xebrut n = 16
+    s = 4 
+    v = 1
+
+    k hibcat l xebrut d = ??
+     "
+qwen-2-7b-vl-instruct,7,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l xebrut c xebrut n = 36
+    q hibcat l xebrut t = 49
+    t = 9
+    s hibcat l xebrut v = 81
+    d hibcat l xebrut s = 64
+    l xebrut k = 25
+    c xebrut n = 16
+    s = 4 
+    v = 1
+
+    k hibcat l xebrut d = ??
+     "
+qwen-2-7b-vl-instruct,7,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l xebrut c xebrut n = 36
+    q hibcat l xebrut t = 49
+    t = 9
+    s hibcat l xebrut v = 81
+    d hibcat l xebrut s = 64
+    l xebrut k = 25
+    c xebrut n = 16
+    s = 4 
+    v = 1
+
+    k hibcat l xebrut d = ??
+     "
+qwen-2-7b-vl-instruct,7,103,georgian,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    l xebrut c xebrut n = 36
+    q hibcat l xebrut t = 49
+    t = 9
+    s hibcat l xebrut v = 81
+    d hibcat l xebrut s = 64
+    l xebrut k = 25
+    c xebrut n = 16
+    s = 4 
+    v = 1
+
+    k hibcat l xebrut d = ??
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w hibcat c xebrut w = 9 
+    w hibcat c xebrut f = 13
+    j hibcat c xebrut w = 17
+    j hibcat c xebrut g = 20
+    z hibcat c xebrut j = 26
+    z hibcat c xebrut q = 30
+    g hibcat c xebrut z = 35
+
+    z hibcat c xebrut f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w hibcat c xebrut w = 9 
+    w hibcat c xebrut f = 13
+    j hibcat c xebrut w = 17
+    j hibcat c xebrut g = 20
+    z hibcat c xebrut j = 26
+    z hibcat c xebrut q = 30
+    g hibcat c xebrut z = 35
+
+    z hibcat c xebrut f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w hibcat c xebrut w = 9 
+    w hibcat c xebrut f = 13
+    j hibcat c xebrut w = 17
+    j hibcat c xebrut g = 20
+    z hibcat c xebrut j = 26
+    z hibcat c xebrut q = 30
+    g hibcat c xebrut z = 35
+
+    z hibcat c xebrut f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w hibcat c xebrut w = 9 
+    w hibcat c xebrut f = 13
+    j hibcat c xebrut w = 17
+    j hibcat c xebrut g = 20
+    z hibcat c xebrut j = 26
+    z hibcat c xebrut q = 30
+    g hibcat c xebrut z = 35
+
+    z hibcat c xebrut f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,48,29,northern-pame,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    w hibcat c xebrut w = 9 
+    w hibcat c xebrut f = 13
+    j hibcat c xebrut w = 17
+    j hibcat c xebrut g = 20
+    z hibcat c xebrut j = 26
+    z hibcat c xebrut q = 30
+    g hibcat c xebrut z = 35
+
+    z hibcat c xebrut f = ?? 
+
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s hibcat (e xebrut z) xebrut e xebrut z = 294
+    s hibcat (s xebrut z) xebrut e xebrut y = 492
+    s hibcat (s hibcat y) xebrut t xebrut i = 816
+    s hibcat (t xebrut y) xebrut t xebrut y = 357
+    s hibcat (s xebrut i) xebrut t xebrut f = 438
+    s hibcat (e xebrut f) xebrut t xebrut i = 276
+
+    s hibcat (s xebrut y) xebrut e xebrut i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s hibcat (e xebrut z) xebrut e xebrut z = 294
+    s hibcat (s xebrut z) xebrut e xebrut y = 492
+    s hibcat (s hibcat y) xebrut t xebrut i = 816
+    s hibcat (t xebrut y) xebrut t xebrut y = 357
+    s hibcat (s xebrut i) xebrut t xebrut f = 438
+    s hibcat (e xebrut f) xebrut t xebrut i = 276
+
+    s hibcat (s xebrut y) xebrut e xebrut i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s hibcat (e xebrut z) xebrut e xebrut z = 294
+    s hibcat (s xebrut z) xebrut e xebrut y = 492
+    s hibcat (s hibcat y) xebrut t xebrut i = 816
+    s hibcat (t xebrut y) xebrut t xebrut y = 357
+    s hibcat (s xebrut i) xebrut t xebrut f = 438
+    s hibcat (e xebrut f) xebrut t xebrut i = 276
+
+    s hibcat (s xebrut y) xebrut e xebrut i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s hibcat (e xebrut z) xebrut e xebrut z = 294
+    s hibcat (s xebrut z) xebrut e xebrut y = 492
+    s hibcat (s hibcat y) xebrut t xebrut i = 816
+    s hibcat (t xebrut y) xebrut t xebrut y = 357
+    s hibcat (s xebrut i) xebrut t xebrut f = 438
+    s hibcat (e xebrut f) xebrut t xebrut i = 276
+
+    s hibcat (s xebrut y) xebrut e xebrut i = ?? 
+     "
+qwen-2-7b-vl-instruct,108,451,yup'ik,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    s hibcat (e xebrut z) xebrut e xebrut z = 294
+    s hibcat (s xebrut z) xebrut e xebrut y = 492
+    s hibcat (s hibcat y) xebrut t xebrut i = 816
+    s hibcat (t xebrut y) xebrut t xebrut y = 357
+    s hibcat (s xebrut i) xebrut t xebrut f = 438
+    s hibcat (e xebrut f) xebrut t xebrut i = 276
+
+    s hibcat (s xebrut y) xebrut e xebrut i = ?? 
+     "
+qwen-2-7b-vl-instruct,91,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q hibcat x) xebrut q xebrut u = 31
+    (q hibcat x) xebrut q xebrut e = 26
+    (q hibcat x) xebrut q xebrut o = 36
+    (z hibcat x) xebrut z xebrut e = 89
+    (c hibcat x) xebrut c xebrut u = 73
+    (c hibcat x) xebrut (c hibcat r) = 75
+    (c hibcat x) xebrut c xebrut o = 78
+    (n hibcat x) xebrut n = 42
+    (n hibcat x) xebrut n xebrut u = 52
+    (n hibcat x) xebrut (n hibcat r) = 50
+
+    (z hibcat x) xebrut z xebrut u = ??
+     "
+qwen-2-7b-vl-instruct,91,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q hibcat x) xebrut q xebrut u = 31
+    (q hibcat x) xebrut q xebrut e = 26
+    (q hibcat x) xebrut q xebrut o = 36
+    (z hibcat x) xebrut z xebrut e = 89
+    (c hibcat x) xebrut c xebrut u = 73
+    (c hibcat x) xebrut (c hibcat r) = 75
+    (c hibcat x) xebrut c xebrut o = 78
+    (n hibcat x) xebrut n = 42
+    (n hibcat x) xebrut n xebrut u = 52
+    (n hibcat x) xebrut (n hibcat r) = 50
+
+    (z hibcat x) xebrut z xebrut u = ??
+     "
+qwen-2-7b-vl-instruct,91,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q hibcat x) xebrut q xebrut u = 31
+    (q hibcat x) xebrut q xebrut e = 26
+    (q hibcat x) xebrut q xebrut o = 36
+    (z hibcat x) xebrut z xebrut e = 89
+    (c hibcat x) xebrut c xebrut u = 73
+    (c hibcat x) xebrut (c hibcat r) = 75
+    (c hibcat x) xebrut c xebrut o = 78
+    (n hibcat x) xebrut n = 42
+    (n hibcat x) xebrut n xebrut u = 52
+    (n hibcat x) xebrut (n hibcat r) = 50
+
+    (z hibcat x) xebrut z xebrut u = ??
+     "
+qwen-2-7b-vl-instruct,91,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q hibcat x) xebrut q xebrut u = 31
+    (q hibcat x) xebrut q xebrut e = 26
+    (q hibcat x) xebrut q xebrut o = 36
+    (z hibcat x) xebrut z xebrut e = 89
+    (c hibcat x) xebrut c xebrut u = 73
+    (c hibcat x) xebrut (c hibcat r) = 75
+    (c hibcat x) xebrut c xebrut o = 78
+    (n hibcat x) xebrut n = 42
+    (n hibcat x) xebrut n xebrut u = 52
+    (n hibcat x) xebrut (n hibcat r) = 50
+
+    (z hibcat x) xebrut z xebrut u = ??
+     "
+qwen-2-7b-vl-instruct,91,94,drehu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    (q hibcat x) xebrut q xebrut u = 31
+    (q hibcat x) xebrut q xebrut e = 26
+    (q hibcat x) xebrut q xebrut o = 36
+    (z hibcat x) xebrut z xebrut e = 89
+    (c hibcat x) xebrut c xebrut u = 73
+    (c hibcat x) xebrut (c hibcat r) = 75
+    (c hibcat x) xebrut c xebrut o = 78
+    (n hibcat x) xebrut n = 42
+    (n hibcat x) xebrut n xebrut u = 52
+    (n hibcat x) xebrut (n hibcat r) = 50
+
+    (z hibcat x) xebrut z xebrut u = ??
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d hibcat x xebrut a = 16
+    k hibcat x xebrut d xebrut m = 81
+    k xebrut d hibcat x xebrut h = 49
+    k xebrut i xebrut d xebrut a = 64
+    k hibcat x xebrut i xebrut d xebrut a = 100
+    i xebrut d xebrut h = 25
+    d xebrut m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k hibcat m xebrut m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d hibcat x xebrut a = 16
+    k hibcat x xebrut d xebrut m = 81
+    k xebrut d hibcat x xebrut h = 49
+    k xebrut i xebrut d xebrut a = 64
+    k hibcat x xebrut i xebrut d xebrut a = 100
+    i xebrut d xebrut h = 25
+    d xebrut m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k hibcat m xebrut m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d hibcat x xebrut a = 16
+    k hibcat x xebrut d xebrut m = 81
+    k xebrut d hibcat x xebrut h = 49
+    k xebrut i xebrut d xebrut a = 64
+    k hibcat x xebrut i xebrut d xebrut a = 100
+    i xebrut d xebrut h = 25
+    d xebrut m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k hibcat m xebrut m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d hibcat x xebrut a = 16
+    k hibcat x xebrut d xebrut m = 81
+    k xebrut d hibcat x xebrut h = 49
+    k xebrut i xebrut d xebrut a = 64
+    k hibcat x xebrut i xebrut d xebrut a = 100
+    i xebrut d xebrut h = 25
+    d xebrut m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k hibcat m xebrut m = ?? 
+     "
+qwen-2-7b-vl-instruct,72,111,ndom,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+
+    d hibcat x xebrut a = 16
+    k hibcat x xebrut d xebrut m = 81
+    k xebrut d hibcat x xebrut h = 49
+    k xebrut i xebrut d xebrut a = 64
+    k hibcat x xebrut i xebrut d xebrut a = 100
+    i xebrut d xebrut h = 25
+    d xebrut m = 9
+    a = 4
+    h = 1
+    k = 36
+
+    k hibcat m xebrut m = ?? 
+     "
+qwen-2-7b-vl-instruct,110,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d nikoot v xebrut o = 10 
+    r nikoot v xebrut h = 15
+    b = 20
+    q nikoot v xebrut u = 21
+    j nikoot v xebrut h = 27
+    w nikoot v xebrut o = 30
+    q xebrut (d nikoot v xebrut h) = 35
+    q xebrut r = 40
+    q hibcat o = 48
+    q xebrut (j nikoot v xebrut o) = 50
+    q hibcat o xebrut (q nikoot v xebrut u) = 69
+    q hibcat o xebrut (w nikoot v xebrut h) = 79
+    q hibcat h xebrut (j nikoot v xebrut u) = 97
+
+    u < h
+
+    q hibcat h xebrut (r nikoot v xebrut o) = ??
+
+     "
+qwen-2-7b-vl-instruct,110,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d nikoot v xebrut o = 10 
+    r nikoot v xebrut h = 15
+    b = 20
+    q nikoot v xebrut u = 21
+    j nikoot v xebrut h = 27
+    w nikoot v xebrut o = 30
+    q xebrut (d nikoot v xebrut h) = 35
+    q xebrut r = 40
+    q hibcat o = 48
+    q xebrut (j nikoot v xebrut o) = 50
+    q hibcat o xebrut (q nikoot v xebrut u) = 69
+    q hibcat o xebrut (w nikoot v xebrut h) = 79
+    q hibcat h xebrut (j nikoot v xebrut u) = 97
+
+    u < h
+
+    q hibcat h xebrut (r nikoot v xebrut o) = ??
+
+     "
+qwen-2-7b-vl-instruct,110,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d nikoot v xebrut o = 10 
+    r nikoot v xebrut h = 15
+    b = 20
+    q nikoot v xebrut u = 21
+    j nikoot v xebrut h = 27
+    w nikoot v xebrut o = 30
+    q xebrut (d nikoot v xebrut h) = 35
+    q xebrut r = 40
+    q hibcat o = 48
+    q xebrut (j nikoot v xebrut o) = 50
+    q hibcat o xebrut (q nikoot v xebrut u) = 69
+    q hibcat o xebrut (w nikoot v xebrut h) = 79
+    q hibcat h xebrut (j nikoot v xebrut u) = 97
+
+    u < h
+
+    q hibcat h xebrut (r nikoot v xebrut o) = ??
+
+     "
+qwen-2-7b-vl-instruct,110,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d nikoot v xebrut o = 10 
+    r nikoot v xebrut h = 15
+    b = 20
+    q nikoot v xebrut u = 21
+    j nikoot v xebrut h = 27
+    w nikoot v xebrut o = 30
+    q xebrut (d nikoot v xebrut h) = 35
+    q xebrut r = 40
+    q hibcat o = 48
+    q xebrut (j nikoot v xebrut o) = 50
+    q hibcat o xebrut (q nikoot v xebrut u) = 69
+    q hibcat o xebrut (w nikoot v xebrut h) = 79
+    q hibcat h xebrut (j nikoot v xebrut u) = 97
+
+    u < h
+
+    q hibcat h xebrut (r nikoot v xebrut o) = ??
+
+     "
+qwen-2-7b-vl-instruct,110,86,umbu-ungu,"Here is a puzzle. Can you solve it? 
+ All numbers in the problem are positive integers. Please output only the answer, which is a positive integer, in place of the ?? and output nothing else! 
+               
+        
+    d nikoot v xebrut o = 10 
+    r nikoot v xebrut h = 15
+    b = 20
+    q nikoot v xebrut u = 21
+    j nikoot v xebrut h = 27
+    w nikoot v xebrut o = 30
+    q xebrut (d nikoot v xebrut h) = 35
+    q xebrut r = 40
+    q hibcat o = 48
+    q xebrut (j nikoot v xebrut o) = 50
+    q hibcat o xebrut (q nikoot v xebrut u) = 69
+    q hibcat o xebrut (w nikoot v xebrut h) = 79
+    q hibcat h xebrut (j nikoot v xebrut u) = 97
+
+    u < h
+
+    q hibcat h xebrut (r nikoot v xebrut o) = ??
+
+     "

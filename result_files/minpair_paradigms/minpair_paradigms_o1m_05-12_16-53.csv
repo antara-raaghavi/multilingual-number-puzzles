@@ -1,0 +1,111 @@
+Model,Prompt,Response
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = big bird
+
+AC = big fish
+
+DB = small bird
+
+DC = ??
+
+
+        ",small fish
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = fifty-one
+
+AC = fifty-seven 
+
+DB = forty-one
+
+DC = ?? 
+
+
+        ",47
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 51
+
+AC = 57
+
+DB = 41
+
+DC = ?? 
+
+
+        ",47
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 31
+
+AC = 24
+
+DB = 51
+
+DC = ??
+
+
+        ",44
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 51
+
+AC = 57
+
+DB = 41
+
+DC = ??
+
+
+        ",47
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        BA = 51
+
+CA = 57
+
+BD = 41
+
+CD= ??
+
+
+        ",47
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 27
+
+DC = 33
+
+DB = 37
+
+AC = ??
+
+
+        ",23
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 27 
+
+AC = 33
+
+DB = 37
+
+DC = ??
+
+
+        ",43
+o1-mini,"Here is a puzzle. Can you solve it? 
+ Please output only the answer (in place of the ??) and nothing else!
+        AB = 27
+
+A = 30
+
+DC = 33 
+
+DB = 37 
+
+AC = ??
+
+
+        ",23
